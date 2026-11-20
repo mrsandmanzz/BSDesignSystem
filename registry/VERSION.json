@@ -1,0 +1,13 @@
+{
+ "version": 1,
+ "date": "2026-11-20",
+ "counts": {
+  "shield": 222,
+  "gun": 385,
+  "icons": 1602,
+  "variants": 708,
+  "tokens": 9
+ },
+ "min_skill_version": 1,
+ "note": "Registry awal; variant key diekstrak 2026-11-19 dari SHIELD dan GUN"
+}

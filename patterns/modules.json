@@ -1,0 +1,7421 @@
+[
+ {
+  "page": "[INDEX]",
+  "pageId": "6386:49399",
+  "flags": [],
+  "frames": 1,
+  "kinds": {
+   "other": 1
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [],
+  "content": [],
+  "stateNames": [
+   "Page index"
+  ],
+  "examples": {
+   "other": [
+    {
+     "id": "6561:215880",
+     "name": "Page index",
+     "w": 2978,
+     "h": 3509,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6561-215880"
+    }
+   ]
+  }
+ },
+ {
+  "page": "[NEW MARKSMANSHIP SCREEN]",
+  "pageId": "9136:800792",
+  "flags": [],
+  "frames": 8,
+  "kinds": {
+   "wizard": 3,
+   "other": 1,
+   "shell": 2,
+   "overlay-modal": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    1
+   ],
+   [
+    "Sidebar-SWT | Default",
+    1
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    2
+   ],
+   [
+    "Header Nav - Ongoing Session | Program=SWT-Markmanship",
+    2
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout",
+    8
+   ],
+   [
+    "G:Section Layout - Table",
+    3
+   ],
+   [
+    "S:Box Tab Group",
+    3
+   ],
+   [
+    "S:Tab Group v2",
+    2
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ],
+   [
+    "G:Data Display - Training Result Performan",
+    2
+   ],
+   [
+    "G:Ongoing Session - Performance Chart",
+    2
+   ],
+   [
+    "G:Training Details - Booking Details",
+    2
+   ]
+  ],
+  "stateNames": [
+   "2 Review Booking - Stages",
+   "3 Booking Details Ongoing - Stages",
+   "4 Start Onboarding - Stages",
+   "5 Ongoing Session - Stage B",
+   "5a Ongoing Session - Viewing Stage A Results",
+   "5b Ongoing Session - Finish Stage B modal",
+   "6 Training Result - Per Stage",
+   "Create Booking - Marksmanship - Filled - Stage Popover"
+  ],
+  "examples": {
+   "wizard": [
+    {
+     "id": "9136:800793",
+     "name": "Create Booking - Marksmanship - Filled - Stage Pop",
+     "w": 1440,
+     "h": 1785,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9136-800793"
+    },
+    {
+     "id": "9136:852089",
+     "name": "5 Ongoing Session - Stage B",
+     "w": 1440,
+     "h": 1136,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9136-852089"
+    }
+   ],
+   "other": [
+    {
+     "id": "9136:852065",
+     "name": "2 Review Booking - Stages",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9136-852065"
+    }
+   ],
+   "shell": [
+    {
+     "id": "9136:852067",
+     "name": "3 Booking Details Ongoing - Stages",
+     "w": 1440,
+     "h": 1196,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9136-852067"
+    },
+    {
+     "id": "9136:852167",
+     "name": "6 Training Result - Per Stage",
+     "w": 1440,
+     "h": 1616,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9136-852167"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "9136:852087",
+     "name": "4 Start Onboarding - Stages",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9136-852087"
+    },
+    {
+     "id": "9144:856937",
+     "name": "5b Ongoing Session - Finish Stage B modal",
+     "w": 1440,
+     "h": 1076,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9144-856937"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Login",
+  "pageId": "5029:15330",
+  "flags": [],
+  "frames": 5,
+  "kinds": {
+   "shell": 1,
+   "other": 4
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    1
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    1
+   ]
+  ],
+  "content": [
+   [
+    "S:Input",
+    8
+   ],
+   [
+    "S:Input - Password",
+    4
+   ],
+   [
+    "G:Data Display - Booking",
+    2
+   ],
+   [
+    "S:Password Parameter",
+    2
+   ],
+   [
+    "G:Data Display - Booking Team",
+    1
+   ],
+   [
+    "G:Calendar Dashboard - Day",
+    1
+   ],
+   [
+    "S:Toast with Container",
+    1
+   ],
+   [
+    "S:Toast",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Login - Empty",
+   "Login - Empty Error",
+   "Login - Filled",
+   "Login - Filled Error",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:123620",
+     "name": "Toast - Success",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-123620"
+    }
+   ],
+   "other": [
+    {
+     "id": "5092:128837",
+     "name": "Login - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5092-128837"
+    },
+    {
+     "id": "5161:185956",
+     "name": "Login - Filled",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5161-185956"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Dashboard",
+  "pageId": "5004:113424",
+  "flags": [],
+  "frames": 24,
+  "kinds": {
+   "shell": 19,
+   "other": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    19
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    19
+   ]
+  ],
+  "content": [
+   [
+    "G:Data Display - Booking",
+    38
+   ],
+   [
+    "G:Data Display - Booking Team",
+    19
+   ],
+   [
+    "S:Search Item-List",
+    13
+   ],
+   [
+    "S:Search Item-Header",
+    8
+   ],
+   [
+    "G:Calendar Dashboard - Day",
+    7
+   ],
+   [
+    "G:Calendar Dashboard - Range",
+    6
+   ],
+   [
+    "G:Calendar Dashboard - Week",
+    4
+   ],
+   [
+    "G:Calendar Dashboard - Month",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Dashboard - Empty",
+   "Dashboard - Filled",
+   "Dashboard - Filled - All Completed",
+   "Dashboard - Hover",
+   "Dashboard - Tab Inactive",
+   "Dropdown - Date Picker Empty",
+   "Dropdown - Date Picker Filled",
+   "Search No Result",
+   "Search Result",
+   "Search Result List - SWT"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:16153",
+     "name": "Dashboard - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-16153"
+    },
+    {
+     "id": "5654:75643",
+     "name": "Dashboard - Filled",
+     "w": 1440,
+     "h": 1000,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5654-75643"
+    }
+   ],
+   "other": [
+    {
+     "id": "5029:16190",
+     "name": "Search Result List - SWT",
+     "w": 420,
+     "h": 1179,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-16190"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Notifications",
+  "pageId": "5029:24085",
+  "flags": [],
+  "frames": 11,
+  "kinds": {
+   "shell": 10
+  },
+  "rail": "Default",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    10
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    10
+   ]
+  ],
+  "content": [
+   [
+    "S:Notifications List",
+    38
+   ],
+   [
+    "G:Section Layout - Table",
+    10
+   ],
+   [
+    "S:Tab Group v2",
+    10
+   ],
+   [
+    "G:Empty State - Business Components",
+    3
+   ]
+  ],
+  "stateNames": [
+   "Dropdown - Filter Program",
+   "Notifications",
+   "Notifications - Empty State",
+   "Notifications - Mark All as Read",
+   "Notifications/Search No Result",
+   "Notifications/Search Result",
+   "Select Date",
+   "Select Date - Applied",
+   "Select Date - Applied Empty Result",
+   "Select Date - Selected"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:24342",
+     "name": "Notifications - Empty State",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-24342"
+    },
+    {
+     "id": "5029:24364",
+     "name": "Notifications",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-24364"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Today's Booking",
+  "pageId": "5029:21093",
+  "flags": [],
+  "frames": 17,
+  "kinds": {
+   "shell": 10,
+   "overlay-drawer": 1,
+   "other": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    10
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    10
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    10
+   ],
+   [
+    "S:Advanced Tab Group",
+    10
+   ],
+   [
+    "G:Table - Today's Booking - Bookings",
+    2
+   ],
+   [
+    "G:Table - Today's Booking - Group Bookings",
+    2
+   ],
+   [
+    "G:Table - Today's Booking - Individual Boo",
+    2
+   ],
+   [
+    "G:Table - Today's Booking - Assignment",
+    2
+   ],
+   [
+    "G:Table - Today's Booking - Bookings By St",
+    2
+   ],
+   [
+    "S:Drawer Right",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Drawer - Booking Details",
+   "Issue Asset",
+   "List",
+   "List - Empty"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "6315:27803",
+     "name": "List",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6315-27803"
+    },
+    {
+     "id": "6315:35347",
+     "name": "List",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6315-35347"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "6761:61157",
+     "name": "Drawer - Booking Details",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6761-61157"
+    }
+   ],
+   "other": [
+    {
+     "id": "6214:177563",
+     "name": "Issue Asset",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6214-177563"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking List",
+  "pageId": "5029:28299",
+  "flags": [],
+  "frames": 52,
+  "kinds": {
+   "shell": 42,
+   "overlay-drawer": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    42
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    42
+   ]
+  ],
+  "content": [
+   [
+    "G:Table - Booking List",
+    22
+   ],
+   [
+    "G:Section Layout - Table",
+    21
+   ],
+   [
+    "S:Tab Group v2",
+    21
+   ],
+   [
+    "G:Calendar Booking List - Day New",
+    9
+   ],
+   [
+    "G:Table - Fixed Column",
+    7
+   ],
+   [
+    "G:Calendar Booking List - Month SWT",
+    6
+   ],
+   [
+    "G:Calendar Booking List - Week New",
+    6
+   ],
+   [
+    "S:Drawer Right",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Calendar - Day - Empty",
+   "Calendar - Day - Filled",
+   "Calendar - Day - Filled No Full Day",
+   "Calendar - Day - Filled Overflow",
+   "Calendar - Day - Hover",
+   "Calendar - Month - Empty",
+   "Calendar - Month - Filled",
+   "Calendar - Month - Hover",
+   "Calendar - Week - Empty",
+   "Calendar - Week - Filled",
+   "Calendar - Week - Hover",
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "Dropdown - Column",
+   "Hover - Assignment ID",
+   "Hover - Booking Time Multiple Courseware",
+   "Hover - Multiple Courseware",
+   "Hover - Weapon",
+   "List",
+   "List - Empty",
+   "List - Filter Applied",
+   "List - Full Table",
+   "Search - Empty Result",
+   "Search - Filled",
+   "Status Completed",
+   "Status Ongoing",
+   "Status Return Assets - Assignment Pending Return",
+   "Status Return Assets - Assignment Return Asset",
+   "Status Upcoming",
+   "Status Upcoming - Asset Issue - Today",
+   "Status Upcoming - Asset Issued"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:29980",
+     "name": "List",
+     "w": 1440,
+     "h": 1027,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-29980"
+    },
+    {
+     "id": "5635:84476",
+     "name": "Status Upcoming",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5635-84476"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5029:30097",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 1244,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-30097"
+    },
+    {
+     "id": "5029:30101",
+     "name": "Drawer - Filter - Selected",
+     "w": 1440,
+     "h": 1244,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-30101"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Step 1 - Create Booking | Token Synced VC",
+  "pageId": "5307:63942",
+  "flags": [
+   "Synced VC"
+  ],
+  "frames": 18,
+  "kinds": {
+   "wizard": 14,
+   "overlay-modal": 1
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Create Booking | Program=SWT",
+    14
+   ]
+  ],
+  "content": [
+   [
+    "G:Create Booking SWT - Step 1 - Training D",
+    14
+   ],
+   [
+    "G:Create Booking SWT - Step 1 - Station",
+    14
+   ],
+   [
+    "G:Create Booking SWT - Step 1 - Contact In",
+    14
+   ],
+   [
+    "G:Modal Confirmation - Discard",
+    1
+   ],
+   [
+    "S:Modal Confirmation",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Booking Details - Empty Error",
+   "Booking Details - Training Mode Selected - Error",
+   "Create Booking - Collective",
+   "Create Booking - Collective - Filled",
+   "Create Booking - Collective - Filled Max Station",
+   "Create Booking - Dropdown Instructor Rank",
+   "Create Booking - Empty",
+   "Create Booking - Group - Collective - Dropdown Role",
+   "Create Booking - Group - Collective - Dropdown Weapon",
+   "Create Booking - Group - Collective- Dropdown CW",
+   "Create Booking - Judgemental",
+   "Create Booking - Judgemental - Filled",
+   "Create Booking - Marksmanship",
+   "Create Booking - Marksmanship - Filled",
+   "Discard Booking"
+  ],
+  "examples": {
+   "wizard": [
+    {
+     "id": "5029:69256",
+     "name": "Create Booking - Group - Collective- Dropdown CW",
+     "w": 1440,
+     "h": 1222,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-69256"
+    },
+    {
+     "id": "5029:69282",
+     "name": "Create Booking - Group - Collective - Dropdown Wea",
+     "w": 1440,
+     "h": 1222,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-69282"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5370:16680",
+     "name": "Discard Booking",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5370-16680"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Step 2 - Schedule | Token Synced VC",
+  "pageId": "5313:13113",
+  "flags": [
+   "Synced VC"
+  ],
+  "frames": 19,
+  "kinds": {
+   "wizard": 14
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Create Booking | Program=SWT",
+    14
+   ]
+  ],
+  "content": [
+   [
+    "G:Courseware Vertical - Schedule",
+    42
+   ],
+   [
+    "G:Section Layout - Table",
+    14
+   ],
+   [
+    "G:Create Booking - Schedule Options",
+    14
+   ],
+   [
+    "S:Alert",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Dropdown - Date Slot",
+   "Dropdown - Time",
+   "Hover on Date",
+   "Schedule - Adhoc - Empty",
+   "Schedule - Adhoc - Filled",
+   "Schedule - Empty",
+   "Schedule - Empty Error",
+   "Schedule - Full Day",
+   "Schedule - Selected AM/PM Session",
+   "Schedule - Selected AM/PM Session - Completed",
+   "Schedule - Selected AM/PM Session - Insufficient",
+   "Schedule - Selected AM/PM Session Error"
+  ],
+  "examples": {
+   "wizard": [
+    {
+     "id": "5029:69716",
+     "name": "Schedule - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-69716"
+    },
+    {
+     "id": "5029:69733",
+     "name": "Schedule - Empty Error",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-69733"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Step 3 - Lane Config | Synced NC",
+  "pageId": "5313:13114",
+  "flags": [
+   "Synced NC"
+  ],
+  "frames": 58,
+  "kinds": {
+   "wizard": 20,
+   "overlay-modal": 24
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Create Booking | Program=SWT",
+    20
+   ]
+  ],
+  "content": [
+   [
+    "G:Create Booking - Lane Config Item",
+    68
+   ],
+   [
+    "G:Courseware Vertical - Lane",
+    60
+   ],
+   [
+    "G:Section Layout - Table",
+    20
+   ],
+   [
+    "S:Modal",
+    19
+   ],
+   [
+    "S:Alert",
+    9
+   ],
+   [
+    "S:Box Tab Group",
+    8
+   ],
+   [
+    "S:Input - Multiple Select",
+    6
+   ],
+   [
+    "S:Modal Confirmation",
+    5
+   ]
+  ],
+  "stateNames": [
+   "Bulk Assign - Empty Error",
+   "Bulk Assign - Role & Weapon - Empty",
+   "Bulk Assign - Role & Weapon - Empty Full",
+   "Bulk Assign - Role & Weapon - Filled",
+   "Bulk Assign - Role & Weapon Filled Error",
+   "Bulk Assign - Station Filled Error",
+   "Bulk Assign - Weapon - Empty",
+   "Bulk Assign - Weapon - Empty Full",
+   "Bulk Assign - Weapon - Filled",
+   "Bulk Assign - Weapon Filled Error",
+   "Confirmation - Replace",
+   "Confirmation - Replace Role",
+   "Confirmation - Replace Weapon",
+   "Confirmation - Replace Weapon & Role",
+   "Copy to - Default",
+   "Copy to - Empty Error",
+   "Copy to - Selected",
+   "Dropdown - Role",
+   "Dropdown - Weapon",
+   "Error State",
+   "Lane Config - 1 FS",
+   "Lane Config - 5 FS",
+   "Lane Config - 5 FS Filled",
+   "Lane Config - 5 FS Filled Half",
+   "Lane Config - C-shaped Empty",
+   "Lane Config - C-shaped Filled",
+   "Lane Config - C-shaped Half Filled",
+   "Lane Config - FS & C-Shaped",
+   "Lane Config - FS Filled",
+   "Toast - Success"
+  ],
+  "examples": {
+   "wizard": [
+    {
+     "id": "5029:69335",
+     "name": "Lane Config - 1 FS",
+     "w": 1440,
+     "h": 906,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-69335"
+    },
+    {
+     "id": "5029:69353",
+     "name": "Lane Config - C-shaped Empty",
+     "w": 1440,
+     "h": 902,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-69353"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5323:194680",
+     "name": "Copy to - Default",
+     "w": 1456,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5323-194680"
+    },
+    {
+     "id": "5439:75149",
+     "name": "Copy to - Empty Error",
+     "w": 1456,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5439-75149"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Step 4 - Nominal Roll | Synced NC",
+  "pageId": "5313:13115",
+  "flags": [
+   "Synced NC"
+  ],
+  "frames": 69,
+  "kinds": {
+   "wizard": 17,
+   "overlay-modal": 2,
+   "overlay-drawer": 18,
+   "other": 16
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Create Booking | Program=SWT",
+    17
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    34
+   ],
+   [
+    "S:Drawer Right",
+    18
+   ],
+   [
+    "S:Tab Group v2",
+    17
+   ],
+   [
+    "S:Modal",
+    16
+   ],
+   [
+    "G:Add Trainee SWT",
+    12
+   ],
+   [
+    "G:Modal - SWT - Import Nominal Roll (Multi",
+    10
+   ],
+   [
+    "G:Modal - SWT - Import Nominal Roll (Singl",
+    6
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Assign - Empty",
+   "Assign - Empty Error",
+   "Assign - Filled",
+   "Confirmation",
+   "Dropdown - Rank",
+   "Dropdown - Role",
+   "Dropdown - Weapon Type",
+   "Edit",
+   "Error - Duplicated NRIC with the Roll List",
+   "Error - File Error",
+   "Import List - Separate",
+   "Import List - Separate - Filled",
+   "Import List - Shared",
+   "Import List - Shared - Filled",
+   "Nominal Roll - Empty",
+   "Nominal Roll - List Filled",
+   "Nominal Roll - Weapon Filled",
+   "Toast - Success"
+  ],
+  "examples": {
+   "wizard": [
+    {
+     "id": "5323:207420",
+     "name": "Nominal Roll - Empty",
+     "w": 1440,
+     "h": 902,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5323-207420"
+    },
+    {
+     "id": "5323:207445",
+     "name": "Nominal Roll - Weapon Filled",
+     "w": 1440,
+     "h": 1041,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5323-207445"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5328:283375",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5328-283375"
+    },
+    {
+     "id": "5328:255358",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5328-255358"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5328:283451",
+     "name": "Assign - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5328-283451"
+    },
+    {
+     "id": "5430:290029",
+     "name": "Assign - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5430-290029"
+    }
+   ],
+   "other": [
+    {
+     "id": "9246:33711",
+     "name": "Import List - Separate - Filled",
+     "w": 1440,
+     "h": 971,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9246-33711"
+    },
+    {
+     "id": "9246:33713",
+     "name": "Import List - Separate - Filled",
+     "w": 1440,
+     "h": 971,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9246-33713"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Step 5 - Review Booking",
+  "pageId": "6183:504759",
+  "flags": [],
+  "frames": 9,
+  "kinds": {
+   "other": 5,
+   "shell": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    1
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    1
+   ]
+  ],
+  "content": [
+   [
+    "S:Listbox Item/Single Item New",
+    7
+   ],
+   [
+    "G:Create Booking - Review Booking - SWT",
+    5
+   ],
+   [
+    "S:Modal",
+    5
+   ],
+   [
+    "G:Dropdown - User with NRIC",
+    1
+   ],
+   [
+    "S:Listbox New",
+    1
+   ],
+   [
+    "G:Section Layout - Table",
+    1
+   ],
+   [
+    "S:Tab Group v2",
+    1
+   ],
+   [
+    "G:Table - Booking List",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Hover - Nominal Roll",
+   "Review Booking - Collective - CW 1",
+   "Review Booking - Collective - CW >1",
+   "Review Booking - Judgemental - CW >1",
+   "Review Booking - Marksmanship - CW >1",
+   "Toast - Booking Created"
+  ],
+  "examples": {
+   "other": [
+    {
+     "id": "6183:504764",
+     "name": "Review Booking - Collective - CW 1",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6183-504764"
+    },
+    {
+     "id": "6183:504766",
+     "name": "Review Booking - Collective - CW >1",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6183-504766"
+    }
+   ],
+   "shell": [
+    {
+     "id": "6183:504775",
+     "name": "Toast - Booking Created",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6183-504775"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Create Booking: Individual ❌",
+  "pageId": "5029:56969",
+  "flags": [
+   "❌"
+  ],
+  "frames": 15,
+  "kinds": {
+   "wizard": 13,
+   "other": 1,
+   "shell": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    1
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav - Create Booking | Program=SWT",
+    13
+   ],
+   [
+    "Header Nav | Breadcrumb=1",
+    1
+   ]
+  ],
+  "content": [
+   [
+    "G:Create Booking - Schedule Options - Indi",
+    5
+   ],
+   [
+    "G:Create Booking SWT - Step 1 - Training D",
+    4
+   ],
+   [
+    "G:Create Booking SWT - Step 1 - Station",
+    4
+   ],
+   [
+    "G:Create Booking SWT - Step 1 - Contact In",
+    4
+   ],
+   [
+    "G:Create Booking SWT - Trainee Info",
+    4
+   ],
+   [
+    "G:Create Booking - Review Booking - Indivi",
+    1
+   ],
+   [
+    "S:Modal",
+    1
+   ],
+   [
+    "G:Section Layout - Table",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Confirm Booking - Modal",
+   "Create Booking - Individual - Dropdown CW",
+   "Create Booking - Individual - Dropdown Rank",
+   "Create Booking - Individual - Dropdown Weapon",
+   "Create Booking - Individual - Empty",
+   "Create Booking - Individual - Empty Error",
+   "Create Booking - Individual - Filled",
+   "Dropdown - Date Slot",
+   "Schedule - Date Selected",
+   "Schedule - Empty",
+   "Schedule - Empty Error",
+   "Schedule - Filled",
+   "Toast - Booking Created"
+  ],
+  "examples": {
+   "wizard": [
+    {
+     "id": "5029:59666",
+     "name": "Create Booking - Individual - Empty",
+     "w": 1440,
+     "h": 1248,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-59666"
+    },
+    {
+     "id": "5029:59678",
+     "name": "Create Booking - Individual - Dropdown CW",
+     "w": 1440,
+     "h": 1196,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-59678"
+    }
+   ],
+   "other": [
+    {
+     "id": "5029:59747",
+     "name": "Confirm Booking - Modal",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-59747"
+    }
+   ],
+   "shell": [
+    {
+     "id": "5029:59752",
+     "name": "Toast - Booking Created",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-59752"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Upcoming",
+  "pageId": "5029:40418",
+  "flags": [],
+  "frames": 66,
+  "kinds": {
+   "shell": 33,
+   "other": 8,
+   "wizard": 4,
+   "overlay-modal": 2,
+   "overlay-drawer": 4
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    33
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    33
+   ],
+   [
+    "Header Nav - Edit Schedule | Program=SWT-Collective",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    48
+   ],
+   [
+    "G:Section Layout",
+    20
+   ],
+   [
+    "S:Alert",
+    15
+   ],
+   [
+    "G:Booking Details - Details - Upcoming",
+    11
+   ],
+   [
+    "G:Section Layout - Table",
+    6
+   ],
+   [
+    "S:Key Value",
+    6
+   ],
+   [
+    "S:Listbox Item/Single Item New",
+    5
+   ],
+   [
+    "G:Table - Nominal Role - Judgemental & Mar",
+    4
+   ]
+  ],
+  "stateNames": [
+   "Confirmation",
+   "Detail List - C-Shaped Filled",
+   "Detail List - Filled",
+   "Detail List - Filled Expand",
+   "Details",
+   "Details - Blackout Conflict (No Spare Station)",
+   "Details - Blackout Conflict (Single CW)",
+   "Details - Lane Config Empty",
+   "Details - No Briefing Room",
+   "Details - Nominal Roll & Lane Config Empty",
+   "Details - Nominal Roll Empty",
+   "Dropdown - Base Station",
+   "Dropdown - Date Slot",
+   "Dropdown - More Icon",
+   "Edit - Empty",
+   "Edit - Empty Error",
+   "Edit - Filled",
+   "Edit Lane Config",
+   "Edit Lane Config - 5 FS",
+   "Edit Schedule",
+   "Empty due to Lane Config",
+   "Empty due to Nominal Roll",
+   "Empty due to Nominal Roll & Lane Config",
+   "Issue Asset",
+   "Lane Configuration - C-Shaped - Empty",
+   "Lane Configuration - C-Shaped - Filled",
+   "Lane Configuration - Flat Screen - Empty",
+   "Lane Configuration - Flat Screen - Filled",
+   "Link Page",
+   "Nominal Rolls - Empty",
+   "Nominal Rolls - Filled",
+   "Schedule - Adhoc - Filled",
+   "Selected AM/PM Session - Edit",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5499:19911",
+     "name": "Details",
+     "w": 1440,
+     "h": 910,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5499-19911"
+    },
+    {
+     "id": "5511:50798",
+     "name": "Details - No Briefing Room",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5511-50798"
+    }
+   ],
+   "other": [
+    {
+     "id": "5512:139280",
+     "name": "Link Page",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5512-139280"
+    },
+    {
+     "id": "5512:139281",
+     "name": "Link Page",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5512-139281"
+    }
+   ],
+   "wizard": [
+    {
+     "id": "5512:177513",
+     "name": "Selected AM/PM Session - Edit",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5512-177513"
+    },
+    {
+     "id": "5513:253192",
+     "name": "Dropdown - Date Slot",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5513-253192"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5513:254637",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5513-254637"
+    },
+    {
+     "id": "5513:291977",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5513-291977"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5513:287448",
+     "name": "Edit - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5513-287448"
+    },
+    {
+     "id": "5513:288730",
+     "name": "Edit - Empty Error",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5513-288730"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Upcoming (Asset Issued)",
+  "pageId": "5093:179275",
+  "flags": [],
+  "frames": 3,
+  "kinds": {
+   "shell": 2,
+   "other": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    2
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    2
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    2
+   ],
+   [
+    "G:Booking Details - Details - Upcoming",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Details - Upcoming",
+   "Dropdown - More Icon",
+   "Top Up Assets (Booking)"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5093:179277",
+     "name": "Details - Upcoming",
+     "w": 1440,
+     "h": 1001,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5093-179277"
+    },
+    {
+     "id": "5093:179287",
+     "name": "Dropdown - More Icon",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5093-179287"
+    }
+   ],
+   "other": [
+    {
+     "id": "5895:360289",
+     "name": "Top Up Assets (Booking)",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-360289"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Upcoming (The Day)",
+  "pageId": "5093:165858",
+  "flags": [],
+  "frames": 8,
+  "kinds": {
+   "shell": 5,
+   "overlay-modal": 1,
+   "other": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    5
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    5
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    5
+   ],
+   [
+    "G:Booking Details - Details - Upcoming",
+    5
+   ],
+   [
+    "S:Alert",
+    3
+   ],
+   [
+    "S:Modal Confirmation",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Details - Lane Config Empty",
+   "Details - Nominal Roll & Lane Config Empty",
+   "Details - Nominal Roll Empty",
+   "Details - Upcoming",
+   "Dropdown - More Icon",
+   "Link Page",
+   "Start Onboarding"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5093:165860",
+     "name": "Details - Upcoming",
+     "w": 1440,
+     "h": 1001,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5093-165860"
+    },
+    {
+     "id": "5093:165870",
+     "name": "Dropdown - More Icon",
+     "w": 1440,
+     "h": 1200,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5093-165870"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "8152:103723",
+     "name": "Start Onboarding",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8152-103723"
+    }
+   ],
+   "other": [
+    {
+     "id": "8152:103725",
+     "name": "Link Page",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8152-103725"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Step 1 - Nominal Roll",
+  "pageId": "5341:1355",
+  "flags": [],
+  "frames": 44,
+  "kinds": {
+   "wizard": 8,
+   "overlay-modal": 13,
+   "other": 7
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Onboarding | Program=SWT-Collective",
+    5
+   ],
+   [
+    "Header Nav - Onboarding | Program=SWT-Marksmanship",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    11
+   ],
+   [
+    "S:Modal",
+    10
+   ],
+   [
+    "S:Tab Group v2",
+    8
+   ],
+   [
+    "S:Box Tab Group",
+    8
+   ],
+   [
+    "G:Table - Onboarding - Nominal Role - Coll",
+    5
+   ],
+   [
+    "G:Modal Confirmation - Discard",
+    3
+   ],
+   [
+    "S:Modal Confirmation",
+    3
+   ],
+   [
+    "G:Table - Onboarding - Nominal Role - Judg",
+    3
+   ]
+  ],
+  "stateNames": [
+   "Confirm Attendance - Error",
+   "Confirmation - Close",
+   "Confirmation - Confirm Attendance with Incomplete Trainees",
+   "Confirmation Attendance",
+   "Incomplete Trainee - Empty",
+   "Incomplete Trainee - Empty Error",
+   "Incomplete Trainee - Filled",
+   "Link Page",
+   "Nominal Roll - Added New by Scan or Import",
+   "Nominal Roll - Filled",
+   "Nominal Roll - Filled with Incomplete Trainees",
+   "Nominal Roll - List Default",
+   "Non-Registered - Empty",
+   "Non-Registered - Filled",
+   "Scan ID - Empty",
+   "Scan ID - Filled",
+   "Scan ID - If Trainee Double Scan",
+   "Scan ID - Scanner Inactive"
+  ],
+  "examples": {
+   "wizard": [
+    {
+     "id": "5348:24188",
+     "name": "Nominal Roll - List Default",
+     "w": 1440,
+     "h": 1101,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5348-24188"
+    },
+    {
+     "id": "5348:24210",
+     "name": "Nominal Roll - Added New by Scan or Import",
+     "w": 1440,
+     "h": 1101,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5348-24210"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5348:95775",
+     "name": "Confirmation Attendance",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5348-95775"
+    },
+    {
+     "id": "5626:198154",
+     "name": "Confirmation - Confirm Attendance with Incomplete ",
+     "w": 1440,
+     "h": 906,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5626-198154"
+    }
+   ],
+   "other": [
+    {
+     "id": "5477:44829",
+     "name": "Link Page",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5477-44829"
+    },
+    {
+     "id": "5477:44830",
+     "name": "Link Page",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5477-44830"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Step 2 - Config",
+  "pageId": "5348:23579",
+  "flags": [],
+  "frames": 12,
+  "kinds": {
+   "wizard": 6,
+   "overlay-modal": 2
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Onboarding | Program=SWT-Collective",
+    3
+   ],
+   [
+    "Header Nav - Onboarding | Program=SWT-Marksmanship",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "G:Create Booking - Lane Config Item",
+    18
+   ],
+   [
+    "S:Box Tab Group",
+    6
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ],
+   [
+    "S:Alert",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Confirm Lane Configuration - Confirmation if Any Changes",
+   "Lane Config - C-shaped Filled",
+   "Lane Config - Error",
+   "Lane Config - FS & C-Shaped"
+  ],
+  "examples": {
+   "wizard": [
+    {
+     "id": "5358:92564",
+     "name": "Lane Config - FS & C-Shaped",
+     "w": 1440,
+     "h": 1646,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5358-92564"
+    },
+    {
+     "id": "5359:105527",
+     "name": "Lane Config - C-shaped Filled",
+     "w": 1440,
+     "h": 902,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5359-105527"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5628:40744",
+     "name": "Confirm Lane Configuration - Confirmation if Any C",
+     "w": 1440,
+     "h": 902,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5628-40744"
+    },
+    {
+     "id": "5630:95240",
+     "name": "Confirm Lane Configuration - Confirmation if Any C",
+     "w": 1440,
+     "h": 902,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5630-95240"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Step 3 - Detail List",
+  "pageId": "5348:23580",
+  "flags": [],
+  "frames": 30,
+  "kinds": {
+   "wizard": 7,
+   "shell": 10,
+   "overlay-modal": 2,
+   "overlay-drawer": 6
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Edit Detail List | Program=SWT-Collective",
+    10
+   ],
+   [
+    "Header Nav - Onboarding | Program=SWT-Collective",
+    7
+   ]
+  ],
+  "content": [
+   [
+    "G:Onboarding - Detail List - Edit",
+    73
+   ],
+   [
+    "G:Section Layout",
+    34
+   ],
+   [
+    "S:Box Tab Group",
+    17
+   ],
+   [
+    "S:Drawer Right",
+    6
+   ],
+   [
+    "S:Input-Summary (Read Only)",
+    6
+   ],
+   [
+    "G:Modal Confirmation - Discard",
+    2
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Detail List - CS",
+   "Detail List - FS",
+   "Detail List - FS - Expand Roster",
+   "Discard",
+   "Edit Detail - CS",
+   "Edit Detail - Drag & Drop",
+   "Edit Detail - FS",
+   "Move Trainee",
+   "Move Trainee - Empty Error",
+   "Move Trainee - Filled",
+   "Toast - Success",
+   "Toast - Swapped to Available Lane",
+   "Toast - Swapped with Other Trainee"
+  ],
+  "examples": {
+   "wizard": [
+    {
+     "id": "5361:7745",
+     "name": "Detail List - FS",
+     "w": 1440,
+     "h": 902,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5361-7745"
+    },
+    {
+     "id": "5440:169859",
+     "name": "Detail List - FS",
+     "w": 1440,
+     "h": 902,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5440-169859"
+    }
+   ],
+   "shell": [
+    {
+     "id": "5366:141010",
+     "name": "Edit Detail - FS",
+     "w": 1440,
+     "h": 2988,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5366-141010"
+    },
+    {
+     "id": "5548:68758",
+     "name": "Toast - Swapped with Other Trainee",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5548-68758"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5370:25245",
+     "name": "Discard",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5370-25245"
+    },
+    {
+     "id": "9033:424214",
+     "name": "Discard",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9033-424214"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5544:186893",
+     "name": "Move Trainee",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5544-186893"
+    },
+    {
+     "id": "5548:67967",
+     "name": "Move Trainee - Empty Error",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5548-67967"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Step 4 - Review",
+  "pageId": "5348:23581",
+  "flags": [],
+  "frames": 9,
+  "kinds": {
+   "other": 4,
+   "shell": 1
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Ongoing Session | Program=SWT-Collective",
+    1
+   ]
+  ],
+  "content": [
+   [
+    "G:Onboarding - Review Booking - SWT",
+    4
+   ],
+   [
+    "S:Modal",
+    4
+   ],
+   [
+    "G:Section Layout",
+    4
+   ],
+   [
+    "G:Data Display - Training Result Performan",
+    1
+   ],
+   [
+    "G:Ongoing Session - Performance Chart",
+    1
+   ],
+   [
+    "S:Box Tab Group",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Review Booking - Collective",
+   "Review Booking - If 3rd Party Not Ready",
+   "Review Booking - Judgemental",
+   "Review Booking - Marksmanship",
+   "Toast - Success"
+  ],
+  "examples": {
+   "other": [
+    {
+     "id": "5384:268627",
+     "name": "Review Booking - Collective",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5384-268627"
+    },
+    {
+     "id": "5639:256100",
+     "name": "Review Booking - If 3rd Party Not Ready",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5639-256100"
+    }
+   ],
+   "shell": [
+    {
+     "id": "5483:95469",
+     "name": "Toast - Success",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5483-95469"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Ongoing",
+  "pageId": "5029:40419",
+  "flags": [],
+  "frames": 2,
+  "kinds": {
+   "shell": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    2
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    2
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    2
+   ],
+   [
+    "G:Booking Details - Details - Ongoing",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Details - Ongoing",
+   "Dropdown - More Icon"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5093:186809",
+     "name": "Details - Ongoing",
+     "w": 1440,
+     "h": 941,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5093-186809"
+    },
+    {
+     "id": "5093:186811",
+     "name": "Dropdown - More Icon",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5093-186811"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Ongoing Session (Marksmanship) 🟡",
+  "pageId": "5549:141192",
+  "flags": [
+   "🟡"
+  ],
+  "frames": 80,
+  "kinds": {
+   "shell": 37,
+   "overlay-drawer": 14,
+   "overlay-modal": 4,
+   "wizard": 2,
+   "other": 1
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Ongoing Session | Program=SWT-Markmanship",
+    10
+   ],
+   [
+    "Header Nav - Create Detail | Program=SWT",
+    8
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout",
+    61
+   ],
+   [
+    "G:Section Layout - Table",
+    21
+   ],
+   [
+    "S:Box Tab Group",
+    17
+   ],
+   [
+    "S:Drawer Right",
+    14
+   ],
+   [
+    "G:Data Display - Training Result Performan",
+    14
+   ],
+   [
+    "G:Ongoing Session - Performance Chart",
+    14
+   ],
+   [
+    "S:Tab Group v2",
+    8
+   ],
+   [
+    "G:Table - Ongoing Session - Live Result Li",
+    8
+   ]
+  ],
+  "stateNames": [
+   "Banner - Lane Down",
+   "Bulk Select",
+   "Confirmation - If Detail Completed",
+   "Confirmation - If Detail Not Completed",
+   "Create New Detail - Empty",
+   "Create New Detail - Empty Error",
+   "Create New Detail - Filled",
+   "Create New Detail List",
+   "Cut Queue - Empty",
+   "Cut Queue - Empty Error",
+   "Cut Queue - Filled",
+   "Detail List - Default",
+   "Detail List - Empty",
+   "Detail List - Filled",
+   "Detail List - With Failed",
+   "Detail List Draft",
+   "Discard",
+   "Drag & Drop Trainee",
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "Dropdown - Create New Detail",
+   "Edit Detail",
+   "Edit Practice",
+   "Lane Config - Collective",
+   "Lane Config - Marksmanship",
+   "Link Page",
+   "List - Filter Applied",
+   "Move Trainee",
+   "Move Trainee - Empty Error",
+   "Move Trainee - Filled",
+   "Select Trainee",
+   "Session Ended",
+   "Session Ended - if Failed = 0",
+   "Toast - Lane Down",
+   "Toast - Multiple Detail Created",
+   "Toast - Saved",
+   "Toast - Single Detail Created",
+   "Toast - Success",
+   "Toast - Swapped to Available Lane",
+   "Toast - Swapped with Other Trainee"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5753:74561",
+     "name": "Bulk Select",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5753-74561"
+    },
+    {
+     "id": "5753:138807",
+     "name": "Toast - Single Detail Created",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5753-138807"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5753:83359",
+     "name": "Create New Detail List",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5753-83359"
+    },
+    {
+     "id": "7897:50464",
+     "name": "Create New Detail List",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=7897-50464"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5765:213746",
+     "name": "Discard",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5765-213746"
+    },
+    {
+     "id": "5765:217665",
+     "name": "Discard",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5765-217665"
+    }
+   ],
+   "wizard": [
+    {
+     "id": "9029:184181",
+     "name": "Lane Config - Collective",
+     "w": 1440,
+     "h": 1682,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9029-184181"
+    },
+    {
+     "id": "9029:184199",
+     "name": "Lane Config - Marksmanship",
+     "w": 1440,
+     "h": 1682,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9029-184199"
+    }
+   ],
+   "other": [
+    {
+     "id": "9033:447879",
+     "name": "Link Page",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9033-447879"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Ongoing Session (Collective) 🔴",
+  "pageId": "9136:747094",
+  "flags": [
+   "🔴"
+  ],
+  "frames": 5,
+  "kinds": {
+   "shell": 1,
+   "overlay-modal": 2
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav - Session Ended | Property 1=Default",
+    1
+   ]
+  ],
+  "content": [
+   [
+    "S:Modal Confirmation",
+    2
+   ],
+   [
+    "S:Result",
+    1
+   ],
+   [
+    "G:Section Layout",
+    1
+   ],
+   [
+    "G:Training Details - Performance Chart New",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Confirmation - If Detail Completed",
+   "Confirmation - If Detail Not Completed",
+   "Session Ended - Collective"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "9136:747237",
+     "name": "Session Ended - Collective",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9136-747237"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "9136:747240",
+     "name": "Confirmation - If Detail Completed",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9136-747240"
+    },
+    {
+     "id": "9136:747242",
+     "name": "Confirmation - If Detail Not Completed",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9136-747242"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Return Assets",
+  "pageId": "5029:40420",
+  "flags": [],
+  "frames": 8,
+  "kinds": {
+   "shell": 5,
+   "overlay-modal": 2,
+   "other": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    5
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    5
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    5
+   ],
+   [
+    "G:Booking Details - Details - Return Asset",
+    4
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ],
+   [
+    "G:Modal Confirmation - Ready For Return As",
+    1
+   ],
+   [
+    "G:Booking Details - Details - Completed",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Confirmation",
+   "Details - Return Assets",
+   "Return Assets",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:54570",
+     "name": "Details - Return Assets",
+     "w": 1440,
+     "h": 959,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-54570"
+    },
+    {
+     "id": "5889:294481",
+     "name": "Toast - Success",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5889-294481"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5889:294479",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5889-294479"
+    },
+    {
+     "id": "6501:245297",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6501-245297"
+    }
+   ],
+   "other": [
+    {
+     "id": "5895:423063",
+     "name": "Return Assets",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-423063"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Completed",
+  "pageId": "5029:40421",
+  "flags": [],
+  "frames": 2,
+  "kinds": {
+   "shell": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    2
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    2
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    2
+   ],
+   [
+    "G:Booking Details - Details - Completed",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Details - Completed",
+   "Details - Completed with Missing Assets"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:55565",
+     "name": "Details - Completed",
+     "w": 1440,
+     "h": 941,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-55565"
+    },
+    {
+     "id": "5831:64203",
+     "name": "Details - Completed with Missing Assets",
+     "w": 1440,
+     "h": 941,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5831-64203"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Cancelled",
+  "pageId": "5029:40422",
+  "flags": [],
+  "frames": 1,
+  "kinds": {
+   "shell": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    1
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    1
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    1
+   ],
+   [
+    "G:Booking Details - Details - Cancelled",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Details - Cancelled"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:56038",
+     "name": "Details - Cancelled",
+     "w": 1440,
+     "h": 941,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-56038"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Overdue",
+  "pageId": "5029:40423",
+  "flags": [],
+  "frames": 4,
+  "kinds": {
+   "shell": 4
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    4
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    4
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    4
+   ],
+   [
+    "G:Booking Details - Details - Cancelled",
+    2
+   ],
+   [
+    "G:Booking Details - Details - Return Asset",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Details - Asset Issued",
+   "Details - Asset Pending Return",
+   "Details - Asset Returned",
+   "Details - Overdue"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:56504",
+     "name": "Details - Overdue",
+     "w": 1440,
+     "h": 1107,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-56504"
+    },
+    {
+     "id": "6591:303321",
+     "name": "Details - Asset Issued",
+     "w": 1440,
+     "h": 1107,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6591-303321"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Upcoming",
+  "pageId": "5834:183279",
+  "flags": [],
+  "frames": 41,
+  "kinds": {
+   "shell": 14,
+   "overlay-modal": 16,
+   "other": 4
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    14
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    14
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    14
+   ],
+   [
+    "S:Modal",
+    12
+   ],
+   [
+    "G:Booking Details Item - Details Multi CW",
+    11
+   ],
+   [
+    "G:Booking Details - Courseware Selection",
+    11
+   ],
+   [
+    "G:Booking - Select Courseware Modal",
+    10
+   ],
+   [
+    "G:Booking Details - Multi CW Details - Upc",
+    7
+   ],
+   [
+    "G:Booking Details - Multi CW Details - Can",
+    4
+   ],
+   [
+    "S:Modal Confirmation",
+    4
+   ]
+  ],
+  "stateNames": [
+   "Confirmation (Multiple Courseware)",
+   "Details",
+   "Details - Blackout Conflict (Multi CW)",
+   "Dropdown - More Icon",
+   "Issue Asset",
+   "Onboarding",
+   "Reschedule",
+   "Select Assignment",
+   "Select Assignment - Empty Error",
+   "Select Assignment - Filled",
+   "Select Courseware",
+   "Select Courseware - Empty Error",
+   "Select Courseware - Filled",
+   "Toast - Success",
+   "Top Up Assets (Booking)"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5834:183285",
+     "name": "Details",
+     "w": 1440,
+     "h": 972,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5834-183285"
+    },
+    {
+     "id": "6495:72004",
+     "name": "Dropdown - More Icon",
+     "w": 1440,
+     "h": 1134,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6495-72004"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "6495:75080",
+     "name": "Select Courseware",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6495-75080"
+    },
+    {
+     "id": "6501:284873",
+     "name": "Select Courseware - Empty Error",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6501-284873"
+    }
+   ],
+   "other": [
+    {
+     "id": "6495:75082",
+     "name": "Reschedule",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6495-75082"
+    },
+    {
+     "id": "6789:547324",
+     "name": "Issue Asset",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6789-547324"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Ongoing",
+  "pageId": "6818:671556",
+  "flags": [],
+  "frames": 27,
+  "kinds": {
+   "shell": 13,
+   "other": 3,
+   "overlay-modal": 9
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    13
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    13
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    13
+   ],
+   [
+    "G:Booking Details Item - Details Multi CW",
+    8
+   ],
+   [
+    "G:Booking Details - Courseware Selection",
+    8
+   ],
+   [
+    "S:Modal",
+    8
+   ],
+   [
+    "G:Booking Details - Multi CW Details - Ret",
+    7
+   ],
+   [
+    "G:Booking - Select Assignment Modal",
+    6
+   ],
+   [
+    "G:Booking Details - Multiple Courware Sele",
+    5
+   ],
+   [
+    "G:Booking Details - Multi CW Details - Ong",
+    4
+   ]
+  ],
+  "stateNames": [
+   "Asset Ownership Transferred",
+   "Complete With Missing Asset",
+   "Confirmation",
+   "Details",
+   "Details - CW A",
+   "Details - CW B",
+   "Dropdown - More Icon",
+   "Ongoing Session",
+   "Return Assets",
+   "Select Assignment",
+   "Select Assignment - Empty Error",
+   "Select Assignment - Filled",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "6831:41410",
+     "name": "Details",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6831-41410"
+    },
+    {
+     "id": "6831:41428",
+     "name": "Dropdown - More Icon",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6831-41428"
+    }
+   ],
+   "other": [
+    {
+     "id": "6831:72454",
+     "name": "Ongoing Session",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6831-72454"
+    },
+    {
+     "id": "6831:79419",
+     "name": "Return Assets",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6831-79419"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "6831:84808",
+     "name": "Select Assignment",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6831-84808"
+    },
+    {
+     "id": "6831:84810",
+     "name": "Select Assignment - Empty Error",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6831-84810"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Booking Details: Completed",
+  "pageId": "6831:41408",
+  "flags": [],
+  "frames": 1,
+  "kinds": {
+   "shell": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    1
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    1
+   ]
+  ],
+  "content": [
+   [
+    "G:Booking Details Item - Details Multi CW",
+    1
+   ],
+   [
+    "G:Booking Details - Courseware Selection",
+    1
+   ],
+   [
+    "S:Tab Group v2",
+    1
+   ],
+   [
+    "G:Booking Details - Multi CW Details - Com",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Details"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "6851:144584",
+     "name": "Details",
+     "w": 1440,
+     "h": 980,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6851-144584"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Training Results List",
+  "pageId": "5029:101327",
+  "flags": [],
+  "frames": 9,
+  "kinds": {
+   "shell": 6,
+   "overlay-drawer": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    6
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    6
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    6
+   ],
+   [
+    "G:Table - Training Result List",
+    6
+   ],
+   [
+    "S:Drawer Right",
+    2
+   ],
+   [
+    "G:Filter - SWT - Training Result List",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "List - Empty",
+   "List - Filled",
+   "List - Filter Applied",
+   "List - Filter Applied - Empty",
+   "Search - Empty Result",
+   "Search - Filled"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:101330",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-101330"
+    },
+    {
+     "id": "5029:101348",
+     "name": "List - Filled",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-101348"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5029:101404",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-101404"
+    },
+    {
+     "id": "5029:101408",
+     "name": "Drawer - Filter - Selected",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-101408"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Training Result Details (Marksmanship, Judgemental)",
+  "pageId": "5834:189802",
+  "flags": [],
+  "frames": 24,
+  "kinds": {
+   "shell": 19,
+   "overlay-drawer": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    19
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    19
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    19
+   ],
+   [
+    "G:Section Layout - Table",
+    18
+   ],
+   [
+    "G:Training Details - Booking Details",
+    11
+   ],
+   [
+    "G:Training Details - Performance Chart New",
+    11
+   ],
+   [
+    "S:Advanced Tab Group",
+    11
+   ],
+   [
+    "G:Table - Training Results - Trainee Resul",
+    11
+   ],
+   [
+    "G:Training Result - Detail List Station",
+    5
+   ],
+   [
+    "G:Table - Training Results - Detail List",
+    4
+   ]
+  ],
+  "stateNames": [
+   "Detail List",
+   "Detail List - Details",
+   "Detail List - Full Table",
+   "Details",
+   "Details - Failed",
+   "Details - Failed Empty",
+   "Details - Full Table",
+   "Details - Marksman",
+   "Details - Marksman Empty",
+   "Details - Passed",
+   "Details - Passed Empty",
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "Dropdown - Download",
+   "List - Filter Applied",
+   "Search - Empty Result",
+   "Search - Filled"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5834:189828",
+     "name": "Detail List",
+     "w": 1440,
+     "h": 990,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5834-189828"
+    },
+    {
+     "id": "5834:189830",
+     "name": "Detail List - Details",
+     "w": 1440,
+     "h": 1139,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5834-189830"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5834:189809",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5834-189809"
+    },
+    {
+     "id": "5834:189811",
+     "name": "Drawer - Filter - Selected",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5834-189811"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Training Result Details (Collective)",
+  "pageId": "8364:75642",
+  "flags": [],
+  "frames": 8,
+  "kinds": {
+   "shell": 7
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    7
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    7
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    7
+   ],
+   [
+    "G:Training Result - Detail List Station",
+    5
+   ],
+   [
+    "G:Section Layout - Table",
+    4
+   ],
+   [
+    "G:Training Details - Booking Details",
+    2
+   ],
+   [
+    "G:Training Details - Performance Chart New",
+    2
+   ],
+   [
+    "G:Table - Training Results - Nominal Roll",
+    2
+   ],
+   [
+    "G:Table - Training Results - Detail List -",
+    2
+   ],
+   [
+    "G:Data Display - Training Result, System H",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Detail List",
+   "Detail List - Details",
+   "Detail List - Search",
+   "Details",
+   "Details - Full Table"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "8364:75671",
+     "name": "Details",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8364-75671"
+    },
+    {
+     "id": "9025:163813",
+     "name": "Details",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9025-163813"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Training Result Details (Multiple CW)",
+  "pageId": "5839:44906",
+  "flags": [],
+  "frames": 4,
+  "kinds": {
+   "shell": 3
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    3
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "G:Training Details - Courseware Selection",
+    3
+   ],
+   [
+    "G:Training Details - Booking Details",
+    3
+   ],
+   [
+    "S:Tab Group v2",
+    2
+   ],
+   [
+    "G:Training Details - Performance Chart New",
+    2
+   ],
+   [
+    "G:Section Layout - Table",
+    2
+   ],
+   [
+    "S:Advanced Tab Group",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Details",
+   "Details - If Other Courseware Not Completed",
+   "Details - If Other Courseware Not Completed - Selected"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5839:44920",
+     "name": "Details",
+     "w": 1440,
+     "h": 1592,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5839-44920"
+    },
+    {
+     "id": "8171:143270",
+     "name": "Details - If Other Courseware Not Completed",
+     "w": 1440,
+     "h": 1600,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8171-143270"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Resource Planning",
+  "pageId": "5004:113420",
+  "flags": [],
+  "frames": 11,
+  "kinds": {
+   "shell": 9,
+   "overlay-modal": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    9
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    9
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    18
+   ],
+   [
+    "G:Table - Resource Planning - SystemLimits",
+    18
+   ],
+   [
+    "G:Section Layout",
+    9
+   ],
+   [
+    "G:Table - Resource Planning - Resource",
+    9
+   ],
+   [
+    "G:Modal Confirmation - Discard",
+    1
+   ],
+   [
+    "S:Modal Confirmation",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Discard",
+   "Edit",
+   "Edit - Add New Empty Error",
+   "Edit - Add New Filled Error",
+   "Edit - Empty Error",
+   "Edit - Filled Error",
+   "Edit - Pax Error",
+   "Resource Planning - View"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "6875:125827",
+     "name": "Resource Planning - View",
+     "w": 1440,
+     "h": 1974,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6875-125827"
+    },
+    {
+     "id": "6900:44444",
+     "name": "Edit",
+     "w": 1440,
+     "h": 2351,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6900-44444"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "6900:43691",
+     "name": "Discard",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6900-43691"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Operational Availability",
+  "pageId": "5004:113419",
+  "flags": [],
+  "frames": 14,
+  "kinds": {
+   "shell": 11,
+   "other": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    11
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    11
+   ]
+  ],
+  "content": [
+   [
+    "G:Data Display - Training Result, System H",
+    16
+   ],
+   [
+    "G:Section Layout - Table",
+    11
+   ],
+   [
+    "G:Table - Operational Availability New",
+    7
+   ],
+   [
+    "S:Tab Group v2",
+    4
+   ],
+   [
+    "G:Table - Operational Availability Details",
+    4
+   ]
+  ],
+  "stateNames": [
+   "Empty-Search",
+   "List - Empty",
+   "List - Filled",
+   "List - Tooltip",
+   "Select Date",
+   "Select Date - Applied",
+   "Select Date - Applied Empty Result",
+   "Select Date - Selected",
+   "Tooltip",
+   "View Affected Bookings"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5119:297854",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5119-297854"
+    },
+    {
+     "id": "5119:297872",
+     "name": "List - Filled",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5119-297872"
+    }
+   ],
+   "other": [
+    {
+     "id": "8051:160573",
+     "name": "View Affected Bookings",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8051-160573"
+    }
+   ]
+  }
+ },
+ {
+  "page": "All Reports ❌",
+  "pageId": "5119:302601",
+  "flags": [
+   "❌"
+  ],
+  "frames": 2,
+  "kinds": {
+   "shell": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Reports",
+    2
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    2
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    1
+   ]
+  ],
+  "stateNames": [
+   "List - Empty",
+   "List - Filled"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5119:302954",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5119-302954"
+    },
+    {
+     "id": "5119:302968",
+     "name": "List - Filled",
+     "w": 1440,
+     "h": 1302,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5119-302968"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Assets Audit Report ❌",
+  "pageId": "5119:302600",
+  "flags": [
+   "❌"
+  ],
+  "frames": 4,
+  "kinds": {
+   "shell": 2,
+   "overlay-modal": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Reports",
+    2
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    2
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    2
+   ],
+   [
+    "G:Table - Report Assets Audit Report",
+    2
+   ],
+   [
+    "S:Modal",
+    2
+   ],
+   [
+    "S:Key Value",
+    2
+   ]
+  ],
+  "stateNames": [
+   "List - Empty",
+   "List - Filled",
+   "Report Details",
+   "Report Details - Max Height"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5119:302919",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5119-302919"
+    },
+    {
+     "id": "5119:302936",
+     "name": "List - Filled",
+     "w": 1440,
+     "h": 959,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5119-302936"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5119:302989",
+     "name": "Report Details - Max Height",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5119-302989"
+    },
+    {
+     "id": "5119:303000",
+     "name": "Report Details",
+     "w": 1440,
+     "h": 1178,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5119-303000"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Site Management List | Synced VC",
+  "pageId": "5112:111648",
+  "flags": [
+   "Synced VC"
+  ],
+  "frames": 15,
+  "kinds": {
+   "shell": 6,
+   "overlay-drawer": 5,
+   "overlay-modal": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    6
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    6
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    6
+   ],
+   [
+    "G:Table - Site Management",
+    6
+   ],
+   [
+    "S:Drawer Right",
+    5
+   ],
+   [
+    "G:Modal Confirmation - Delete",
+    2
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Confirmation Delete",
+   "Confirmation Delete - Blocked",
+   "Dropdown",
+   "Edit",
+   "List - Empty",
+   "List - Filled",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5112:201965",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5112-201965"
+    },
+    {
+     "id": "5112:201985",
+     "name": "List - Filled",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5112-201985"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5112:202006",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5112-202006"
+    },
+    {
+     "id": "5112:202032",
+     "name": "Add - Empty Error",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5112-202032"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5112:202048",
+     "name": "Confirmation Delete - Blocked",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5112-202048"
+    },
+    {
+     "id": "5112:202050",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5112-202050"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Site Management Details - Available | Synced VC",
+  "pageId": "5112:111649",
+  "flags": [
+   "Synced VC"
+  ],
+  "frames": 60,
+  "kinds": {
+   "shell": 14,
+   "overlay-drawer": 23,
+   "overlay-modal": 6
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    14
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    14
+   ]
+  ],
+  "content": [
+   [
+    "S:Date Picker/date-item",
+    42
+   ],
+   [
+    "S:Drawer Right",
+    23
+   ],
+   [
+    "S:Tab Group v2",
+    22
+   ],
+   [
+    "S:Listbox Item/Single Item New",
+    22
+   ],
+   [
+    "S:Input-Summary (Read Only)",
+    19
+   ],
+   [
+    "S:Alert - Booking Conflict with Blackout",
+    19
+   ],
+   [
+    "G:Base Station Details",
+    14
+   ],
+   [
+    "G:Table - Site Management - Blackout Dates",
+    8
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled  - Expand",
+   "Add - Filled Error",
+   "Add End Date",
+   "All Day",
+   "Annual",
+   "Blackout Dates - Active",
+   "Blackout Dates - Empty",
+   "Blackout Dates - Filled",
+   "Blackout Dates - Filled - Tooltip",
+   "Blackout Dates - Passed",
+   "Confirmation",
+   "Confirmation Delete",
+   "Confirmation Delete - Blocked",
+   "Custom - Day",
+   "Custom - Week",
+   "Custom - Year",
+   "Custom-Month",
+   "Dropdown - Ends",
+   "Dropdown - Month Settings",
+   "Dropdown - Repeat",
+   "Dropdown - Repeat Every",
+   "Dropdown - Start Date",
+   "Dropdown - Time",
+   "End of Date",
+   "Lane - Empty",
+   "Lane - Filled",
+   "Select",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5112:206989",
+     "name": "Lane - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5112-206989"
+    },
+    {
+     "id": "5115:207624",
+     "name": "Lane - Filled",
+     "w": 1440,
+     "h": 1199,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5115-207624"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5115:209861",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5115-209861"
+    },
+    {
+     "id": "5115:209887",
+     "name": "Add - Empty Error",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5115-209887"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5115:209903",
+     "name": "Confirmation Delete - Blocked",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5115-209903"
+    },
+    {
+     "id": "5115:209905",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5115-209905"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Lane Details | Synced VC",
+  "pageId": "5115:215602",
+  "flags": [
+   "Synced VC"
+  ],
+  "frames": 5,
+  "kinds": {
+   "shell": 4,
+   "other": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    4
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    4
+   ]
+  ],
+  "content": [
+   [
+    "G:Lane Details",
+    4
+   ],
+   [
+    "G:Section Layout - Table",
+    4
+   ],
+   [
+    "S:Tab Group v2",
+    4
+   ],
+   [
+    "G:Table - Site Management - Blackout Dates",
+    4
+   ]
+  ],
+  "stateNames": [
+   "Add Blackout Date",
+   "Blackout Dates - Empty",
+   "Blackout Dates - Filled"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5118:283727",
+     "name": "Blackout Dates - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5118-283727"
+    },
+    {
+     "id": "5118:283747",
+     "name": "Blackout Dates - Filled",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5118-283747"
+    }
+   ],
+   "other": [
+    {
+     "id": "6928:240539",
+     "name": "Add Blackout Date",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6928-240539"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Site Management Details - Offline",
+  "pageId": "6959:156749",
+  "flags": [],
+  "frames": 2,
+  "kinds": {
+   "shell": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    2
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    2
+   ]
+  ],
+  "content": [
+   [
+    "G:Base Station Details",
+    2
+   ],
+   [
+    "S:Tab Group v2",
+    2
+   ],
+   [
+    "G:Section Layout - Table",
+    2
+   ],
+   [
+    "G:Table - Site Management - Lane",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Lane - Filled"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "6959:158852",
+     "name": "Lane - Filled",
+     "w": 1440,
+     "h": 1199,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6959-158852"
+    },
+    {
+     "id": "8608:245356",
+     "name": "Lane - Filled",
+     "w": 1440,
+     "h": 1199,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8608-245356"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Data Export",
+  "pageId": "5103:61278",
+  "flags": [],
+  "frames": 4,
+  "kinds": {
+   "shell": 3
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Data",
+    3
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "S:Radio Group",
+    6
+   ],
+   [
+    "G:Section Layout",
+    3
+   ],
+   [
+    "S:Checkbox Group",
+    3
+   ],
+   [
+    "S:Input",
+    3
+   ]
+  ],
+  "stateNames": [
+   "Data Export",
+   "Data Export - Filled",
+   "Dropdown - Date Picker"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5103:61562",
+     "name": "Data Export",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5103-61562"
+    },
+    {
+     "id": "5103:61590",
+     "name": "Data Export - Filled",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5103-61590"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Data Import",
+  "pageId": "5103:61279",
+  "flags": [],
+  "frames": 11,
+  "kinds": {
+   "shell": 3,
+   "other": 7
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Data",
+    3
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "S:Modal",
+    7
+   ],
+   [
+    "G:Modal - Import Booking",
+    5
+   ],
+   [
+    "G:Section Layout - Table",
+    3
+   ],
+   [
+    "G:Table - Data Import - Booking",
+    3
+   ],
+   [
+    "G:Create Booking - Review Booking - SWT",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Import - Empty",
+   "Import - Filled Error",
+   "Import - Filled Error - Duplicated NRIC",
+   "Import - Filled Loading",
+   "Import - Filled Ready",
+   "List - Empty",
+   "List - Filled",
+   "Review Booking - Import - All Lane Incomplete",
+   "Review Booking - Import - Some Lane Incomplete",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5103:61654",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5103-61654"
+    },
+    {
+     "id": "5103:61670",
+     "name": "List - Filled",
+     "w": 1440,
+     "h": 1009,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5103-61670"
+    }
+   ],
+   "other": [
+    {
+     "id": "9246:175081",
+     "name": "Import - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9246-175081"
+    },
+    {
+     "id": "9246:175083",
+     "name": "Import - Filled Loading",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9246-175083"
+    }
+   ]
+  }
+ },
+ {
+  "page": "SHM",
+  "pageId": "5133:38313",
+  "flags": [],
+  "frames": 3,
+  "kinds": {
+   "shell": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    2
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    2
+   ]
+  ],
+  "content": [
+   [
+    "G:Data Display - Training Result, System H",
+    16
+   ],
+   [
+    "S:Notifications List",
+    5
+   ],
+   [
+    "G:Chart - Asset",
+    2
+   ],
+   [
+    "G:Section Layout - Table",
+    2
+   ],
+   [
+    "G:Empty State - Business Components",
+    1
+   ]
+  ],
+  "stateNames": [
+   "SHM Dashboard",
+   "SHM Dashboard - Empty"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5133:38715",
+     "name": "SHM Dashboard",
+     "w": 1440,
+     "h": 961,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5133-38715"
+    },
+    {
+     "id": "5191:11947",
+     "name": "SHM Dashboard - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5191-11947"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Asset List | RFS 🟡",
+  "pageId": "5133:42393",
+  "flags": [
+   "🟡",
+   "RFS"
+  ],
+  "frames": 39,
+  "kinds": {
+   "shell": 17,
+   "overlay-drawer": 9,
+   "overlay-modal": 5,
+   "other": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    13
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    13
+   ],
+   [
+    "Header Nav - Add Asset Tag | Property 1=Disconnected",
+    2
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    13
+   ],
+   [
+    "S:Tab Group v2",
+    13
+   ],
+   [
+    "S:Listbox Item/Single Item New",
+    12
+   ],
+   [
+    "G:Table - System Hardware - Asset List",
+    10
+   ],
+   [
+    "S:Drawer Right",
+    9
+   ],
+   [
+    "S:Modal Confirmation",
+    5
+   ],
+   [
+    "G:Section Layout",
+    4
+   ],
+   [
+    "G:Table - System Hardware - Asset List - A",
+    3
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Add Tag",
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "Dropdown - Asset Category",
+   "Dropdown - Asset Type",
+   "Edit",
+   "ID Tag - Filled",
+   "List",
+   "List - Empty",
+   "List - Filter Applied",
+   "List - Full Table",
+   "Modal - Connect RFID",
+   "Modal - Connect RFID 2",
+   "Move to Archive",
+   "Move to Archive - Blocked",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5133:38648",
+     "name": "List",
+     "w": 1440,
+     "h": 1028,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5133-38648"
+    },
+    {
+     "id": "5133:38670",
+     "name": "List - Full Table",
+     "w": 1440,
+     "h": 1028,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5133-38670"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5133:51362",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5133-51362"
+    },
+    {
+     "id": "5133:51366",
+     "name": "Drawer - Filter - Selected",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5133-51366"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "8002:46853",
+     "name": "Modal - Connect RFID",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8002-46853"
+    },
+    {
+     "id": "5336:274362",
+     "name": "Move to Archive",
+     "w": 1438,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5336-274362"
+    }
+   ],
+   "other": [
+    {
+     "id": "8004:26877",
+     "name": "Add Tag",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8004-26877"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Asset Details | RFS",
+  "pageId": "5139:12711",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 17,
+  "kinds": {
+   "shell": 15,
+   "overlay-modal": 1,
+   "other": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    15
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    15
+   ]
+  ],
+  "content": [
+   [
+    "G:Table - System Hardware - Asset Details ",
+    24
+   ],
+   [
+    "G:Asset Details",
+    15
+   ],
+   [
+    "S:Tab Group v2",
+    15
+   ],
+   [
+    "G:Section Layout",
+    9
+   ],
+   [
+    "G:Section Layout - Table",
+    6
+   ],
+   [
+    "S:Box Tab Group",
+    2
+   ],
+   [
+    "S:Modal Confirmation",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Activities - Empty",
+   "Activities - Filled",
+   "Add Tag",
+   "Asset Details - Archived",
+   "Asset Details - Issued",
+   "Asset Details - Maintenance",
+   "Asset Details - Missing",
+   "Asset Details - Not Returned",
+   "Asset Details - Pending Return",
+   "Asset Details - RFID Details - 1 Tag",
+   "Asset Details - RFID Details - 2 Tags",
+   "Asset Details - RFID Details - Empty",
+   "Disposal List - Empty",
+   "Disposal List - Filled",
+   "Remove Tag",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5149:50104",
+     "name": "Asset Details - RFID Details - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5149-50104"
+    },
+    {
+     "id": "5149:50144",
+     "name": "Asset Details - RFID Details - 1 Tag",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5149-50144"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5149:50101",
+     "name": "Remove Tag",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5149-50101"
+    }
+   ],
+   "other": [
+    {
+     "id": "8004:26876",
+     "name": "Add Tag",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8004-26876"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Assignment List | RFS🟡",
+  "pageId": "5133:42394",
+  "flags": [
+   "🟡",
+   "RFS"
+  ],
+  "frames": 18,
+  "kinds": {
+   "shell": 10,
+   "overlay-drawer": 6,
+   "overlay-modal": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    10
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    10
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    14
+   ],
+   [
+    "S:Tab Group v2",
+    10
+   ],
+   [
+    "G:Table - Assignment List New",
+    10
+   ],
+   [
+    "S:Drawer Right",
+    6
+   ],
+   [
+    "G:Filter - SWT - Assignment List",
+    2
+   ],
+   [
+    "S:Alert",
+    1
+   ],
+   [
+    "G:Modal Confirmation - Ready For Return As",
+    1
+   ],
+   [
+    "S:Modal Confirmation",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Confirmation",
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "Drawer - Select Assignment",
+   "Drawer - Select Assignment - Empty",
+   "Drawer - Select Assignment - Empty Error",
+   "Drawer - Select Assignment - No Assignment",
+   "List",
+   "List - Empty",
+   "List - Filter Applied",
+   "List - Full Table",
+   "Status Issued",
+   "Status Missing",
+   "Status Pending Return",
+   "Status Return Assets",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5154:76248",
+     "name": "List",
+     "w": 1440,
+     "h": 1012,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5154-76248"
+    },
+    {
+     "id": "5154:76271",
+     "name": "Status Issued",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5154-76271"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5867:136698",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5867-136698"
+    },
+    {
+     "id": "5867:136702",
+     "name": "Drawer - Filter - Selected",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5867-136702"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5895:483999",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-483999"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Action - Issue Asset (Admin & Maintenance)",
+  "pageId": "5411:107732",
+  "flags": [],
+  "frames": 39,
+  "kinds": {
+   "shell": 24,
+   "overlay-modal": 2,
+   "overlay-drawer": 2
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    1
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav - Create Assignment | Program=SWT",
+    10
+   ],
+   [
+    "Header Nav - Issued Assets | Property 1=Connected",
+    8
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    14
+   ],
+   [
+    "G:Table - Issue Asset (Maintenance) - Scan",
+    11
+   ],
+   [
+    "G:Issue Asset Step 1 - Personnel",
+    10
+   ],
+   [
+    "G:Table - Issue Asset (Maintenance) - Summ",
+    9
+   ],
+   [
+    "G:Issue Asset Step 1 - Config 1 Empty",
+    4
+   ],
+   [
+    "G:Table - Issue Asset (Admin) - Summary",
+    4
+   ],
+   [
+    "G:Issue Asset Step 1 - Config 2 Admin",
+    3
+   ],
+   [
+    "G:Issue Asset Step 1 - Config 3 Maintenanc",
+    3
+   ]
+  ],
+  "stateNames": [
+   "Bulk Select",
+   "Confirmation",
+   "Confirmation Delete",
+   "Create Assignment - Administration - Empty",
+   "Create Assignment - Administration - Empty Error",
+   "Create Assignment - Administration - Filled",
+   "Create Assignment - Empty",
+   "Create Assignment - Empty Error",
+   "Create Assignment - Maintenance - Empty",
+   "Create Assignment - Maintenance - Empty Error",
+   "Create Assignment - Maintenance - Filled",
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "Dropdown - Armskote Personnel Operator",
+   "Dropdown - Personel",
+   "List - Filter Applied",
+   "Scan Assets - Empty",
+   "Scan Assets - Empty Error when Click on Confirm",
+   "Scan Assets - Empty Expand",
+   "Scan Assets - Filled",
+   "Scan Assets - Filled Expand",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:44919",
+     "name": "Create Assignment - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-44919"
+    },
+    {
+     "id": "5413:255149",
+     "name": "Dropdown - Personel",
+     "w": 1440,
+     "h": 926,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5413-255149"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5414:342606",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5414-342606"
+    },
+    {
+     "id": "5419:59200",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5419-59200"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5579:295220",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5579-295220"
+    },
+    {
+     "id": "5579:295224",
+     "name": "Drawer - Filter - Selected",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5579-295224"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Action - Issue Asset (Booking)🟡",
+  "pageId": "5869:43219",
+  "flags": [
+   "🟡"
+  ],
+  "frames": 87,
+  "kinds": {
+   "shell": 49,
+   "overlay-modal": 5,
+   "overlay-drawer": 4
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Bookings",
+    1
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav - Issued Assets | Property 1=Connected",
+    24
+   ],
+   [
+    "Header Nav - Create Assignment | Program=SWT",
+    13
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    48
+   ],
+   [
+    "G:Table - Issue Asset (Booking) - Scanned ",
+    30
+   ],
+   [
+    "G:Table - Issue Asset (Booking) - Summary",
+    23
+   ],
+   [
+    "G:Issue Asset Step 1 - Personnel",
+    13
+   ],
+   [
+    "G:Table - Issue Asset (BS) - Summary",
+    12
+   ],
+   [
+    "S:Modal Confirmation",
+    5
+   ],
+   [
+    "G:Table - Issue Asset (BS) - Scanned Asset",
+    5
+   ],
+   [
+    "S:Listbox Item/Single Item New",
+    5
+   ]
+  ],
+  "stateNames": [
+   "Assign",
+   "Bulk Assign - Exceeds Capacity",
+   "Bulk Assign - Fully Assigned",
+   "Bulk Select",
+   "Confirmation",
+   "Confirmation Delete",
+   "Create Assignment - Empty",
+   "Create Assignment - Empty Error",
+   "Create Assignment - Filled",
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "Dropdown - Base Station",
+   "Dropdown - Target Base Station",
+   "List - Filter Applied",
+   "Scan Assets - Empty",
+   "Scan Assets - Empty Error when Click on Confirm",
+   "Scan Assets - Empty Expand",
+   "Scan Assets - Filled",
+   "Scan Assets - Filled Expand",
+   "Scan Assets - Half Filled",
+   "Scan Assets - Half Filled Expand",
+   "Scan Assets - Scanned Wrong Item",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "6966:232953",
+     "name": "Create Assignment - Empty",
+     "w": 1440,
+     "h": 1712,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6966-232953"
+    },
+    {
+     "id": "9090:40818",
+     "name": "Create Assignment - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9090-40818"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5869:43295",
+     "name": "Scan Assets - Scanned Wrong Item",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5869-43295"
+    },
+    {
+     "id": "5869:43303",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5869-43303"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5869:43324",
+     "name": "Assign",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5869-43324"
+    },
+    {
+     "id": "5869:43326",
+     "name": "Dropdown - Base Station",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5869-43326"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Assignment Details - Issued",
+  "pageId": "5839:148774",
+  "flags": [],
+  "frames": 20,
+  "kinds": {
+   "shell": 13,
+   "other": 2,
+   "overlay-drawer": 2,
+   "overlay-modal": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    13
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    13
+   ]
+  ],
+  "content": [
+   [
+    "G:Assignment Details - Details",
+    13
+   ],
+   [
+    "G:Section Layout - Table",
+    13
+   ],
+   [
+    "G:Table - Assignment Details - Asset List ",
+    9
+   ],
+   [
+    "S:Tab Group v2",
+    8
+   ],
+   [
+    "G:Table - Assignment Details - Booking Lis",
+    4
+   ],
+   [
+    "S:Drawer Right",
+    2
+   ],
+   [
+    "G:Filter - SWT - Booking List",
+    2
+   ],
+   [
+    "G:Modal Confirmation - Ready For Return As",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Assignment Details - Assets",
+   "Assignment Details - Assets - Full Table",
+   "Assignment Details - Bookings",
+   "Assignment Details - Bookings - Full Table",
+   "Assignment Details - Filter",
+   "Assignment Details - Full Table",
+   "Confirmation",
+   "Drawer - Filter",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5839:148778",
+     "name": "Assignment Details - Assets",
+     "w": 1440,
+     "h": 1326,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5839-148778"
+    },
+    {
+     "id": "6991:172117",
+     "name": "Assignment Details - Bookings",
+     "w": 1440,
+     "h": 947,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6991-172117"
+    }
+   ],
+   "other": [
+    {
+     "id": "6994:179741",
+     "name": "Assignment Details - Filter",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6994-179741"
+    },
+    {
+     "id": "9206:208327",
+     "name": "Assignment Details - Filter",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9206-208327"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "6994:180846",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 1244,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6994-180846"
+    },
+    {
+     "id": "9206:208329",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 1244,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9206-208329"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5890:296240",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5890-296240"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Action - Top Up Asset🟡",
+  "pageId": "5895:360287",
+  "flags": [
+   "🟡"
+  ],
+  "frames": 18,
+  "kinds": {
+   "shell": 13
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    3
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav - Issued Assets | Property 1=Connected",
+    7
+   ],
+   [
+    "Header Nav - Issued Assets | Property 1=Disconnected",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    13
+   ],
+   [
+    "G:Table - Issue Asset (Booking) - Scanned ",
+    4
+   ],
+   [
+    "G:Table - Issue Asset (Booking) - Summary",
+    4
+   ],
+   [
+    "G:Assignment Details - Details",
+    3
+   ],
+   [
+    "G:Table - Assignment Details - Asset List ",
+    3
+   ],
+   [
+    "S:Tab Group v2",
+    2
+   ],
+   [
+    "G:Table - Issue Asset (BS) - Scanned Asset",
+    2
+   ],
+   [
+    "G:Table - Issue Asset (BS) - Summary",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Scan Assets - Empty",
+   "Scan Assets - Filled",
+   "Scan Assets - Filled Expand",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5895:360297",
+     "name": "Scan Assets - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-360297"
+    },
+    {
+     "id": "9206:170450",
+     "name": "Scan Assets - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=9206-170450"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Assignment Details - Pending Return",
+  "pageId": "5895:339204",
+  "flags": [],
+  "frames": 4,
+  "kinds": {
+   "shell": 3,
+   "overlay-modal": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    3
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "G:Assignment Details - Details",
+    3
+   ],
+   [
+    "G:Section Layout - Table",
+    3
+   ],
+   [
+    "S:Tab Group v2",
+    2
+   ],
+   [
+    "G:Table - Assignment Details - Asset List ",
+    2
+   ],
+   [
+    "G:Table - Assignment Details - Booking Lis",
+    1
+   ],
+   [
+    "G:Modal Confirmation - Ready For Return As",
+    1
+   ],
+   [
+    "S:Modal Confirmation",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Assignment Details - Assets",
+   "Assignment Details - Bookings",
+   "Confirmation",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5895:339213",
+     "name": "Assignment Details - Assets",
+     "w": 1440,
+     "h": 1279,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-339213"
+    },
+    {
+     "id": "6994:215126",
+     "name": "Assignment Details - Bookings",
+     "w": 1440,
+     "h": 947,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6994-215126"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5895:339228",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-339228"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Assignment Details - Return Assets",
+  "pageId": "5895:376013",
+  "flags": [],
+  "frames": 7,
+  "kinds": {
+   "shell": 6,
+   "overlay-modal": 1
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    6
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    6
+   ]
+  ],
+  "content": [
+   [
+    "G:Assignment Details - Details",
+    6
+   ],
+   [
+    "G:Section Layout - Table",
+    6
+   ],
+   [
+    "G:Table - Assignment Details - Asset List ",
+    6
+   ],
+   [
+    "S:Tab Group v2",
+    1
+   ],
+   [
+    "S:Modal Confirmation",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Assignment Details - Assets",
+   "Confirmation",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5895:376017",
+     "name": "Assignment Details - Assets",
+     "w": 1440,
+     "h": 1326,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-376017"
+    },
+    {
+     "id": "5895:376022",
+     "name": "Assignment Details - Assets",
+     "w": 1440,
+     "h": 1197,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-376022"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "6998:255010",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6998-255010"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Action - Return Assets🟡",
+  "pageId": "5895:391719",
+  "flags": [
+   "🟡"
+  ],
+  "frames": 52,
+  "kinds": {
+   "shell": 27,
+   "other": 1,
+   "overlay-modal": 3
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    3
+   ],
+   [
+    "Sidebar-SWT | Bookings",
+    1
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav - Return Assets | Property 1=Connected",
+    14
+   ],
+   [
+    "Header Nav - Return Assets | Property 1=Disconnected",
+    9
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    26
+   ],
+   [
+    "G:Table - Return Asset (Booking) - Scanned",
+    26
+   ],
+   [
+    "G:Table - Return Asset (Maintenance) - Sca",
+    12
+   ],
+   [
+    "G:Table - Return Asset (Admin) - Scanned A",
+    4
+   ],
+   [
+    "G:Table - Return Asset (Admin) - Summary",
+    4
+   ],
+   [
+    "S:Modal Confirmation",
+    3
+   ],
+   [
+    "G:Assignment Details - Details",
+    3
+   ],
+   [
+    "G:Table - Assignment Details - Asset List ",
+    3
+   ]
+  ],
+  "stateNames": [
+   "Confirmation - All Complete",
+   "Docs/Notes",
+   "Scan Assets - Empty",
+   "Scan Assets - Empty Error when Click on Confirm",
+   "Scan Assets - Empty Expand",
+   "Scan Assets - Filled",
+   "Scan Assets - Filled Expand",
+   "Scan Assets - Half Filled",
+   "Scan Assets - Half Filled Expand",
+   "Scan Assets - Scanned Wrong Item",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5895:412248",
+     "name": "Scan Assets - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-412248"
+    },
+    {
+     "id": "5895:412263",
+     "name": "Scan Assets - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-412263"
+    }
+   ],
+   "other": [
+    {
+     "id": "5895:412430",
+     "name": "Docs/Notes",
+     "w": 372,
+     "h": 279,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-412430"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5895:412448",
+     "name": "Scan Assets - Scanned Wrong Item",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-412448"
+    },
+    {
+     "id": "5895:412450",
+     "name": "Confirmation - All Complete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-412450"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Assignment Details - Returned",
+  "pageId": "5895:448096",
+  "flags": [],
+  "frames": 4,
+  "kinds": {
+   "shell": 4
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    4
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    4
+   ]
+  ],
+  "content": [
+   [
+    "G:Assignment Details - Details",
+    4
+   ],
+   [
+    "G:Section Layout - Table",
+    4
+   ],
+   [
+    "G:Table - Assignment Details - Asset List ",
+    3
+   ],
+   [
+    "S:Tab Group v2",
+    2
+   ],
+   [
+    "G:Table - Assignment Details - Booking Lis",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Assignment Details - Assets",
+   "Assignment Details - Bookings"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5895:448098",
+     "name": "Assignment Details - Assets",
+     "w": 1440,
+     "h": 1326,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-448098"
+    },
+    {
+     "id": "6994:240427",
+     "name": "Assignment Details - Bookings",
+     "w": 1440,
+     "h": 947,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6994-240427"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Assignment Details - Missing",
+  "pageId": "5895:464611",
+  "flags": [],
+  "frames": 4,
+  "kinds": {
+   "shell": 4
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | System Hardware",
+    4
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    4
+   ]
+  ],
+  "content": [
+   [
+    "G:Assignment Details - Details",
+    4
+   ],
+   [
+    "G:Section Layout - Table",
+    4
+   ],
+   [
+    "G:Table - Assignment Details - Asset List ",
+    3
+   ],
+   [
+    "S:Tab Group v2",
+    1
+   ],
+   [
+    "G:Table - Assignment Details - Booking Lis",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Assignment Details - Assets",
+   "Assignment Details - Bookings",
+   "Assignment Details - Partial Returned"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5895:477268",
+     "name": "Assignment Details - Partial Returned",
+     "w": 1440,
+     "h": 1279,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5895-477268"
+    },
+    {
+     "id": "6994:247745",
+     "name": "Assignment Details - Bookings",
+     "w": 1440,
+     "h": 947,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6994-247745"
+    }
+   ]
+  }
+ },
+ {
+  "page": "RFID Reader Listing | RFS",
+  "pageId": "5133:42399",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 24,
+  "kinds": {
+   "shell": 10,
+   "overlay-modal": 4,
+   "overlay-drawer": 6
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | RFID Config",
+    10
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    10
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    10
+   ],
+   [
+    "G:Table - RFID - List",
+    10
+   ],
+   [
+    "S:Drawer Right",
+    6
+   ],
+   [
+    "S:Modal Confirmation",
+    4
+   ],
+   [
+    "G:Modal Confirmation - Alarm On Off",
+    2
+   ],
+   [
+    "S:Listbox Item/Single Item New",
+    2
+   ],
+   [
+    "G:Modal Confirmation - Bulk",
+    1
+   ],
+   [
+    "S:Listbox New",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Confirmation",
+   "Confirmation Delete",
+   "Dropdown - Status",
+   "Edit",
+   "List",
+   "List - Empty",
+   "List - Full Table",
+   "Select",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5162:186881",
+     "name": "List",
+     "w": 1440,
+     "h": 971,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5162-186881"
+    },
+    {
+     "id": "5162:186926",
+     "name": "List - Full Table",
+     "w": 1961,
+     "h": 971,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5162-186926"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5166:209377",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5166-209377"
+    },
+    {
+     "id": "5337:489167",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5337-489167"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5162:191226",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 1070,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5162-191226"
+    },
+    {
+     "id": "5162:191233",
+     "name": "Dropdown - Status",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5162-191233"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Antenna Listing | RFS",
+  "pageId": "5133:43159",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 22,
+  "kinds": {
+   "shell": 8,
+   "overlay-modal": 2,
+   "overlay-drawer": 10
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | RFID Config",
+    8
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    8
+   ]
+  ],
+  "content": [
+   [
+    "S:Listbox Item/Single Item New",
+    17
+   ],
+   [
+    "S:Drawer Right",
+    10
+   ],
+   [
+    "G:Section Layout - Table",
+    8
+   ],
+   [
+    "G:Table - Antenna Listing - List",
+    8
+   ],
+   [
+    "S:Listbox New",
+    5
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ],
+   [
+    "G:Modal Confirmation - Bulk",
+    1
+   ],
+   [
+    "G:Modal Confirmation - Delete",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Confirmation",
+   "Confirmation Delete",
+   "Dropdown - Status",
+   "Edit",
+   "List",
+   "List - Empty",
+   "List - Full Table",
+   "Select",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5167:211869",
+     "name": "List",
+     "w": 1440,
+     "h": 971,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5167-211869"
+    },
+    {
+     "id": "5167:211888",
+     "name": "List - Full Table",
+     "w": 1440,
+     "h": 971,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5167-211888"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5337:490322",
+     "name": "Confirmation",
+     "w": 1424,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5337-490322"
+    },
+    {
+     "id": "5171:25893",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5171-25893"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5171:25784",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 1070,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5171-25784"
+    },
+    {
+     "id": "5171:25795",
+     "name": "Dropdown - Status",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5171-25795"
+    }
+   ]
+  }
+ },
+ {
+  "page": "System Health 🟡",
+  "pageId": "5004:113410",
+  "flags": [
+   "🟡"
+  ],
+  "frames": 14,
+  "kinds": {
+   "shell": 8
+  },
+  "rail": "SWT",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    8
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    8
+   ]
+  ],
+  "content": [
+   [
+    "G:System Health - Card",
+    18
+   ],
+   [
+    "G:Section Layout",
+    10
+   ],
+   [
+    "S:Alert - System Health",
+    8
+   ],
+   [
+    "G:Data Display - Training Result, System H",
+    8
+   ],
+   [
+    "S:Accordion Group",
+    6
+   ]
+  ],
+  "stateNames": [
+   "System Health",
+   "System Health - Details - BIT TRMS",
+   "System Health - Details - BIT TRMS - Expand",
+   "System Health - Details - Expand",
+   "System Health - Details - HUMS",
+   "System Health - Full Page"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5128:324469",
+     "name": "System Health - Full Page",
+     "w": 1440,
+     "h": 1701,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5128-324469"
+    },
+    {
+     "id": "5128:324544",
+     "name": "System Health - Details - HUMS",
+     "w": 1440,
+     "h": 1565,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5128-324544"
+    }
+   ]
+  }
+ },
+ {
+  "page": "User List | RFS",
+  "pageId": "5014:57",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 36,
+  "kinds": {
+   "shell": 15,
+   "overlay-drawer": 15,
+   "overlay-modal": 3
+  },
+  "rail": "Users",
+  "sidebar": [
+   [
+    "Sidebar-User Mgmt | Default",
+    15
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    15
+   ]
+  ],
+  "content": [
+   [
+    "S:Listbox Item/Single Item New",
+    16
+   ],
+   [
+    "G:Section Layout - Table",
+    15
+   ],
+   [
+    "S:Tab Group v2",
+    15
+   ],
+   [
+    "S:Drawer Right",
+    15
+   ],
+   [
+    "G:Table - User Mgmt - User List",
+    9
+   ],
+   [
+    "S:Listbox New",
+    5
+   ],
+   [
+    "G:Table - User Mgmt - User List Operator",
+    3
+   ],
+   [
+    "G:Table - User Mgmt - User List Archived",
+    3
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled Password Fair",
+   "Add - Filled Password Good",
+   "Add - Filled Password Strong",
+   "Add - Filled Password Weak",
+   "Add - Operator",
+   "Confirmation",
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "Dropdown - Company Name - Empty",
+   "Dropdown - Company Name - Type In",
+   "Dropdown - More",
+   "Dropdown - Options",
+   "Dropdown - Rank",
+   "Dropdown - Role",
+   "Edit",
+   "List",
+   "List - Empty",
+   "List - Filter Applied",
+   "List - Full Table",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5014:9093",
+     "name": "List",
+     "w": 1440,
+     "h": 1012,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5014-9093"
+    },
+    {
+     "id": "5014:9114",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 947,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5014-9114"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5014:9164",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5014-9164"
+    },
+    {
+     "id": "5014:9168",
+     "name": "Drawer - Filter - Selected",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5014-9168"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5157:102965",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5157-102965"
+    },
+    {
+     "id": "5157:101517",
+     "name": "Confirmation",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5157-101517"
+    }
+   ]
+  }
+ },
+ {
+  "page": "User Details | RFS",
+  "pageId": "5109:111647",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 7,
+  "kinds": {
+   "shell": 6,
+   "other": 1
+  },
+  "rail": "Users",
+  "sidebar": [
+   [
+    "Sidebar-User Mgmt | Default",
+    6
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    6
+   ]
+  ],
+  "content": [
+   [
+    "S:Key Value",
+    32
+   ],
+   [
+    "G:Section Layout",
+    6
+   ],
+   [
+    "G:Section Layout - Table",
+    6
+   ],
+   [
+    "G:Table - User Mgmt - User Details - Activ",
+    6
+   ]
+  ],
+  "stateNames": [
+   "Activities Filled",
+   "Dropdown - More",
+   "Restore",
+   "User Details",
+   "User Details - Archived"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5014:9360",
+     "name": "User Details",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5014-9360"
+    },
+    {
+     "id": "5014:9392",
+     "name": "Activities Filled",
+     "w": 1440,
+     "h": 1317,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5014-9392"
+    }
+   ],
+   "other": [
+    {
+     "id": "6027:903665",
+     "name": "Restore",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6027-903665"
+    }
+   ]
+  }
+ },
+ {
+  "page": "User Role | RFS",
+  "pageId": "5029:2",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 15,
+  "kinds": {
+   "shell": 5,
+   "overlay-drawer": 6,
+   "overlay-modal": 2
+  },
+  "rail": "Users",
+  "sidebar": [
+   [
+    "Sidebar-User Mgmt | Default",
+    5
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    5
+   ]
+  ],
+  "content": [
+   [
+    "S:Drawer Right",
+    6
+   ],
+   [
+    "G:Section Layout - Table",
+    5
+   ],
+   [
+    "G:Table - User Mgmt - User Role",
+    5
+   ],
+   [
+    "S:Listbox Item/Single Item New",
+    2
+   ],
+   [
+    "G:Modal Confirmation - Delete",
+    2
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ],
+   [
+    "S:Listbox New",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Confirmation Delete",
+   "Confirmation Delete - Blocked",
+   "Dropdown - Role",
+   "Edit",
+   "List",
+   "List - Empty",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:61",
+     "name": "List",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-61"
+    },
+    {
+     "id": "5029:80",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-80"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5029:101",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-101"
+    },
+    {
+     "id": "5029:107",
+     "name": "Dropdown - Role",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-107"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5157:99982",
+     "name": "Confirmation Delete - Blocked",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5157-99982"
+    },
+    {
+     "id": "5157:99984",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5157-99984"
+    }
+   ]
+  }
+ },
+ {
+  "page": "User Permission | RFS",
+  "pageId": "5029:1934",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 4,
+  "kinds": {
+   "shell": 4
+  },
+  "rail": "Users",
+  "sidebar": [
+   [
+    "Sidebar-User Mgmt | Default",
+    4
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    4
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    4
+   ],
+   [
+    "G:Table - User Mgmt - User Permission",
+    4
+   ]
+  ],
+  "stateNames": [
+   "If Has Any Change",
+   "List",
+   "List - If >4 User Roles",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:2029",
+     "name": "List",
+     "w": 1440,
+     "h": 938,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-2029"
+    },
+    {
+     "id": "6027:907601",
+     "name": "List - If >4 User Roles",
+     "w": 1440,
+     "h": 951,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6027-907601"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Rank | RFS",
+  "pageId": "5029:3597",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 15,
+  "kinds": {
+   "shell": 7,
+   "overlay-modal": 2,
+   "overlay-drawer": 5
+  },
+  "rail": "Users",
+  "sidebar": [
+   [
+    "Sidebar-User Mgmt | Default",
+    7
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    7
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    7
+   ],
+   [
+    "G:Table - User Mgmt - Rank",
+    7
+   ],
+   [
+    "S:Drawer Right",
+    5
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ],
+   [
+    "G:Modal Confirmation - Delete",
+    1
+   ],
+   [
+    "G:Modal Confirmation - Bulk",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Confirmation Delete",
+   "Edit",
+   "List",
+   "List - Empty",
+   "Select",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:3722",
+     "name": "List",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-3722"
+    },
+    {
+     "id": "5029:3739",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-3739"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5337:506261",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5337-506261"
+    },
+    {
+     "id": "5337:507682",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5337-507682"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5029:3758",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-3758"
+    },
+    {
+     "id": "5029:3764",
+     "name": "Add - Empty Error",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-3764"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Asset Type | RFS",
+  "pageId": "5133:42395",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 16,
+  "kinds": {
+   "shell": 5,
+   "overlay-drawer": 7,
+   "overlay-modal": 2
+  },
+  "rail": "Asset",
+  "sidebar": [
+   [
+    "Sidebar-Asset | Default",
+    5
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    5
+   ]
+  ],
+  "content": [
+   [
+    "S:Listbox Item/Single Item New",
+    8
+   ],
+   [
+    "S:Drawer Right",
+    7
+   ],
+   [
+    "G:Section Layout - Table",
+    5
+   ],
+   [
+    "G:Table - System Hardware - Asset Type",
+    5
+   ],
+   [
+    "S:Listbox New",
+    2
+   ],
+   [
+    "G:Modal Confirmation - Delete",
+    2
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Confirmation Delete",
+   "Confirmation Delete - Blocked",
+   "Dropdown - Asset Category",
+   "Dropdown - Status",
+   "Edit",
+   "List",
+   "List - Empty",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5157:82062",
+     "name": "List",
+     "w": 1440,
+     "h": 905,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5157-82062"
+    },
+    {
+     "id": "5157:82129",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5157-82129"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5157:85668",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 1070,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5157-85668"
+    },
+    {
+     "id": "5157:85718",
+     "name": "Dropdown - Asset Category",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5157-85718"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5158:105855",
+     "name": "Confirmation Delete - Blocked",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5158-105855"
+    },
+    {
+     "id": "5158:105857",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5158-105857"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Asset Category | RFS",
+  "pageId": "5133:42396",
+  "flags": [
+   "RFS"
+  ],
+  "frames": 16,
+  "kinds": {
+   "shell": 5,
+   "overlay-drawer": 7,
+   "overlay-modal": 2
+  },
+  "rail": "Asset",
+  "sidebar": [
+   [
+    "Sidebar-Asset | Default",
+    5
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    5
+   ]
+  ],
+  "content": [
+   [
+    "S:Drawer Right",
+    7
+   ],
+   [
+    "G:Section Layout - Table",
+    5
+   ],
+   [
+    "G:Table - System Hardware - Asset Category",
+    5
+   ],
+   [
+    "S:Listbox Item/Single Item New",
+    4
+   ],
+   [
+    "S:Listbox New",
+    2
+   ],
+   [
+    "G:Modal Confirmation - Delete",
+    2
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Empty Error",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Confirmation Delete",
+   "Confirmation Delete - Blocked",
+   "Dropdown - Alert Mode",
+   "Dropdown - Status",
+   "Edit",
+   "List",
+   "List - Empty",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5158:112995",
+     "name": "List",
+     "w": 1440,
+     "h": 909,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5158-112995"
+    },
+    {
+     "id": "5158:113014",
+     "name": "List - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5158-113014"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5159:114547",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 1070,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5159-114547"
+    },
+    {
+     "id": "5159:114555",
+     "name": "Dropdown - Status",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5159-114555"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5159:114647",
+     "name": "Confirmation Delete - Blocked",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5159-114647"
+    },
+    {
+     "id": "5159:114649",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5159-114649"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Asset Tracking | WU",
+  "pageId": "5133:42397",
+  "flags": [
+   "WU"
+  ],
+  "frames": 42,
+  "kinds": {
+   "shell": 24,
+   "overlay-drawer": 6
+  },
+  "rail": "Asset",
+  "sidebar": [
+   [
+    "Sidebar-Asset | Default",
+    24
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    24
+   ]
+  ],
+  "content": [
+   [
+    "S:Tab Group v2",
+    24
+   ],
+   [
+    "G:Section Layout",
+    21
+   ],
+   [
+    "G:SubSection in Section Layout",
+    21
+   ],
+   [
+    "S:Drawer Right",
+    6
+   ],
+   [
+    "G:Section Layout - Table",
+    3
+   ],
+   [
+    "G:Table - System Hardware - Asset Tracking",
+    3
+   ]
+  ],
+  "stateNames": [
+   "Add Antenna",
+   "Add Antenna - Filled",
+   "Add CCTV",
+   "Add CCTV - Filled",
+   "Add RFID Reader",
+   "Add RFID Reader - Filled",
+   "Antenna - Active - Click on Icon",
+   "Antenna - Active - Hover",
+   "Antenna - Inactive - Click on Icon",
+   "Antenna - Inactive - Hover",
+   "CCTV - Active - Click on Icon",
+   "CCTV - Active - Hover",
+   "CCTV - Inactive - Click on Icon",
+   "CCTV - Inactive - Hover",
+   "Dropdown - Add Device",
+   "List",
+   "List - Empty",
+   "Map",
+   "Move a Device",
+   "Moved a Device",
+   "Placing a Device",
+   "RFID Reader - Active - Click on Icon",
+   "RFID Reader - Active - Hover",
+   "RFID Reader - Inactive - Click on Icon",
+   "RFID Reader - Inactive - Hover",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5160:183524",
+     "name": "Map",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5160-183524"
+    },
+    {
+     "id": "8070:29155",
+     "name": "Dropdown - Add Device",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8070-29155"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "8076:54349",
+     "name": "Add RFID Reader",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8076-54349"
+    },
+    {
+     "id": "8076:74690",
+     "name": "Add Antenna",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=8076-74690"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Briefing Room | Synced VC NC",
+  "pageId": "5108:73521",
+  "flags": [
+   "Synced VC"
+  ],
+  "frames": 17,
+  "kinds": {
+   "shell": 6,
+   "overlay-drawer": 6,
+   "overlay-modal": 2
+  },
+  "rail": "Briefing Rooms",
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    6
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    6
+   ],
+   [
+    "G:Table - Settings - Briefing Room",
+    6
+   ],
+   [
+    "S:Drawer Right",
+    6
+   ],
+   [
+    "S:Listbox Item/Single Item New",
+    2
+   ],
+   [
+    "G:Modal Confirmation - Delete",
+    2
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ],
+   [
+    "S:Listbox New",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Briefing Room",
+   "Briefing Room - Empty",
+   "Briefing Room - Full Table",
+   "Confirmation Delete",
+   "Confirmation Delete - Blocked",
+   "Dropdown - Status",
+   "Edit",
+   "Empty Error",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:6474",
+     "name": "Briefing Room - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6474"
+    },
+    {
+     "id": "5029:6492",
+     "name": "Briefing Room",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6492"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5029:6548",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6548"
+    },
+    {
+     "id": "5029:6554",
+     "name": "Dropdown - Status",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6554"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5337:521275",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5337-521275"
+    },
+    {
+     "id": "5337:528780",
+     "name": "Confirmation Delete - Blocked",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5337-528780"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Activity Log",
+  "pageId": "5004:113408",
+  "flags": [],
+  "frames": 19,
+  "kinds": {
+   "shell": 11,
+   "overlay-drawer": 2
+  },
+  "rail": "Activity Log",
+  "sidebar": [
+   [
+    "Sidebar-SWT | Default",
+    11
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    11
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    11
+   ],
+   [
+    "G:Table - Activity Log",
+    11
+   ],
+   [
+    "S:Drawer Right",
+    2
+   ],
+   [
+    "G:Filter - SWT - Activity Log",
+    2
+   ]
+  ],
+  "stateNames": [
+   "Activity Log",
+   "Activity Log - Empty",
+   "Booking - CMT",
+   "Booking - CTT",
+   "Booking - SWT",
+   "Drawer - Filter",
+   "Drawer - Filter - Selected",
+   "List - Filter Applied"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:119095",
+     "name": "Activity Log - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-119095"
+    },
+    {
+     "id": "5029:119114",
+     "name": "Activity Log",
+     "w": 1440,
+     "h": 915,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-119114"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "6042:48455",
+     "name": "Drawer - Filter",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6042-48455"
+    },
+    {
+     "id": "6042:48459",
+     "name": "Drawer - Filter - Selected",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6042-48459"
+    }
+   ]
+  }
+ },
+ {
+  "page": "System Maintenance ❌",
+  "pageId": "5004:113409",
+  "flags": [
+   "❌"
+  ],
+  "frames": 4,
+  "kinds": {
+   "shell": 4
+  },
+  "rail": "System maintenance",
+  "sidebar": [],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    4
+   ]
+  ],
+  "content": [
+   [
+    "G:System Maintenance - Data Item",
+    8
+   ],
+   [
+    "S:Tab Group v2",
+    4
+   ],
+   [
+    "G:Section Layout",
+    2
+   ],
+   [
+    "G:Section Layout - Table",
+    2
+   ],
+   [
+    "G:Table - System Maintenance - Cronjobs",
+    2
+   ],
+   [
+    "G:Empty State - Business Components",
+    1
+   ]
+  ],
+  "stateNames": [
+   "System Maintenance - Cron Jobs",
+   "System Maintenance - Cron Jobs - Empty",
+   "System Maintenance - Data Archiving and Logs",
+   "System Maintenance - TRMS"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:122335",
+     "name": "System Maintenance - TRMS",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-122335"
+    },
+    {
+     "id": "5029:122364",
+     "name": "System Maintenance - Data Archiving and Logs",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-122364"
+    }
+   ]
+  }
+ },
+ {
+  "page": "General",
+  "pageId": "7033:691121",
+  "flags": [],
+  "frames": 3,
+  "kinds": {
+   "shell": 3
+  },
+  "rail": "Settings",
+  "sidebar": [
+   [
+    "Sidebar-Settings New | Default",
+    3
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout",
+    18
+   ],
+   [
+    "S:Input",
+    18
+   ],
+   [
+    "S:Radio Group",
+    6
+   ]
+  ],
+  "stateNames": [
+   "Change Setting",
+   "General",
+   "Toast - Saved"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:6216",
+     "name": "Change Setting",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6216"
+    },
+    {
+     "id": "5029:6237",
+     "name": "Toast - Saved",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6237"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Location",
+  "pageId": "5108:73522",
+  "flags": [],
+  "frames": 17,
+  "kinds": {
+   "shell": 7,
+   "overlay-drawer": 6,
+   "overlay-modal": 2
+  },
+  "rail": "Settings",
+  "sidebar": [
+   [
+    "Sidebar-Settings New | Default",
+    7
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    7
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    7
+   ],
+   [
+    "G:Table - Settings - Location",
+    7
+   ],
+   [
+    "S:Drawer Right",
+    6
+   ],
+   [
+    "S:Listbox Item/Single Item New",
+    2
+   ],
+   [
+    "S:Modal Confirmation",
+    2
+   ],
+   [
+    "S:Listbox New",
+    1
+   ],
+   [
+    "G:Modal Confirmation - Delete",
+    1
+   ],
+   [
+    "G:Modal Confirmation - Bulk",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Confirmation",
+   "Confirmation Delete",
+   "Dropdown - Status",
+   "Edit",
+   "Empty Error",
+   "Location",
+   "Location - Empty",
+   "Select",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:6511",
+     "name": "Location - Empty",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6511"
+    },
+    {
+     "id": "5029:6529",
+     "name": "Location",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6529"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5029:6593",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6593"
+    },
+    {
+     "id": "5029:6599",
+     "name": "Dropdown - Status",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6599"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5339:530845",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5339-530845"
+    },
+    {
+     "id": "5339:531815",
+     "name": "Confirmation",
+     "w": 1424,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5339-531815"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Notification",
+  "pageId": "7033:691122",
+  "flags": [],
+  "frames": 4,
+  "kinds": {
+   "shell": 4
+  },
+  "rail": "Settings",
+  "sidebar": [
+   [
+    "Sidebar-Settings New | Default",
+    4
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    4
+   ]
+  ],
+  "content": [
+   [
+    "S:Radio Group",
+    19
+   ],
+   [
+    "G:Section Layout",
+    4
+   ],
+   [
+    "S:Tab Group v2",
+    4
+   ]
+  ],
+  "stateNames": [
+   "Asset",
+   "Booking",
+   "Training",
+   "User"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:6197",
+     "name": "Booking",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6197"
+    },
+    {
+     "id": "7035:703862",
+     "name": "Asset",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=7035-703862"
+    }
+   ]
+  }
+ },
+ {
+  "page": "System Version",
+  "pageId": "5108:73523",
+  "flags": [],
+  "frames": 12,
+  "kinds": {
+   "shell": 5,
+   "overlay-drawer": 5,
+   "overlay-modal": 1
+  },
+  "rail": "Settings",
+  "sidebar": [
+   [
+    "Sidebar-Settings New | Default",
+    5
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    5
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    5
+   ],
+   [
+    "G:Table - Settings - System Version",
+    5
+   ],
+   [
+    "S:Drawer Right",
+    5
+   ],
+   [
+    "G:Modal Confirmation - Delete",
+    1
+   ],
+   [
+    "S:Modal Confirmation",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Add - Empty",
+   "Add - Filled",
+   "Add - Filled Error",
+   "Confirmation Delete",
+   "Edit",
+   "Empty Error",
+   "System Version",
+   "System Version - Empty",
+   "Toast - Success"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5029:6379",
+     "name": "System Version - Empty",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6379"
+    },
+    {
+     "id": "5029:6396",
+     "name": "System Version",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6396"
+    }
+   ],
+   "overlay-drawer": [
+    {
+     "id": "5029:6638",
+     "name": "Add - Empty",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6638"
+    },
+    {
+     "id": "5029:6643",
+     "name": "Add - Filled",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5029-6643"
+    }
+   ],
+   "overlay-modal": [
+    {
+     "id": "5339:536385",
+     "name": "Confirmation Delete",
+     "w": 1440,
+     "h": 900,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5339-536385"
+    }
+   ]
+  }
+ },
+ {
+  "page": "IP Whitelisting [Staging Only]",
+  "pageId": "5191:191627",
+  "flags": [],
+  "frames": 3,
+  "kinds": {
+   "shell": 3
+  },
+  "rail": "Settings",
+  "sidebar": [
+   [
+    "Sidebar-Settings New | Default",
+    3
+   ]
+  ],
+  "header": [
+   [
+    "Header Nav | Breadcrumb=1",
+    3
+   ]
+  ],
+  "content": [
+   [
+    "G:Section Layout - Table",
+    3
+   ],
+   [
+    "G:Table - Settings - IP Whitelisting",
+    3
+   ],
+   [
+    "S:Alert",
+    1
+   ]
+  ],
+  "stateNames": [
+   "IP Whitelisting",
+   "IP Whitelisting - Disabled",
+   "IP Whitelisting - Empty"
+  ],
+  "examples": {
+   "shell": [
+    {
+     "id": "5191:191629",
+     "name": "IP Whitelisting - Disabled",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5191-191629"
+    },
+    {
+     "id": "5191:191647",
+     "name": "IP Whitelisting - Empty",
+     "w": 1440,
+     "h": 914,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5191-191647"
+    }
+   ]
+  }
+ },
+ {
+  "page": "Cover",
+  "pageId": "5004:113413",
+  "flags": [],
+  "frames": 1,
+  "kinds": {
+   "other": 1
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [],
+  "content": [
+   [
+    "F:Thumbnail Cover",
+    1
+   ]
+  ],
+  "stateNames": [
+   "Thumbnail"
+  ],
+  "examples": {
+   "other": [
+    {
+     "id": "5012:31",
+     "name": "Thumbnail",
+     "w": 1920,
+     "h": 1080,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=5012-31"
+    }
+   ]
+  }
+ },
+ {
+  "page": "[Backlog] TRMS CV",
+  "pageId": "6480:6",
+  "flags": [],
+  "frames": 98,
+  "kinds": {
+   "other": 98
+  },
+  "rail": null,
+  "sidebar": [],
+  "header": [],
+  "content": [
+   [
+    "O:Navbar",
+    1015
+   ],
+   [
+    "O:chevron-down",
+    432
+   ],
+   [
+    "O:Navigation",
+    385
+   ],
+   [
+    "O:Tab",
+    214
+   ],
+   [
+    "O:Dropdowns/_Input dropdown menu item",
+    154
+   ],
+   [
+    "O:users",
+    148
+   ],
+   [
+    "O:user",
+    138
+   ],
+   [
+    "O:Avatars/Avatar label group",
+    80
+   ]
+  ],
+  "stateNames": [
+   "Cursor",
+   "Docs/Flow Label",
+   "Docs/Notes",
+   "Sidebar",
+   "TRMS - Dashboard - CV - Alerts 3",
+   "TRMS - Dashboard - CV - Alerts 4",
+   "TRMS - Dashboard - CV - Dashboard 1",
+   "TRMS - Dashboard - CV - Dashboard 10",
+   "TRMS - Dashboard - CV - Dashboard 11",
+   "TRMS - Dashboard - CV - Dashboard 12",
+   "TRMS - Dashboard - CV - Dashboard 4",
+   "TRMS - Dashboard - CV - Dashboard 5",
+   "TRMS - Dashboard - CV - Dashboard 6",
+   "TRMS - Dashboard - CV - Dashboard 9",
+   "TRMS - Dashboard - CV - Devices 1",
+   "TRMS - Dashboard - CV - Devices 10",
+   "TRMS - Dashboard - CV - Devices 11",
+   "TRMS - Dashboard - CV - Devices 12",
+   "TRMS - Dashboard - CV - Devices 2",
+   "TRMS - Dashboard - CV - Devices 3",
+   "TRMS - Dashboard - CV - Devices 4",
+   "TRMS - Dashboard - CV - Devices 5",
+   "TRMS - Dashboard - CV - Devices 6",
+   "TRMS - Dashboard - CV - Devices 7",
+   "TRMS - Dashboard - CV - Devices 8",
+   "TRMS - Dashboard - CV - Devices 9",
+   "TRMS - Dashboard - CV - Devices List - Device Details - 1",
+   "TRMS - Dashboard - CV - Devices List - Device Details - 2",
+   "TRMS - Dashboard - CV - Devices List - Device Details - 3",
+   "TRMS - Dashboard - CV - Devices List - Device Details - 4",
+   "TRMS - Dashboard - CV - Devices List - Device Details - 5",
+   "TRMS - Dashboard - CV - Devices List - Device Details - 6",
+   "TRMS - Dashboard - CV - Monitoring View",
+   "TRMS - Filter",
+   "TRMS - Filter Selected",
+   "Tooltip",
+   "Video Footage",
+   "content",
+   "trms-cv-monitoring-dashboard-redesign",
+   "trms-cv-monitoring-light-theme"
+  ],
+  "examples": {
+   "other": [
+    {
+     "id": "6480:9201",
+     "name": "TRMS - Dashboard - CV - Dashboard 1",
+     "w": 1920,
+     "h": 1215,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6480-9201"
+    },
+    {
+     "id": "6480:9568",
+     "name": "TRMS - Dashboard - CV - Dashboard 4",
+     "w": 1920,
+     "h": 1215,
+     "link": "https://www.figma.com/design/DSZ8LJROLfQc6x81oAXk2I/SWT-3.0?node-id=6480-9568"
+    }
+   ]
+  }
+ }
+]

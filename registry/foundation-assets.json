@@ -1,0 +1,241 @@
+[
+ {
+  "name": ".Icon",
+  "lib": "Foundation",
+  "page": "Icon",
+  "pageId": "409:2071",
+  "id": "989:15537",
+  "key": "6f345ed31820479e6a06979d44edc4c80b97fc92",
+  "kind": "set",
+  "variants": 99,
+  "description": "Font Awesome 7 Free Icons",
+  "axes": {
+   "Kind": {
+    "default": "solid",
+    "options": [
+     "solid",
+     "regular",
+     "brand"
+    ]
+   },
+   "Size": {
+    "default": "xxs",
+    "options": [
+     "xxs",
+     "xs",
+     "sm",
+     "md*",
+     "lg",
+     "xl",
+     "2xl",
+     "3xl",
+     "4xl",
+     "5xl",
+     "6xl"
+    ]
+   },
+   "Container": {
+    "default": "line-height",
+    "options": [
+     "none",
+     "line-height",
+     "square"
+    ]
+   }
+  },
+  "booleans": [],
+  "texts": {
+   "Icon Name": {
+    "key": "Icon Name#1309:536",
+    "default": "square-plus"
+   },
+   "Brand Name": {
+    "key": "Brand Name#4237:49",
+    "default": "font-awesome"
+   }
+  },
+  "instanceSwaps": [],
+  "slots": []
+ },
+ {
+  "name": "Authentication Provider",
+  "lib": "Foundation",
+  "page": "Logos",
+  "pageId": "5845:7505",
+  "id": "5904:2770",
+  "key": "e2e52e7cdf686d9b5bae92dcfadbc2f8b21b0f9a",
+  "kind": "set",
+  "variants": 12,
+  "description": "",
+  "axes": {
+   "Kind": {
+    "default": "Full",
+    "options": [
+     "Half",
+     "Full"
+    ]
+   },
+   "Brand": {
+    "default": "Google",
+    "options": [
+     "Apple",
+     "Facebook",
+     "Google",
+     "Instagram",
+     "Linkedin",
+     "X"
+    ]
+   }
+  },
+  "booleans": [],
+  "texts": {},
+  "instanceSwaps": [],
+  "slots": []
+ },
+ {
+  "name": "Payment Provider",
+  "lib": "Foundation",
+  "page": "Logos",
+  "pageId": "5845:7505",
+  "id": "5865:4039",
+  "key": "0679a558878fe26c83e0304304716df0fbe27737",
+  "kind": "set",
+  "variants": 126,
+  "description": "",
+  "axes": {
+   "Kind": {
+    "default": "Visa",
+    "options": [
+     "Affirm",
+     "Alipay",
+     "AmazonPay",
+     "Amex",
+     "ApplePay",
+     "Bancontact",
+     "Bitcoin",
+     "BitcoinCash",
+     "Bitpay",
+     "Citadele",
+     "DinersClub",
+     "Discover",
+     "…+30"
+    ]
+   },
+   "Size": {
+    "default": "48",
+    "options": [
+     "48",
+     "24",
+     "16"
+    ]
+   }
+  },
+  "booleans": [],
+  "texts": {},
+  "instanceSwaps": [],
+  "slots": []
+ },
+ {
+  "name": "Company Logos",
+  "lib": "Foundation",
+  "page": "Logos",
+  "pageId": "5845:7505",
+  "id": "5865:3244",
+  "key": "45ad0147068e4d8d4200c58667d3095da606c359",
+  "kind": "set",
+  "variants": 122,
+  "description": "",
+  "axes": {},
+  "booleans": [],
+  "texts": {},
+  "instanceSwaps": [],
+  "slots": []
+ },
+ {
+  "name": "Brand Icons",
+  "lib": "Foundation",
+  "page": "Brand Icons",
+  "pageId": "7721:59238",
+  "id": "7721:59263",
+  "key": "dc5ad41136e09393896d5fad905459173469fcb2",
+  "kind": "set",
+  "variants": 63,
+  "description": "",
+  "axes": {
+   "Brand": {
+    "default": "Instagram",
+    "options": [
+     "X",
+     "Instagram",
+     "Linkedin",
+     "Mastodon",
+     "Youtube",
+     "Dribbble",
+     "Behance"
+    ]
+   },
+   "Dont Chage Size": {
+    "default": "sm",
+    "options": [
+     "sm",
+     "md*",
+     "lg"
+    ]
+   },
+   "Dont Change Color": {
+    "default": "default",
+    "options": [
+     "base",
+     "default",
+     "primary"
+    ]
+   }
+  },
+  "booleans": [],
+  "texts": {},
+  "instanceSwaps": [],
+  "slots": []
+ },
+ {
+  "name": "Flag",
+  "lib": "Foundation",
+  "page": "Flags",
+  "pageId": "7722:59454",
+  "id": "7722:64697",
+  "key": "cf3a4dba319c922708fb7b728973fc92855983c4",
+  "kind": "set",
+  "variants": 400,
+  "description": "",
+  "axes": {
+   "Country": {
+    "default": "Algeria",
+    "options": [
+     "Afghanistan",
+     "Albania",
+     "Algeria",
+     "Andorra",
+     "Angola",
+     "Antigua and Barbuda",
+     "Argentina",
+     "Armenia",
+     "Aruba",
+     "Australia",
+     "Austria",
+     "Azerbaijan",
+     "…+188"
+    ]
+   },
+   "Style": {
+    "default": "square",
+    "options": [
+     "square",
+     "circle"
+    ]
+   }
+  },
+  "booleans": [],
+  "texts": {},
+  "instanceSwaps": [],
+  "slots": []
+ }
+]

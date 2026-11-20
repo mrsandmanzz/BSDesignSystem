@@ -1,0 +1,337 @@
+{
+ "meta": {
+  "source": "SWT 3.0 (DSZ8LJROLfQc6x81oAXk2I)",
+  "scanned": "2026-11-10",
+  "pages": 103,
+  "topLevelFrames": 1523,
+  "treeAnalyzed": 1233,
+  "instanceSourcesPct_excludingBacklog": {
+   "SHIELD": 61.4,
+   "Graphene icon": 33.9,
+   "GUN": 3.7,
+   "Lain/legacy": 1.0
+  },
+  "note": "Sumber instance dari sampel ≤300/frame (194.275 instance terhitung).",
+  "shellFramesWithBodySlot": 743,
+  "shellBodyPatternCounts": {
+   "other": 40,
+   "detail-tabs": 212,
+   "dashboard": 20,
+   "list-tabs": 147,
+   "list": 280,
+   "calendar": 21,
+   "sections": 23
+  }
+ },
+ "anatomy": {
+  "frame": [
+   1440,
+   900
+  ],
+  "rail": 56,
+  "sidebar": 240,
+  "header": 60,
+  "body": [
+   1096,
+   792
+  ],
+  "bodyPadding": 24
+ },
+ "patterns": [
+  {
+   "id": "P01",
+   "name": "App shell",
+   "kind": "shell",
+   "recipe": "app-shell",
+   "frames": 478,
+   "when": "Dasar semua layar aplikasi.",
+   "structure": [
+    "GUN Page Layout Template (1440×900)",
+    "slot Navigation Rail ← GUN Rail {Active=<modul>}",
+    "slot Sidebar ← GUN Sidebar-<SWT|User Mgmt|Asset|Settings New> {Open Menu}",
+    "slot Header ← SHIELD Header Nav {Breadcrumb=1} (478/478)",
+    "slot Body 1096×792 ← pola P02–P08"
+   ],
+   "rules": [
+    "Tinggi frame mengikuti isi (900–2364); Page Layout Template ikut membesar.",
+    "Body selalu dimulai SHIELD Page Header (≈120 layar) atau langsung Section Layout - Table dengan Section Header."
+   ]
+  },
+  {
+   "id": "P02",
+   "name": "List + tabel",
+   "kind": "shell",
+   "recipe": "list-page",
+   "frames": 280,
+   "when": "Daftar data: Booking List, Training Results, Asset/User/Rank, Activity Log, Settings tabel.",
+   "structure": [
+    "[SHIELD Page Header]",
+    "GUN Section Layout - Table {Table is=Default|Scrollable|No Pagin, Top Content, Mid Content}",
+    "  Section Header (SHIELD) → judul + aksi kanan",
+    "  slot Content ← tabel keluarga GUN (State=Filled|Empty|Search-Empty)",
+    "  SHIELD Pagination (kecuali No Pagin)"
+   ],
+   "states": [
+    "List - Empty",
+    "List - Filled",
+    "Search - Filled",
+    "Search - Empty Result",
+    "Drawer - Filter",
+    "Drawer - Filter - Selected",
+    "List - Filter Applied",
+    "List - Filter Applied - Empty",
+    "Dropdown - More",
+    "Toast - Success",
+    "Add/Edit - Empty/Error/Filled",
+    "Confirmation - Delete"
+   ],
+   "rules": [
+    "Filter, Add/Edit, dan konfirmasi adalah frame overlay terpisah (P11/P12), bukan di dalam frame list.",
+    "Tabel lebar didokumentasikan lewat frame 'Sticker' selebar 1440+1540·n (token sticker size)."
+   ]
+  },
+  {
+   "id": "P03",
+   "name": "List + tab",
+   "kind": "shell",
+   "recipe": "list-page-tabs",
+   "frames": 147,
+   "when": "Tab di atas/dalam tabel: Notifications, tab Nominal Roll/Lane/Blackout pada detail, tab pada hasil pelatihan.",
+   "structure": [
+    "Page Header (opsional)",
+    "GUN Section Layout - Table {Top Content=True}",
+    "  slot 🔄 Top Content ← SHIELD Tab Group v2 {Number of Tab 2–8, With Margin}",
+    "  slot Content ← tabel per tab"
+   ],
+   "rules": []
+  },
+  {
+   "id": "P04",
+   "name": "Detail bertab",
+   "kind": "shell",
+   "recipe": "detail-tabs",
+   "frames": 212,
+   "when": "Booking Details (per status), Training Result Details, Site Management Details.",
+   "structure": [
+    "Page Header (Left Content Item: Booking Details|Assignment Details|Asset Details|User|Base Station…)",
+    "SHIELD Tab Group v2 {Number of Tab=4, With Margin=False} (tab paling umum)",
+    "GUN Booking Details - Details - <Upcoming|Ongoing|Return|Completed|Cancelled>  ATAU  Section Layout - Table"
+   ],
+   "states": [
+    "Details",
+    "Details - No Briefing Room",
+    "Details - Nominal Roll Empty",
+    "Details - Blackout Conflict (Multi CW)",
+    "Dropdown - More Icon"
+   ],
+   "rules": [
+    "Status booking memilih set GUN per status; ada varian Multi CW terpisah."
+   ]
+  },
+  {
+   "id": "P05",
+   "name": "Detail berbasis section",
+   "kind": "shell",
+   "recipe": "detail-sections",
+   "frames": 23,
+   "when": "Settings (General, Notification), Asset/User Details, Asset Tracking, System Health.",
+   "structure": [
+    "Page Header",
+    "GUN Section Layout (1096 penuh, atau Row 536+536 dua kolom)",
+    "  SHIELD Key Value / Input / Radio Group di slot Content"
+   ],
+   "rules": [
+    "Settings memakai Rail Active=Settings + Sidebar-Settings New."
+   ]
+  },
+  {
+   "id": "P06",
+   "name": "Dashboard",
+   "kind": "shell",
+   "recipe": "dashboard",
+   "frames": 20,
+   "when": "Dashboard.",
+   "structure": [
+    "Page Header",
+    "Row: GUN Data Display - Booking ×2 (536×156)",
+    "GUN Data Display - Booking Team",
+    "GUN Calendar Dashboard - Day|Week|Range|Month {State}"
+   ],
+   "states": [
+    "Dashboard - Empty",
+    "Dashboard - Filled",
+    "Dashboard - Hover",
+    "Dashboard - Tab Inactive",
+    "Filled - All Completed"
+   ],
+   "rules": []
+  },
+  {
+   "id": "P07",
+   "name": "Kalender booking",
+   "kind": "shell",
+   "recipe": "calendar-page",
+   "frames": 21,
+   "when": "Booking List mode kalender.",
+   "structure": [
+    "Page Header",
+    "GUN Calendar Booking List - Day New|Week New|Month SWT {State}"
+   ],
+   "rules": [
+    "F-56: kartu kalender SHIELD menyarangkan Badge milik GUN."
+   ]
+  },
+  {
+   "id": "P08",
+   "name": "Edit multi-tabel",
+   "kind": "shell",
+   "recipe": "list-page",
+   "frames": 9,
+   "when": "Resource Planning (View/Edit).",
+   "structure": [
+    "Page Header",
+    "Section Layout",
+    "Section Layout - Table {No Pagin}",
+    "Section Layout - Table {Scrollable} + SHIELD Scroll Bar + Pagination"
+   ],
+   "rules": [
+    "Mode Edit: frame 2000–2400px tinggi; state Edit - Add New Empty/Filled Error."
+   ]
+  },
+  {
+   "id": "P09",
+   "name": "Wizard buat/ubah",
+   "kind": "wizard",
+   "recipe": "create-wizard",
+   "frames": 265,
+   "when": "Create Booking (5 langkah), Onboarding (4), Edit Detail List.",
+   "structure": [
+    "GUN Page Layout Template - Create Booking (tanpa Rail/Sidebar)",
+    "slot Header ← GUN Header Nav - Create Booking {Program} | Header Nav - Onboarding {SWT-Collective|SWT-Marksmanship} | Header Nav - Edit Detail List | Header Nav - Ongoing Session",
+    "slot Wizard ← GUN Wizard - Create Booking {Located=First|Mid|Last, Skip Button} + swap Wizard Item",
+    "slot Body: kolom 640 (Wrapper) atau Row 1392 = Column 288 + Column 1080"
+   ],
+   "states": [
+    "Empty",
+    "Collective",
+    "Dropdown …",
+    "Empty Error",
+    "Filled",
+    "Toast - Success",
+    "Discard Booking"
+   ],
+   "rules": [
+    "Langkah SWT: Create Booking → Schedule → Lane Config → Nominal Roll → Review (Modal).",
+    "Langkah Nominal Roll memakai Drawer Right (Add Trainee) dan Modal Import."
+   ]
+  },
+  {
+   "id": "P10",
+   "name": "Login (tanpa shell)",
+   "kind": "auth",
+   "recipe": "auth-login",
+   "frames": 5,
+   "when": "Autentikasi.",
+   "structure": [
+    "Frame 1440×900: gambar 800×900 + Right Content 640×900",
+    "Wrapper 384: Page Header, Form (SHIELD Input, Input - Password, Button lg primary)"
+   ],
+   "states": [
+    "Login - Empty",
+    "Login - Filled",
+    "Login - Empty Error",
+    "Login - Filled Error"
+   ],
+   "rules": []
+  },
+  {
+   "id": "P11",
+   "name": "Overlay: Drawer kanan",
+   "kind": "overlay",
+   "recipe": "overlay-drawer",
+   "frames": 181,
+   "when": "Filter, Tambah/Ubah, detail ringkas.",
+   "structure": [
+    "Frame 1440×900 terpisah: SHIELD Drawer Right {Size=md 155× | lg 22× | 2xl 4×} + Scrim",
+    "Header: SHIELD Drawer Header; slot isi: GUN Filter - SWT - <halaman>, GUN Add Trainee SWT, SHIELD Input-Summary (Read Only), Alert - Booking Conflict with Blackout, Listbox"
+   ],
+   "states": [
+    "Drawer - Filter",
+    "Drawer - Filter - Selected",
+    "Add - Empty",
+    "Add - Empty Error",
+    "Add - Filled",
+    "Add - Filled Error",
+    "Edit"
+   ],
+   "rules": [
+    "Overlay tidak ditaruh di dalam frame halaman."
+   ]
+  },
+  {
+   "id": "P12",
+   "name": "Overlay: Modal",
+   "kind": "overlay",
+   "recipe": "overlay-modal",
+   "frames": 176,
+   "when": "Konfirmasi dan modal form.",
+   "structure": [
+    "Frame 1440×900 terpisah: SHIELD Modal Confirmation {Status Warning sm 49× | Danger sm 13× | Warning md 10× | Neutral sm 5× | Success sm 2×}",
+    "atau SHIELD Modal {Size lg 47× | xs 18× | md 14× | full 6×, With Scroll Bar} + Modal Header + Scrim",
+    "domain: GUN Modal Confirmation - Delete|Remove|Move to archive|Cancel Booking|Bulk|Discard; Modal - SWT - Import Nominal Roll; Booking - Select Courseware/Assignment Modal"
+   ],
+   "states": [
+    "Confirmation",
+    "Confirmation - Delete",
+    "Confirmation - Delete - Blocked",
+    "Discard",
+    "Select Courseware",
+    "Import List - Separate - Filled"
+   ],
+   "rules": []
+  },
+  {
+   "id": "P13",
+   "name": "Toast",
+   "kind": "overlay",
+   "recipe": "toast",
+   "frames": 123,
+   "when": "Umpan balik setelah aksi.",
+   "structure": [
+    "SHIELD Toast with Container {Variant=Page|Default, Line, With Button} 1440×128 sebagai anak root frame halaman (di atas Body)"
+   ],
+   "rules": [
+    "State frame diberi nama 'Toast - Success'/'Toast - Saved'."
+   ]
+  },
+  {
+   "id": "P14",
+   "name": "Anotasi (bukan layar)",
+   "kind": "annotation",
+   "recipe": null,
+   "frames": 290,
+   "when": "Sticker (269) dan Notes (21).",
+   "structure": [
+    "SHIELD Sticker/Notes dari Design Annotations; lebar 1440+1540·n"
+   ],
+   "rules": [
+    "Abaikan saat meniru layar; jangan dihitung sebagai pola."
+   ]
+  }
+ ],
+ "legend": {
+  "markers": {
+   "❌": "layar ditinggalkan (nama halaman: Create Booking: Individual, All Reports, Assets Audit Report, System Maintenance)",
+   "🟡": "ditandai (Asset List, Assignment List, Issue Asset, System Health…); arti pasti belum dikonfirmasi",
+   "🔴": "Ongoing Session (Collective); arti pasti belum dikonfirmasi",
+   "Synced VC/NC": "sudah disinkronkan token/komponen (VC/NC)",
+   "RFS/WU": "label modul (belum dikonfirmasi)"
+  },
+  "colorCodeSection": "Halaman [INDEX] memuat kode warna: In Progress, In Review, Completed, Abandoned, Note/Info (cocok dengan variable collection Annotation di Graphene)",
+  "exclude": [
+   "[Backlog] TRMS CV (99% memakai UI kit lain, bukan Graphene/SHIELD)",
+   "frame Sticker/Notes"
+  ]
+ },
+ "moduleFile": "patterns/modules.json"
+}

@@ -1,0 +1,619 @@
+{
+ "_meta": {
+  "note": "Recipes verified against SWT 3.0 production screens (1,233 frames scanned, 2026-11-10). Resolve with: python3 registry/plan.py <recipe> --program SWT --menu Bookings",
+  "libs": {
+   "GUN": "registry/gun.json",
+   "SHIELD": "registry/shield.json"
+  },
+  "verifiedSource": "SWT 3.0 (DSZ8LJROLfQc6x81oAXk2I)"
+ },
+ "programs": {
+  "SWT": {
+   "rail": "SWT",
+   "sidebar": "Sidebar-SWT",
+   "bookingTable": "Table - Booking List",
+   "filter": "Filter - SWT - Booking List",
+   "wizardItem": "Wizard Item - Create Booking SWT",
+   "headerProgram": "SWT",
+   "calendar": "Calendar Booking List - Month SWT"
+  },
+  "CMT": {
+   "rail": "CMT",
+   "sidebar": "Sidebar-CMT",
+   "bookingTable": "Table - CMT - Booking List",
+   "filter": "Filter - CMT - Booking List",
+   "wizardItem": "Wizard Item - Create Booking CMT",
+   "headerProgram": "CMT",
+   "calendar": "Calendar Booking List - Month CMT"
+  },
+  "CTT": {
+   "rail": "CTT",
+   "sidebar": "Sidebar-CTT",
+   "bookingTable": "Table - CTT - Booking List",
+   "filter": "Filter - CTT - Booking List",
+   "wizardItem": "Wizard Item - Create Booking CTT",
+   "headerProgram": "CTT",
+   "calendar": "Calendar Booking List - Month CTT"
+  }
+ },
+ "recipes": {
+  "app-shell": {
+   "title": "Kerangka halaman 1440×900 (Rail + Sidebar + Header Nav + Body)",
+   "when": "Setiap layar aplikasi (478 layar di SWT 3.0).",
+   "size": [
+    1440,
+    900
+   ],
+   "tree": {
+    "ref": "GUN:Page Layout Template",
+    "slots": {
+     "Navigation Rail": {
+      "ref": "GUN:Rail",
+      "props": {
+       "Active": "{rail}"
+      }
+     },
+     "Sidebar": {
+      "ref": "GUN:{sidebar}",
+      "props": {
+       "Open Menu": "{menu}"
+      }
+     },
+     "Header": {
+      "ref": "SHIELD:Header Nav",
+      "props": {
+       "Breadcrumb": "1"
+      },
+      "note": "verified: 478/478 screens use Header Nav Breadcrumb=1 in the Header slot"
+     },
+     "Body": {
+      "note": "Body 1096×792. Mulai dengan SHIELD Page Header (judul, 40–56px) lalu section."
+     }
+    }
+   },
+   "notes": [
+    "Rail.Active, Sidebar & Open Menu ditentukan modul: lihat patterns/module.py <modul> atau recipes.json → modules.",
+    "Tinggi frame mengikuti isi (900–2364); Page Layout Template ikut membesar.",
+    "Header slot = SHIELD Header Nav {Breadcrumb=1} (bukan Page Header)."
+   ]
+  },
+  "list-page": {
+   "title": "Halaman daftar + tabel",
+   "when": "Booking list, Training Results, Asset/User/Rank, Activity Log, Settings tabel (≈120 layar di SWT 3.0).",
+   "extends": "app-shell",
+   "body": {
+    "ref": "GUN:Section Layout - Table",
+    "props": {
+     "Table is": "Default",
+     "Top Content": "False",
+     "Mid Content": "False"
+    },
+    "slots": {
+     "Content": {
+      "note": "tabel keluarga GUN (find.py table <topik> --lib GUN), State=Filled|Empty|Search-Empty"
+     }
+    }
+   },
+   "bodyPrefix": {
+    "ref": "SHIELD:Page Header",
+    "note": "opsional: ada di ≈120 layar; layar list tanpa Page Header memakai Section Header di dalam Section Layout - Table"
+   },
+   "states": [
+    "List - Empty",
+    "List - Filled",
+    "Search - Filled",
+    "Search - Empty Result",
+    "Drawer - Filter",
+    "Drawer - Filter - Selected",
+    "List - Filter Applied",
+    "List - Filter Applied - Empty",
+    "Dropdown - More",
+    "Toast - Success",
+    "Add - Empty",
+    "Add - Empty Error",
+    "Add - Filled",
+    "Add - Filled Error",
+    "Edit",
+    "Confirmation - Delete"
+   ],
+   "notes": [
+    "Pagination ada di dalam Section Layout - Table kecuali Table is = No Pagin.",
+    "Filter, form Add/Edit, dan konfirmasi adalah FRAME TERPISAH bertipe overlay (lihat overlay-drawer/overlay-modal)."
+   ]
+  },
+  "create-wizard": {
+   "title": "Alur buat/ubah multi-langkah",
+   "when": "265 frame (Create Booking 5 langkah, Onboarding 4 langkah, Edit Detail List).",
+   "size": [
+    1440,
+    900
+   ],
+   "tree": {
+    "ref": "GUN:Page Layout Template - Create Booking",
+    "slots": {
+     "Header": {
+      "ref": "GUN:Header Nav - Create Booking",
+      "props": {
+       "Program": "{headerProgram}"
+      },
+      "note": "Onboarding: Header Nav - Onboarding {Program=SWT-Collective|SWT-Marksmanship}; Ongoing: Header Nav - Ongoing Session"
+     },
+     "Wizard": {
+      "ref": "GUN:Wizard - Create Booking",
+      "props": {
+       "Located": "First",
+       "Skip Button": "False"
+      },
+      "note": "Located: First (langkah 1) | Mid | Last (langkah terakhir)"
+     },
+     "Body": {
+      "note": "Langkah 1: kolom 640 (Wrapper) berisi GUN 'Create Booking SWT - Step 1 - …'. Langkah Nominal Roll: Row 1392 dengan Column 288 (Section Layout - Table kecil) + Column 1080 (Page Header + Section Layout - Table)."
+     }
+    }
+   },
+   "notes": [
+    "Layout tanpa Rail/Sidebar.",
+    "Langkah SWT: 1 Create Booking → 2 Schedule → 3 Lane Config → 4 Nominal Roll → 5 Review (Modal)."
+   ]
+  },
+  "confirm-modal": {
+   "title": "Dialog konfirmasi",
+   "when": "Hapus, arsipkan, batalkan, reset password, discard.",
+   "size": [
+    1440,
+    900
+   ],
+   "tree": {
+    "ref": "GUN:Modal Confirmation - Delete",
+    "props": {
+     "What": "Role",
+     "Blocked Delete": "False"
+    },
+    "note": "Varian lain: Modal Confirmation - Remove / Move to archive / Restore from archive / Cancel Booking / Reset Password / Bulk / Discard. Sudah termasuk Scrim 1440×900."
+   },
+   "generic": {
+    "ref": "SHIELD:Modal Confirmation",
+    "props": {
+     "Status": "Danger",
+     "Size": "sm"
+    },
+    "note": "untuk kasus di luar katalog domain; tambahkan SHIELD Scrim di belakangnya"
+   },
+   "note": "Gabung dengan overlay-modal. Domain: GUN Modal Confirmation - <Delete|Remove|Move to archive|…> sudah memasang teks."
+  },
+  "form-modal": {
+   "title": "Modal berisi form",
+   "when": "Import, pilih courseware/assignment, formulir singkat.",
+   "size": [
+    1440,
+    900
+   ],
+   "tree": {
+    "ref": "SHIELD:Modal",
+    "props": {
+     "Size": "md",
+     "With Scroll Bar": "False"
+    },
+    "slots": {
+     "Slot": {
+      "note": "Section/Key Value/Input; footer Button"
+     }
+    }
+   },
+   "domain": [
+    "GUN:Modal - Import Booking",
+    "GUN:Modal - SWT - Import Nominal Roll (Single CW)",
+    "GUN:Booking - Select Courseware Modal",
+    "GUN:Booking - Select Assignment Modal"
+   ]
+  },
+  "form-field": {
+   "title": "Field formulir",
+   "when": "Input teks/angka, area teks, select, tanggal, checkbox, radio, toggle.",
+   "fields": {
+    "text": {
+     "ref": "SHIELD:Input",
+     "props": {
+      "State": "default",
+      "Size": "md*",
+      "Disabled": "false",
+      "Read-only": "false",
+      "Status": "default"
+     },
+     "texts": {
+      "Label Text": "Label",
+      "Placeholder Text": "Placeholder",
+      "Caption Text": "Caption"
+     }
+    },
+    "textarea": {
+     "ref": "SHIELD:Text Area",
+     "props": {
+      "State": "default",
+      "Size": "md*",
+      "Disabled": "false",
+      "Read-only": "false",
+      "Status": "default"
+     }
+    },
+    "select": {
+     "ref": "SHIELD:Input - Single Select",
+     "props": {
+      "Type": "Collopsed",
+      "Size": "md*"
+     },
+     "note": "nilai 'Collopsed' memang typo di library (F-40); pakai persis"
+    },
+    "date": {
+     "ref": "SHIELD:Date Picker",
+     "props": {
+      "State": "Default"
+     },
+     "note": "jangan pakai set legacy '.Date Picker - Month', '.Datetime Picker', '.xDate Picker - Booking'"
+    },
+    "checkbox": {
+     "ref": "SHIELD:Checkbox",
+     "props": {
+      "Variant": "Default",
+      "Checked": "false",
+      "State": "default",
+      "Size": "md*",
+      "Danger": "false"
+     }
+    },
+    "radio": {
+     "ref": "SHIELD:Radio ",
+     "props": {
+      "Variant": "Default",
+      "Checked": "false",
+      "State": "default",
+      "Size": "md*"
+     },
+     "note": "nama set memiliki spasi di akhir: 'Radio '"
+    },
+    "toggle": {
+     "ref": "SHIELD:Toggle",
+     "props": {
+      "Checked": "false",
+      "States": "default",
+      "Size": "md*",
+      "Disable": "false"
+     },
+     "note": "axis bernama 'States' & 'Disable' (bukan 'State'/'Disabled')"
+    }
+   },
+   "notes": [
+    "Status=danger/warning/success/info untuk validasi; teks bantu lewat Caption Text.",
+    "Ukuran default set sering 'sm'; selalu set Size eksplisit ('md*' = default produk)."
+   ]
+  },
+  "feedback": {
+   "title": "Umpan balik: toast, alert, empty state",
+   "fields": {
+    "toast": {
+     "ref": "SHIELD:Toast",
+     "props": {
+      "Kind": "Default",
+      "Size": "md*",
+      "Status": "success"
+     },
+     "texts": {
+      "Title": "Berhasil disimpan"
+     }
+    },
+    "alert": {
+     "ref": "SHIELD:Alert",
+     "props": {
+      "Kind": "filled",
+      "Status": "warning",
+      "Size": "md*",
+      "Invert": "false",
+      "Buttons": "False"
+     }
+    },
+    "empty": {
+     "ref": "GUN:Empty State - Business Components",
+     "props": {
+      "What": "Search"
+     },
+     "note": "generik: SHIELD:Empty State (Content Default|Instruction)"
+    }
+   }
+  },
+  "calendar-page": {
+   "title": "Kalender booking (Day/Week/Month)",
+   "when": "Booking List tab Calendar (≈24 frame).",
+   "extends": "app-shell",
+   "body": {
+    "ref": "SHIELD:Page Header"
+   },
+   "then": [
+    {
+     "ref": "GUN:{calendar}",
+     "props": {
+      "State": "Filled"
+     },
+     "note": "Day: Calendar Booking List - Day New; Week: Week New; Month: Month SWT. Peringatan F-56: kartu kalender SHIELD menyarangkan Badge GUN."
+    }
+   ]
+  },
+  "list-page-tabs": {
+   "title": "Daftar dengan tab di atas tabel",
+   "when": "Notifications (tab 5), Site/Asset detail dengan tab.",
+   "extends": "app-shell",
+   "body": {
+    "ref": "GUN:Section Layout - Table",
+    "props": {
+     "Table is": "Default",
+     "Top Content": "True",
+     "Mid Content": "False"
+    },
+    "slots": {
+     "🔄 Top Content": {
+      "ref": "SHIELD:Tab Group v2",
+      "props": {
+       "Number of Tab": "5",
+       "With Margin": "True"
+      }
+     },
+     "Content": {
+      "note": "tabel/daftar"
+     }
+    }
+   }
+  },
+  "detail-tabs": {
+   "title": "Detail dengan tab (Booking Details, Training Result Details)",
+   "when": "≈100 layar. Page Header + Tab Group v2 + konten per tab.",
+   "extends": "app-shell",
+   "body": {
+    "ref": "SHIELD:Page Header",
+    "note": "Left Content Item: Booking Details | Assignment Details | Asset Details | User | Base Station…"
+   },
+   "then": [
+    {
+     "ref": "SHIELD:Tab Group v2",
+     "props": {
+      "Number of Tab": "4",
+      "With Margin": "False"
+     },
+     "note": "tab terbanyak dipakai: 4 tab tanpa margin (110), 2 tab dengan margin (93), 8 tab (30)"
+    },
+    {
+     "ref": "GUN:Booking Details - Details - Upcoming",
+     "props": {
+      "Status": "Default",
+      "Station & BR": "Var 1"
+     },
+     "note": "konten tab; set per status: Upcoming/Ongoing/Return/Completed/Cancelled"
+    }
+   ],
+   "states": [
+    "Details",
+    "Details - No Briefing Room",
+    "Details - Nominal Roll Empty",
+    "Details - Blackout Conflict (Multi CW)",
+    "Dropdown - More Icon"
+   ]
+  },
+  "detail-sections": {
+   "title": "Detail/pengaturan berbasis section",
+   "when": "Settings (General/Notification), Asset Details, User Details, Asset Tracking.",
+   "extends": "app-shell",
+   "body": {
+    "ref": "SHIELD:Page Header"
+   },
+   "then": [
+    {
+     "ref": "GUN:Section Layout",
+     "props": {
+      "Top Content": "False",
+      "Mid Content": "False"
+     },
+     "note": "ulangi; 2 kolom 536+536 pada Row, atau 1096 penuh"
+    },
+    {
+     "ref": "SHIELD:Key Value",
+     "props": {
+      "Type": "Text",
+      "Layout": "Left-Left"
+     },
+     "note": "isi section; User Details memakai 32 Key Value"
+    }
+   ]
+  },
+  "dashboard": {
+   "title": "Dashboard",
+   "when": "Halaman Dashboard (20 frame).",
+   "extends": "app-shell",
+   "body": {
+    "ref": "SHIELD:Page Header"
+   },
+   "then": [
+    {
+     "ref": "GUN:Data Display - Booking",
+     "note": "2 kartu 536×156 berdampingan"
+    },
+    {
+     "ref": "GUN:Data Display - Booking Team",
+     "props": {
+      "Property 1": "Default"
+     }
+    },
+    {
+     "ref": "GUN:Calendar Dashboard - Day",
+     "props": {
+      "State": "Filled"
+     },
+     "note": "juga Week/Range/Month; State Empty|Hover|If Tab Inactive|End of Day"
+    }
+   ]
+  },
+  "overlay-drawer": {
+   "title": "Drawer kanan (filter, tambah/ubah, detail ringkas)",
+   "when": "181 frame. Frame 1440×900 TERPISAH dari halaman, hanya berisi Drawer Right + Scrim.",
+   "size": [
+    1440,
+    900
+   ],
+   "tree": {
+    "ref": "SHIELD:Drawer Right",
+    "props": {
+     "Size": "md"
+    },
+    "slots": {
+     "Slot": {
+      "note": "isi: GUN Filter - SWT - <halaman> | Add Trainee SWT | SHIELD Input-Summary (Read Only) | Alert - Booking Conflict with Blackout | Listbox New. Header: SHIELD Drawer Header"
+     }
+    },
+    "note": "Ukuran: md 155×, lg 22×, 2xl 4×"
+   },
+   "notes": [
+    "Jangan menumpuk drawer di dalam frame halaman; buat frame overlay sendiri bernama 'Drawer - <tujuan>' (mis. Drawer - Filter, Drawer - Filter - Selected)."
+   ]
+  },
+  "overlay-modal": {
+   "title": "Modal / konfirmasi",
+   "when": "≈146 frame + ≈30 modal domain. Frame 1440×900 terpisah.",
+   "size": [
+    1440,
+    900
+   ],
+   "tree": {
+    "ref": "SHIELD:Modal Confirmation",
+    "props": {
+     "Status": "Warning",
+     "Size": "sm"
+    },
+    "note": "Status terbanyak: Warning sm (49), Danger sm (13), Warning md (10), Neutral sm (5)"
+   },
+   "alt": {
+    "ref": "SHIELD:Modal",
+    "props": {
+     "Size": "lg",
+     "With Scroll Bar": "False"
+    },
+    "note": "Modal besar: lg (47×), xs (18×), md (14×), full (6×); header SHIELD Modal Header; domain: GUN Modal - SWT - Import Nominal Roll…, Booking - Select Courseware Modal"
+   }
+  },
+  "toast": {
+   "title": "Toast di atas halaman",
+   "when": "≈123 frame bernama 'Toast - …'.",
+   "tree": {
+    "ref": "SHIELD:Toast with Container",
+    "props": {
+     "Variant": "Page",
+     "Line": "Single",
+     "With Button": "False"
+    },
+    "note": "diletakkan sebagai anak frame halaman (root), bukan di dalam Body; 1440×128"
+   }
+  },
+  "auth-login": {
+   "title": "Login (tanpa shell)",
+   "when": "Login: 5 frame.",
+   "size": [
+    1440,
+    900
+   ],
+   "tree": {
+    "note": "Frame 1440×900: kiri gambar 800×900, kanan 640×900 'Right Content' → Wrapper 384: Page Header (judul), Form: SHIELD Input, SHIELD Input - Password, SHIELD Button lg primary (384×44)"
+   },
+   "fields": {
+    "user": {
+     "ref": "SHIELD:Input",
+     "props": {
+      "State": "default",
+      "Size": "md*",
+      "Disabled": "false",
+      "Read-only": "false",
+      "Status": "default"
+     }
+    },
+    "password": {
+     "ref": "SHIELD:Input - Password",
+     "props": {
+      "State": "Default",
+      "Size": "md*",
+      "Disabled": "False",
+      "Danger": "False",
+      "Hidden Password": "True"
+     }
+    },
+    "submit": {
+     "ref": "SHIELD:Button",
+     "props": {
+      "Kind": "filled",
+      "Status": "primary",
+      "State": "default",
+      "Size": "lg",
+      "Disabled": "false",
+      "Loading": "false"
+     }
+    }
+   }
+  }
+ },
+ "modules": {
+  "bookings": {
+   "rail": "SWT",
+   "sidebar": "Sidebar-SWT",
+   "menu": "Bookings"
+  },
+  "training-results": {
+   "rail": "SWT",
+   "sidebar": "Sidebar-SWT",
+   "menu": "Default"
+  },
+  "system-hardware": {
+   "rail": "SWT",
+   "sidebar": "Sidebar-SWT",
+   "menu": "System Hardware"
+  },
+  "rfid-config": {
+   "rail": "SWT",
+   "sidebar": "Sidebar-SWT",
+   "menu": "RFID Config"
+  },
+  "data": {
+   "rail": "SWT",
+   "sidebar": "Sidebar-SWT",
+   "menu": "Data"
+  },
+  "reports": {
+   "rail": "SWT",
+   "sidebar": "Sidebar-SWT",
+   "menu": "Reports"
+  },
+  "users": {
+   "rail": "Users",
+   "sidebar": "Sidebar-User Mgmt",
+   "menu": "Default"
+  },
+  "asset": {
+   "rail": "Asset",
+   "sidebar": "Sidebar-Asset",
+   "menu": "Default"
+  },
+  "settings": {
+   "rail": "Settings",
+   "sidebar": "Sidebar-Settings New",
+   "menu": "Default"
+  },
+  "activity-log": {
+   "rail": "Activity Log",
+   "sidebar": "Sidebar-SWT",
+   "menu": "Default"
+  },
+  "dashboard": {
+   "rail": "SWT",
+   "sidebar": "Sidebar-SWT",
+   "menu": "Default"
+  },
+  "notifications": {
+   "rail": "Default",
+   "sidebar": "Sidebar-SWT",
+   "menu": "Default"
+  }
+ }
+}

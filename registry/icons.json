@@ -1,0 +1,6410 @@
+{
+"Icon / minus": {
+"key": "70e1e615ef5accc730df97507b45d6057519b1b4",
+"id": "7415:66413"
+},
+"Icon / plus": {
+"key": "8816b1657ad28331d0c52ca849edd08f82498b43",
+"id": "7415:66477"
+},
+"Icon / trash": {
+"key": "8c4ac648d84f02d0f7b7b62b2236cebbf503040f",
+"id": "7415:66742"
+},
+"Icon / pencil": {
+"key": "862b9f1d41b6fb862dbee709daba1a7e445a68b5",
+"id": "7415:65945"
+},
+"Icon / bookmark": {
+"key": "6e722d379ddd77d3fe774c632d6b522ff5b7daf1",
+"id": "7415:66754"
+},
+"Icon / x": {
+"key": "2e1e812336e3bc08d921e564c9a40ca3b59242dd",
+"id": "7415:66788"
+},
+"Icon / mail": {
+"key": "58465cd3c2e7fc1e9c754abe88b830b5d09e20f7",
+"id": "7415:66782"
+},
+"Icon / chevron-down": {
+"key": "71209ea0f676dca59dee1205fdd34ecd31e95aa0",
+"id": "7415:66771"
+},
+"Icon / ellipsis": {
+"key": "0f3d104fd5a3068ad152ed6b5b7e3d505fc24d62",
+"id": "7415:66428"
+},
+"Icon / ellipsis-vertical": {
+"key": "3bea4bf499069a0829973c3f2eed3d525f1257a2",
+"id": "7415:66612"
+},
+"Icon / check": {
+"key": "1f43c1b5ce1cec2173c13e516a2771ae5e3dd513",
+"id": "7415:66778"
+},
+"Icon / chevron-right": {
+"key": "890d71b581ba7aab010fa2330fd444a1dc8c831d",
+"id": "7415:66767"
+},
+"Icon / circle-dashed": {
+"key": "14771cf988734467261e0ce619c9fda85023f8fc",
+"id": "7415:66787"
+},
+"Icon / chevron-left": {
+"key": "1b55bda26f60dd8d69b0e81592c9852c872e7861",
+"id": "7415:66484"
+},
+"Icon / square-dashed": {
+"key": "d45b70937b75fc27a45179d0fb6dcb3511deb50e",
+"id": "7415:66686"
+},
+"Icon / columns": {
+"key": "ccea4419afd228cf1fd20506e8ad099987db782b",
+"id": "7415:66538"
+},
+"Icon / chevron-up": {
+"key": "ddf64f505d28830445281f42a0f110c3ae37b3b7",
+"id": "7415:66633"
+},
+"Icon / chevrons-up-down": {
+"key": "295b8d6b4478dea0ba13b9e4040ef8b67708bd53",
+"id": "7415:66614"
+},
+"Icon / arrow-right": {
+"key": "0842b9e531e7966637671fcf225d47abab6ea1e5",
+"id": "7415:66774"
+},
+"Icon / circle-alert": {
+"key": "f7fe89661a7dfbe8c29595b008c1ec3e1311a650",
+"id": "7415:66673"
+},
+"Icon / panel-left": {
+"key": "d87a86a75d32d3856253a8f8ebb8585b908fc72c",
+"id": "7415:66776"
+},
+"Icon / circle-check": {
+"key": "ea96ef4f4071b06975eb109d36671bdda29db602",
+"id": "7415:66556"
+},
+"Icon / trending-up": {
+"key": "59d5a8097c27d484acd8c11f30a23432f2635511",
+"id": "7415:66756"
+},
+"Icon / calendar": {
+"key": "c76115a7a1a6136577ea8f30ffde956ec68360f3",
+"id": "7415:66654"
+},
+"Icon / panel-left-open": {
+"key": "0d0faa33d62e7f0434afd67870248c2227d8ae3b",
+"id": "7415:66750"
+},
+"Icon / log-out": {
+"key": "755ff9cb067971541e5b25807a23e3e007e6666f",
+"id": "7415:66548"
+},
+"Icon / user": {
+"key": "c924eec4f2cf89c62e785d7137a7b8b0bd6eda71",
+"id": "7415:66662"
+},
+"Icon / arrow-up-down": {
+"key": "0378ac18daaa94b5b4483a54f9e09ccc2cdd8dde",
+"id": "7415:66748"
+},
+"Icon / loader": {
+"key": "7a4283b842756c540d21515cb8964656e19a2f00",
+"id": "7415:66543"
+},
+"Icon / list-filter": {
+"key": "0b5ff38a094d4b630e329a95c984ce66269ffbcc",
+"id": "7415:65924"
+},
+"Icon / search": {
+"key": "1e19197564ec9a6d952afda85254196dbe5eb24b",
+"id": "7415:66508"
+},
+"Icon / clock-1": {
+"key": "1a0a33cb0528b3bea02d4b323a15b7af2220c655",
+"id": "7415:66313"
+},
+"Icon / external-link": {
+"key": "19fb059eb262457fb0cba97277d49122c4b5c402",
+"id": "7415:65373"
+},
+"Icon / badge-check": {
+"key": "af6e5f10cee1794bb911e7973287789ccf636301",
+"id": "7415:66582"
+},
+"Icon / slash": {
+"key": "1ef2cea2ed64d4b248f311be8ecc4998dba299c1",
+"id": "7415:66801"
+},
+"Icon / lock": {
+"key": "2f4ad9f7f709e9862f33344e9d99eeb7afebc140",
+"id": "7415:65750"
+},
+"Icon / a-arrow-down": {
+"key": "50910b227c26d1badbfe0ed7a1a49ae158361ce5",
+"id": "7415:66372"
+},
+"Icon / a-arrow-up": {
+"key": "ed2d0d030f2bda87f900b0d62fb486703d27b974",
+"id": "7415:66439"
+},
+"Icon / a-large-small": {
+"key": "3eb8c83ada61665f4bfe6b775c2de30b4dbc800a",
+"id": "7415:66745"
+},
+"Icon / accessibility": {
+"key": "bb801965c058d6c73a6429c949a95631ec33b0d1",
+"id": "7415:66482"
+},
+"Icon / activity": {
+"key": "791878810fc3675549e39f79636ee7636e8aaa1e",
+"id": "7415:65922"
+},
+"Icon / air-vent": {
+"key": "8bb8da0e89de76f2f419f2462440c710995ac5a7",
+"id": "7415:66733"
+},
+"Icon / alarm-clock-check": {
+"key": "860d409b762a0eecba59a742e5714b5777df2519",
+"id": "7415:66018"
+},
+"Icon / shield-alert": {
+"key": "0fc5dafb537e0079bb1ef39ecf46600204fe816f",
+"id": "7415:66722"
+},
+"Icon / alarm-clock-minus": {
+"key": "58988e0a273e18a1fd35409e2d26a4a20202aef7",
+"id": "7415:66667"
+},
+"Icon / alarm-clock-off": {
+"key": "590ad685674f4e6ae78f4f08e7a54cb7609dd98a",
+"id": "7415:66079"
+},
+"Icon / alarm-clock-plus": {
+"key": "dbd85b5e4fc065dc1a8dbe4503412e746faf27ad",
+"id": "7415:66076"
+},
+"Icon / alarm-clock": {
+"key": "c4091c32bdf02a8f876d3ab1c359eaa228abfe4b",
+"id": "7415:65836"
+},
+"Icon / alarm-smoke": {
+"key": "467f216ce3de549a50b8086cdcdc80dccf5837d1",
+"id": "7415:66025"
+},
+"Icon / album": {
+"key": "a02deb59d1468d20ee53e856db13b55f32dfc279",
+"id": "7415:66699"
+},
+"Icon / align-center-horizontal": {
+"key": "86da5c67446925b09577601f02623dfbf1e58286",
+"id": "7415:66392"
+},
+"Icon / align-center-vertical": {
+"key": "a2013ccf974c2b620b4b1844978c7765d081fbae",
+"id": "7415:66429"
+},
+"Icon / align-center": {
+"key": "e2be1c7319aa552ab81d4a8182f6ef2634d94256",
+"id": "7415:66650"
+},
+"Icon / align-end-horizontal": {
+"key": "e6d38970f2559e7c67caf13867b0ca0ca1b09c0d",
+"id": "7415:66705"
+},
+"Icon / align-end-vertical": {
+"key": "e78c11ca531921c7051a1ac81fb607f7ce0f109e",
+"id": "7415:66701"
+},
+"Icon / align-horizontal-distribute-center": {
+"key": "4d44d1cd37f496bbb8763e2715924d8dbc5c3158",
+"id": "7415:66697"
+},
+"Icon / align-horizontal-distribute-end": {
+"key": "afae409aacd8550615f8e40f638ee3774b912b56",
+"id": "7415:66706"
+},
+"Icon / align-horizontal-distribute-start": {
+"key": "105ef5066115faf98a4bb49de4e24b07236f81ec",
+"id": "7415:66716"
+},
+"Icon / align-horizontal-justify-center": {
+"key": "8f49e5dcc93893e7a590c88ccaea5788119fd849",
+"id": "7415:66696"
+},
+"Icon / align-horizontal-justify-end": {
+"key": "46516d35552cd2e67ee3c00b492e0fb666bd0012",
+"id": "7415:66723"
+},
+"Icon / align-horizontal-justify-start": {
+"key": "1e1011c004172b96cee9ea52d9f13c87cee4114a",
+"id": "7415:66741"
+},
+"Icon / align-horizontal-space-around": {
+"key": "af7dc9e8f5acb0f000fd218e9e01e70c678c8028",
+"id": "7415:66356"
+},
+"Icon / align-horizontal-space-between": {
+"key": "956ce002c4796474895e8cad6f0c10ac3641e93b",
+"id": "7415:66314"
+},
+"Icon / align-justify": {
+"key": "d429caaef35a5c98547472f18fb40a14b6ce5043",
+"id": "7415:66688"
+},
+"Icon / align-left": {
+"key": "f7ddb63c04da58655893cc60fb637cbd8817b199",
+"id": "7415:66691"
+},
+"Icon / align-right": {
+"key": "6b206c0a82c6c51f8fe8983800dd1eae282200dd",
+"id": "7415:66763"
+},
+"Icon / align-start-horizontal": {
+"key": "f9558817dad617c7bd6f93bd1e67d411fd3d4994",
+"id": "7415:66416"
+},
+"Icon / align-vertical-distribute-center": {
+"key": "d20aeec8022c9961b9668bc6d3a773c4b8c74610",
+"id": "7415:65517"
+},
+"Icon / align-vertical-distribute-end": {
+"key": "3c841acb294145222a636fa020248275f60281be",
+"id": "7415:66690"
+},
+"Icon / align-vertical-distribute-start": {
+"key": "5af9c1f9f69572c54ea74ba0d1a973f8f07df2b2",
+"id": "7415:66689"
+},
+"Icon / align-vertical-justify-center": {
+"key": "93e224e17134fb61f874d8fb422989f933852ebd",
+"id": "7415:66485"
+},
+"Icon / align-vertical-justify-end": {
+"key": "541e213cc21814235c73c50dec9d878753261d9a",
+"id": "7415:65946"
+},
+"Icon / align-vertical-justify-start": {
+"key": "3d8c13cae6af47736b60c79050cbccd876c602a8",
+"id": "7415:66050"
+},
+"Icon / align-vertical-space-around": {
+"key": "8cb9b027c1010d8bb479118978a170550a06771b",
+"id": "7415:66803"
+},
+"Icon / align-vertical-space-between": {
+"key": "80f96080a836ae5d6d6a61b460196a43d8c6e130",
+"id": "7415:66610"
+},
+"Icon / ambulance": {
+"key": "b33d46f4474e5c8efd8dc00120044342d425d15e",
+"id": "7415:66540"
+},
+"Icon / ampersand": {
+"key": "f97c4f66a9f3a3d98fc26faacf954fd254967ec1",
+"id": "7415:66521"
+},
+"Icon / ampersands": {
+"key": "4c7f926eafde6139d8cf26e4440b8a7bef87d69d",
+"id": "7415:66576"
+},
+"Icon / amphora": {
+"key": "69f5b7bb6dec53f98d786608359f701fa4391fd3",
+"id": "7415:65318"
+},
+"Icon / anchor": {
+"key": "bba5ae696ea935b90a2da8277a47026b8c7b43d0",
+"id": "7415:65312"
+},
+"Icon / angry": {
+"key": "7737b4f60c9a5a8268c6174c7b0feac58d3dcb39",
+"id": "7415:66437"
+},
+"Icon / annoyed": {
+"key": "d917b8ab5c9160177bc3f766a3ebe1560afc5295",
+"id": "7415:66382"
+},
+"Icon / antenna": {
+"key": "0b2abba365e359ec88b96d69ba43ba5634f8b6ad",
+"id": "7415:65344"
+},
+"Icon / anvil": {
+"key": "7301c6067844030a49e7a7c579d816951971a298",
+"id": "7415:66362"
+},
+"Icon / aperture": {
+"key": "bb7c7c7560f74c5397d204aff72cc9dff732df14",
+"id": "7415:65653"
+},
+"Icon / app-window-mac": {
+"key": "cc9530b2c471504990dcb435eac51e3769b8c4eb",
+"id": "7415:66721"
+},
+"Icon / app-window": {
+"key": "4810081d6b58b50a0c59623fe4c0b2889c32985a",
+"id": "7415:65649"
+},
+"Icon / apple": {
+"key": "4d8934475841f2e85c0b09f658cd58a11e94fd6e",
+"id": "7415:65342"
+},
+"Icon / archive-restore": {
+"key": "8751e1a838e2dc88483a83c06e300e9d714b5cfc",
+"id": "7415:65643"
+},
+"Icon / archive-x": {
+"key": "98d7a4d7142c035361d30e9dcd30a9b1191706df",
+"id": "7415:65639"
+},
+"Icon / archive": {
+"key": "30fa1d1f839175b6ad2be07a6934b333b6bd1dc7",
+"id": "7415:65336"
+},
+"Icon / armchair": {
+"key": "340b89947336aaf9781ad3d9f779d7e0834a8886",
+"id": "7415:65228"
+},
+"Icon / arrow-big-down": {
+"key": "a40a245bc43df75c573e73fe9c17376fc4a7739e",
+"id": "7415:65633"
+},
+"Icon / arrow-big-left-dash": {
+"key": "d0533f198c1540db3c53f4b9c6ffed110860a8cc",
+"id": "7415:66578"
+},
+"Icon / arrow-big-left": {
+"key": "158d01d737d5f0e492018e6f8469b123edf5b36e",
+"id": "7415:66717"
+},
+"Icon / arrow-big-right-dash": {
+"key": "647d738bab5d4652f2452139b3cd77225c9e7012",
+"id": "7415:66366"
+},
+"Icon / arrow-big-right": {
+"key": "7284445a700b6e08e22569b79656e4b969c055f6",
+"id": "7415:66200"
+},
+"Icon / arrow-big-up-dash": {
+"key": "56337ffa2d3b6d70ff66e500296be1716b0fe829",
+"id": "7415:66794"
+},
+"Icon / arrow-big-up": {
+"key": "89929503c79eeb0e7988078d87d626db50a73f6f",
+"id": "7415:66677"
+},
+"Icon / arrow-down-0-1": {
+"key": "3b8f34b01377aafb75780769a754996594e0af39",
+"id": "7415:66642"
+},
+"Icon / arrow-down-1-0": {
+"key": "851e054e2ca3f00b553ad65f9720b8fff0a9f6bd",
+"id": "7415:66637"
+},
+"Icon / arrow-down-a-z": {
+"key": "76f304b307f9540b92ce8b18b968c46a01264a9c",
+"id": "7415:65265"
+},
+"Icon / arrow-down-from-line": {
+"key": "b044346071796c811e46b2bb86d9d66c34418ec6",
+"id": "7415:65693"
+},
+"Icon / arrow-down-left": {
+"key": "d2195f87bf871daffb7bde4769564daf7f3ec3c5",
+"id": "7415:65232"
+},
+"Icon / arrow-down-narrow-wide": {
+"key": "dc4e4f64e61f1de9e0a46b6314fe9c31e885a5d2",
+"id": "7415:65691"
+},
+"Icon / arrow-down-right": {
+"key": "4f01533617ff0f382287a702f2d822d058e7adfa",
+"id": "7415:65294"
+},
+"Icon / arrow-down-to-dot": {
+"key": "4a22abbba83887d92b1c707e05b1555061c123af",
+"id": "7415:65322"
+},
+"Icon / arrow-down-to-line": {
+"key": "529cabaad3b46b0498b2741edb1e70393631bdb0",
+"id": "7415:65779"
+},
+"Icon / arrow-down-up": {
+"key": "fdf3281474d5ab800938689238f923a2ad15cff8",
+"id": "7415:65775"
+},
+"Icon / arrow-down-wide-narrow": {
+"key": "c60bd2c4d5f234a4e72254310029852ca5d7e544",
+"id": "7415:65393"
+},
+"Icon / arrow-down-z-a": {
+"key": "eb9cdbe9ae161c89296bafcd88c038466054c89a",
+"id": "7415:66730"
+},
+"Icon / arrow-down": {
+"key": "631e220e765f4c0d030f231a0afa8509117d2813",
+"id": "7415:66235"
+},
+"Icon / arrow-left-from-line": {
+"key": "9184d7f0eb1c1be133c73ee4d40826141ecc4331",
+"id": "7415:65748"
+},
+"Icon / arrow-left-right": {
+"key": "b007d6d3abe4107171398a39f16df2b205cd4e4d",
+"id": "7415:65746"
+},
+"Icon / arrow-left-to-line": {
+"key": "ed5f0fd69c831016979ded6400d57ccd2cf0a5e3",
+"id": "7415:65783"
+},
+"Icon / arrow-left": {
+"key": "ca4b8bcf37abb13d279418b3d27ace46a57b812d",
+"id": "7415:66613"
+},
+"Icon / arrow-right-from-line": {
+"key": "7dbe399b7d81efcd4fb33dc76c4d2ebac6a9df16",
+"id": "7415:66605"
+},
+"Icon / arrow-right-to-line": {
+"key": "ba574a9504eb03717bdca678231e41ec318391bc",
+"id": "7415:66603"
+},
+"Icon / arrow-up-0-1": {
+"key": "5758c8c8810ef0af84c46af2c43a86434a8e9383",
+"id": "7415:66602"
+},
+"Icon / arrow-up-1-0": {
+"key": "75d76469ec8280a85c64f5680af0f341c6bf79bf",
+"id": "7415:66609"
+},
+"Icon / arrow-up-a-z": {
+"key": "cf8f2386eb59c30b1965c2d2701df66c69b004de",
+"id": "7415:65467"
+},
+"Icon / arrow-up-from-dot": {
+"key": "0ab1b95a31ea255573f96027593c2cfd51d8c536",
+"id": "7415:65465"
+},
+"Icon / arrow-up-from-line": {
+"key": "eb5ea8974d6ec7e68ba497c989e6d77c0b91f02f",
+"id": "7415:65461"
+},
+"Icon / arrow-up-left": {
+"key": "ce72cb1c7883c48df97449e9fde75347af0c2229",
+"id": "7415:66597"
+},
+"Icon / arrow-up-narrow-wide": {
+"key": "0ca50d8efe1d8b633dd7d54297bd2e1430ed5d5e",
+"id": "7415:66400"
+},
+"Icon / arrow-up-right": {
+"key": "7841de3782109ce16d470a74bac1ec4223730390",
+"id": "7415:66385"
+},
+"Icon / arrow-up-to-line": {
+"key": "892e254a20b6090f08a8e65c10697e0b57d564e6",
+"id": "7415:66594"
+},
+"Icon / arrow-up-wide-narrow": {
+"key": "7df05215d9a841987789ddbfe9ea816fb5956a45",
+"id": "7415:66592"
+},
+"Icon / arrow-up-z-a": {
+"key": "0bb5573540101a97b336ac2f93a0c4784b61f4ab",
+"id": "7415:66397"
+},
+"Icon / arrow-up": {
+"key": "ac6b710a871599ff10a68bda9d46e4250ef3c961",
+"id": "7415:66611"
+},
+"Icon / arrows-up-from-line": {
+"key": "e6d1877ba06a40afeb89f3350a7f1871f06cec67",
+"id": "7415:66591"
+},
+"Icon / asterisk": {
+"key": "4f838b20ea21945287212f176829579ffc2b546c",
+"id": "7415:66707"
+},
+"Icon / at-sign": {
+"key": "16091a07f8268ae60dac75ec177114af22279f07",
+"id": "7415:66583"
+},
+"Icon / atom": {
+"key": "ec2f5f16c711da0f75140afb5a353bcf4ef19cc6",
+"id": "7415:66693"
+},
+"Icon / audio-lines": {
+"key": "b678d6a66a0c60ff3828756d8eca892375244345",
+"id": "7415:66577"
+},
+"Icon / audio-waveform": {
+"key": "6391257a4df1497ef6b97b795f3f1647b23e69f6",
+"id": "7415:66573"
+},
+"Icon / award": {
+"key": "3f97abcb6b7733b544779548526d397d81d9b463",
+"id": "7415:66570"
+},
+"Icon / axe": {
+"key": "b097681dc06e68f1b867bf0372a6c90a7430cb6b",
+"id": "7415:66569"
+},
+"Icon / axis-3d": {
+"key": "324e9a39b65c748415da8e13a6ff39e50f96d2a0",
+"id": "7415:66406"
+},
+"Icon / baby": {
+"key": "95ff2908d7071b4763c94d216cd739eb8c4b27b4",
+"id": "7415:66407"
+},
+"Icon / backpack": {
+"key": "87c069f30c985858632c36f716337b22bab80d84",
+"id": "7415:66571"
+},
+"Icon / badge-alert": {
+"key": "1174d6401d41591ed182c550e5e5200a4c67dff0",
+"id": "7415:66561"
+},
+"Icon / badge-dollar-sign": {
+"key": "bbf64f5dd7af0be6092211d1340a889cd412945c",
+"id": "7415:66560"
+},
+"Icon / badge-euro": {
+"key": "2bc4ca9ea8e04b444211ec0ec483690f990f1873",
+"id": "7415:66631"
+},
+"Icon / badge-help": {
+"key": "dbd303ef37a9ab79a8f3306b6871474a429a7e13",
+"id": "7415:66786"
+},
+"Icon / badge-indian-rupee": {
+"key": "a2d11c5a20fa6386298cc3f3ff28ab8aa21d5495",
+"id": "7415:66685"
+},
+"Icon / badge-info": {
+"key": "b1eda8d601643ce91992931bd452e646ee692e91",
+"id": "7415:66606"
+},
+"Icon / badge-japanese-yen": {
+"key": "0f16182c1bd767df18c1cb1f0183eaef2bb0f346",
+"id": "7415:66007"
+},
+"Icon / badge-minus": {
+"key": "8a34739199468affad19b92441b8c03406d1c94d",
+"id": "7415:65663"
+},
+"Icon / badge-percent": {
+"key": "143a1140409c2156ea3cf9690d80594c527e9880",
+"id": "7415:65661"
+},
+"Icon / badge-plus": {
+"key": "ea81fa7464eb28a7f248146f86b3e4cf177b6f4e",
+"id": "7415:65741"
+},
+"Icon / badge-pound-sterling": {
+"key": "0bda65da562cec69cc466b583f82552d66a01696",
+"id": "7415:66546"
+},
+"Icon / badge-russian-ruble": {
+"key": "6b208494ba4a94556ae5c9c6a1ac2d51978b426f",
+"id": "7415:66624"
+},
+"Icon / badge-swiss-franc": {
+"key": "fadfd2dea5606e619a7535d217d1c7b73c20d844",
+"id": "7415:65765"
+},
+"Icon / badge-x": {
+"key": "40d3e222bc50c2597f9413d2cb86034b5a629b54",
+"id": "7415:65722"
+},
+"Icon / badge": {
+"key": "be2a13c6f474bde907f2be4245d323b89261cb65",
+"id": "7415:66762"
+},
+"Icon / baggage-claim": {
+"key": "77f5f66339441bbc455e3a73e5d6021663f34f4d",
+"id": "7415:66575"
+},
+"Icon / ban": {
+"key": "6fca353c8730db3c0a76928f265d81f12505bd70",
+"id": "7415:65234"
+},
+"Icon / banana": {
+"key": "2778919ae9f50561022cb26a620420965f5e180e",
+"id": "7415:66648"
+},
+"Icon / bandage": {
+"key": "8fc55990e15df4abe59a5d4ac3e8dcf90448d486",
+"id": "7415:66544"
+},
+"Icon / banknote-arrow-down": {
+"key": "dc676e05b6a562965e43e041c6d33a5fc016e1db",
+"id": "7415:66542"
+},
+"Icon / banknote-arrow-up": {
+"key": "8a9b5b2100a44534ee0008a344b60c0822f3085e",
+"id": "7415:66541"
+},
+"Icon / banknote-x": {
+"key": "ed83c7dd9b34dcdaef816602ca2aa510eeb2bbe5",
+"id": "7415:65606"
+},
+"Icon / banknote": {
+"key": "2b24e7e98330159cc87c662aaed130534542771a",
+"id": "7415:66536"
+},
+"Icon / barcode": {
+"key": "a9944782b06521aa3d218c4134bd113b2fc89481",
+"id": "7415:66473"
+},
+"Icon / baseline": {
+"key": "39ce58272a8b3b79a2b913dc60bb6b375fa6232b",
+"id": "7415:66695"
+},
+"Icon / bath": {
+"key": "4ba30797709de919335fdc15dd5f24519301c02f",
+"id": "7415:66566"
+},
+"Icon / battery-full": {
+"key": "cafd4392fbbc983ff76c3021a281c71e1cf2b765",
+"id": "7415:66792"
+},
+"Icon / battery-low": {
+"key": "709eff2ca6a20d7a0017a66b6ec25d12fb428197",
+"id": "7415:66655"
+},
+"Icon / battery-medium": {
+"key": "d6e741f1ec62adfc9672cc3d83755a6da748060e",
+"id": "7415:66680"
+},
+"Icon / battery-plus": {
+"key": "deca42bb6adcf4091c616e70a34fee0737e536ae",
+"id": "7415:66596"
+},
+"Icon / battery-warning": {
+"key": "daabd59e222a3e04a8f7990d0ab7d723cc31717b",
+"id": "7415:66535"
+},
+"Icon / battery": {
+"key": "562a6748c086955481591db6e106a7f300add793",
+"id": "7415:66737"
+},
+"Icon / beaker": {
+"key": "614e95c0ac9ed5d36c9b8c03d40473100df7a8bf",
+"id": "7415:66534"
+},
+"Icon / bean-off": {
+"key": "64ca5abcaeb76916669a1d3f4aebdcf7901a954d",
+"id": "7415:66773"
+},
+"Icon / bean": {
+"key": "f54ec0d33a8342c4332a6eecd8fd8b2f1b5e3d38",
+"id": "7415:66533"
+},
+"Icon / bed-double": {
+"key": "b9fb93c31e73ad5621979feb4f1f9cfd65955622",
+"id": "7415:66710"
+},
+"Icon / bed-single": {
+"key": "7a6a5d367bbbd3dafc38a2f10a77c068f019c532",
+"id": "7415:66747"
+},
+"Icon / bed": {
+"key": "7ad79a28506c36a80003099fc665ad9ac27f7c2f",
+"id": "7415:66579"
+},
+"Icon / beef": {
+"key": "fbeddddb2fbf658666a3c10f698969b32563eedb",
+"id": "7415:66649"
+},
+"Icon / beer-off": {
+"key": "c920a08339f238235d6dc130796a96f8a837be6a",
+"id": "7415:66795"
+},
+"Icon / beer": {
+"key": "ee58fbd281bf10365d0e82b43ed88f9c4c2307a4",
+"id": "7415:66589"
+},
+"Icon / bell-dot": {
+"key": "9a25c28796e4acacc11cf6734da0092b6adc433c",
+"id": "7415:66545"
+},
+"Icon / bell-electric": {
+"key": "7f39e46be960bb11421a463917b0f9492dfc2785",
+"id": "7415:66674"
+},
+"Icon / bell-minus": {
+"key": "b3cfe1868a7082f9d4689e282bb615d698da8964",
+"id": "7415:66804"
+},
+"Icon / bell-off": {
+"key": "b4c0fc386f2df5e8695e878988b4fac33e7bb89f",
+"id": "7415:66600"
+},
+"Icon / bell-plus": {
+"key": "59b17685a695219248a89138891569738f5f670c",
+"id": "7415:66532"
+},
+"Icon / bell-ring": {
+"key": "398f9366ceec63ab85d62bb868d07474722c7c09",
+"id": "7415:66531"
+},
+"Icon / bell": {
+"key": "78576a731458a6367cb485ff50b78d05a54f0aac",
+"id": "7415:66436"
+},
+"Icon / between-horizontal-end": {
+"key": "fe7bf73780505276b8db9da257fa2d29a8873409",
+"id": "7415:66401"
+},
+"Icon / between-horizontal-start": {
+"key": "7830e4d20ddce88005df5f799f1eb6c9b516c7b9",
+"id": "7415:66525"
+},
+"Icon / between-vertical-end": {
+"key": "48c492a2224c9d9be81f87d36b134125406056c5",
+"id": "7415:66530"
+},
+"Icon / biceps-flexed": {
+"key": "4a9ad18b7e83d5c6a78267f43e1532a03111b0c2",
+"id": "7415:66414"
+},
+"Icon / bike": {
+"key": "4cb3e2ba13d00d200f99623bb687d1391d93a4f6",
+"id": "7415:66524"
+},
+"Icon / binary": {
+"key": "2749ad63fd0cce955d17416fd3d2ac8d60ffe04a",
+"id": "7415:66342"
+},
+"Icon / binoculars": {
+"key": "97a4f8e635b4f8f54e62424f403df78dcc29c76a",
+"id": "7415:66343"
+},
+"Icon / biohazard": {
+"key": "0cc3661a2ab056d6fd185ac0b7d9018406555dba",
+"id": "7415:66306"
+},
+"Icon / bird": {
+"key": "b1acef769230f291e834c13f0a79aa45eddde49c",
+"id": "7415:66514"
+},
+"Icon / bitcoin": {
+"key": "cd0d36a83f04f829f65aee78d88c56942c8f782e",
+"id": "7415:66513"
+},
+"Icon / blend": {
+"key": "b0aa58fd6caaef76176a5f8f205bd1f3e0758b6e",
+"id": "7415:66511"
+},
+"Icon / blinds": {
+"key": "cf10ed616a9d276fad782ad17f28ec3fda4bc193",
+"id": "7415:66505"
+},
+"Icon / blocks": {
+"key": "75bc900dc9c393e9855dc721ba18ee4c86e2b1b0",
+"id": "7415:66510"
+},
+"Icon / bluetooth-connected": {
+"key": "94b3129bfb22e45fd758feb61a00ce2908e8d526",
+"id": "7415:66502"
+},
+"Icon / bluetooth-off": {
+"key": "12e317b16fa3d4733285d05e791bf0d371279ec3",
+"id": "7415:66501"
+},
+"Icon / bluetooth-searching": {
+"key": "18c794335985035e98cd988b0f3575eb8e996f24",
+"id": "7415:66708"
+},
+"Icon / bluetooth": {
+"key": "a7f1bf4c48cfbc79d2bf7270be4359c9a8ae9d34",
+"id": "7415:66500"
+},
+"Icon / bold": {
+"key": "53b01655b327cf86b3db7d0af674b7936ced3536",
+"id": "7415:66499"
+},
+"Icon / bolt": {
+"key": "33d9511104eceabc1daa8f89535ff7739e2adf8b",
+"id": "7415:66498"
+},
+"Icon / bomb": {
+"key": "e73f78301a6f2bb347f9a29643facb8100ada452",
+"id": "7415:66497"
+},
+"Icon / bone": {
+"key": "9dab93f350e2c653d2d8bf9b3a99722cbbd5c970",
+"id": "7415:66496"
+},
+"Icon / book-a": {
+"key": "e6dabe04a5e8c60b918056956aaff99fa87ba826",
+"id": "7415:66694"
+},
+"Icon / book-audio": {
+"key": "7fe1ca16a3001bbb3eab2ff53e861b29387fe350",
+"id": "7415:66495"
+},
+"Icon / book-check": {
+"key": "2e93f20cb33d439a4350a46cfc11559ecb0de56f",
+"id": "7415:66045"
+},
+"Icon / book-copy": {
+"key": "20236afb39ecaa8dd4f1c216df86937e6e6a43b2",
+"id": "7415:66595"
+},
+"Icon / book-dashed": {
+"key": "79dc6f861f2d583a22aa6a7003303e26486a5ec7",
+"id": "7415:66493"
+},
+"Icon / book-down": {
+"key": "cb48254e48a8b8e15c85addf7ff27dbfdf402fa2",
+"id": "7415:66492"
+},
+"Icon / book-headphones": {
+"key": "3b0b4820fbefd84c3d468a091b3a673502bb5ec9",
+"id": "7415:66491"
+},
+"Icon / book-image": {
+"key": "2fc3c6eb47bdd8fbf4370041f79df5711f8a610c",
+"id": "7415:66489"
+},
+"Icon / book-key": {
+"key": "c9599fafadbc796b59fed7818ab72e61eaa27451",
+"id": "7415:66487"
+},
+"Icon / book-lock": {
+"key": "43a6f2eb03ada26c5f3f22bd143885584a52c82a",
+"id": "7415:66486"
+},
+"Icon / book-marked": {
+"key": "2cb75831bed08a058495b4b9fd6baeb6bd50844e",
+"id": "7415:66479"
+},
+"Icon / book-minus": {
+"key": "f32b1327514a937cbf0fc3a02f1125b9c44c040c",
+"id": "7415:66783"
+},
+"Icon / book-open-check": {
+"key": "bbc3a6b7cb3fccaae9547f12f45760cd6f0cdfe2",
+"id": "7415:66593"
+},
+"Icon / book-open-text": {
+"key": "a6e222e6190178012eb7c631421e673f894f6862",
+"id": "7415:66478"
+},
+"Icon / book-open": {
+"key": "6b2be3ca7456ea7f961b211720b78f7afd5338ad",
+"id": "7415:66476"
+},
+"Icon / book-plus": {
+"key": "507ba80761c52c548df713da3c76aa7de508c88c",
+"id": "7415:66766"
+},
+"Icon / book-text": {
+"key": "a3f323046611d356d48f29363595a8d55d9e80ca",
+"id": "7415:66475"
+},
+"Icon / book-type": {
+"key": "217f4ffcdf342ebb3bae4baa3eb0f2243367fc33",
+"id": "7415:66657"
+},
+"Icon / book-up-2": {
+"key": "9d6921370595759ab08de2c2be2edbda361dd25e",
+"id": "7415:66734"
+},
+"Icon / book-up": {
+"key": "8935c042d547e025f9f6bd613e3b941a095a8c71",
+"id": "7415:66711"
+},
+"Icon / book-user": {
+"key": "0d131a65716e612accd0b594fb60efe3f6ec28f6",
+"id": "7415:66373"
+},
+"Icon / book-x": {
+"key": "ac79508eda2534c77e20233d16ba374059822824",
+"id": "7415:66054"
+},
+"Icon / book": {
+"key": "6c40bf5a6b76bf57542966a1c15c3f58d2503cc9",
+"id": "7415:66472"
+},
+"Icon / bookmark-check": {
+"key": "31e0fa63de2e2d6425fba8fe1d85fa3d9c2df9cd",
+"id": "7415:66470"
+},
+"Icon / bookmark-minus": {
+"key": "7d3f30ff349b65f50c6acd46aacabfebe3ee9bfc",
+"id": "7415:66468"
+},
+"Icon / bookmark-plus": {
+"key": "1d3486b65f4c081c29d73e47bcb39af3c9c5cdbe",
+"id": "7415:66632"
+},
+"Icon / bookmark-x": {
+"key": "24020e5afb9846ba63081f6452c6e423fac00533",
+"id": "7415:66466"
+},
+"Icon / boom-box": {
+"key": "2415553d7b4b81ddeaf7bc06a710691e918a1671",
+"id": "7415:66719"
+},
+"Icon / bot-message-square": {
+"key": "e3565aeef61a57b8d898256d956f2f33268a9b4d",
+"id": "7415:66790"
+},
+"Icon / bot-off": {
+"key": "398fd1c7811f4df0e4ff39aa61e9a512008ae2ad",
+"id": "7415:66494"
+},
+"Icon / bot": {
+"key": "a7d69fa3e4adb8951b0fb2ba0ea837087121159b",
+"id": "7415:66660"
+},
+"Icon / bow-arrow": {
+"key": "d99b2014f183158fdbe723994b1670564ef12a21",
+"id": "7415:66464"
+},
+"Icon / boxes": {
+"key": "b31535069425952c5d7cfb042ba6073b36bb7ecb",
+"id": "7415:66461"
+},
+"Icon / braces": {
+"key": "1ed47f89aa7cec19a1eafa828e38ed492862d502",
+"id": "7415:66755"
+},
+"Icon / brackets": {
+"key": "8b596f57378cd59d92704ceed801c6e0e881256a",
+"id": "7415:66460"
+},
+"Icon / brain-circuit": {
+"key": "a8d91fdbe36ed7951f27134994e232f8f31019f9",
+"id": "7415:66459"
+},
+"Icon / brain-cog": {
+"key": "b4f7ff840c9960d2da86e454e36c3ffff8832e2f",
+"id": "7415:66335"
+},
+"Icon / brain": {
+"key": "c66a25c01987af79288d4551480e9cfb78ea9070",
+"id": "7415:66458"
+},
+"Icon / brick-wall-fire": {
+"key": "d72cd61336e7c03000543dd0292c3364b09320b6",
+"id": "7415:66645"
+},
+"Icon / brick-wall": {
+"key": "ada9b272b2ce6d39185ea427f3e5e1532846a2f7",
+"id": "7415:66563"
+},
+"Icon / briefcase-business": {
+"key": "7992291c926b4bf75393ac4b59000e381613f10e",
+"id": "7415:66709"
+},
+"Icon / briefcase-conveyor-belt": {
+"key": "a21c6d8631a1c45eddc31d5da143b3026d5186a0",
+"id": "7415:66516"
+},
+"Icon / briefcase-medical": {
+"key": "74a704d59fefabcca894c9a615a57d3a239cdda9",
+"id": "7415:66457"
+},
+"Icon / briefcase": {
+"key": "27607a697caf0ab1ca7464fcc2668d967ea35dab",
+"id": "7415:66456"
+},
+"Icon / bring-to-front": {
+"key": "9cfb6174aee573addade86624d019d0b6b34ae43",
+"id": "7415:66453"
+},
+"Icon / brush-cleaning": {
+"key": "1dda5e744d380a39d44a5d879c7e7a3927b02ec9",
+"id": "7415:66746"
+},
+"Icon / brush": {
+"key": "5f6b81fd6a5dc76ff003da29869dc29bc3197d5d",
+"id": "7415:66702"
+},
+"Icon / bubbles": {
+"key": "e9bdf9f6d520b970b7b8a4a72e757ab0a129b85b",
+"id": "7415:66452"
+},
+"Icon / bug-off": {
+"key": "ef56e3ce22724d8c5cdffa7fa467f45f0a24b7ed",
+"id": "7415:66450"
+},
+"Icon / bug-play": {
+"key": "cf0f0ab96aab8959f4d584ffcd11eb4b551f4042",
+"id": "7415:66448"
+},
+"Icon / bug": {
+"key": "5b7c2114f38d99d6708e6fa01f3345d302018138",
+"id": "7415:66604"
+},
+"Icon / building-2": {
+"key": "eafad165cb16cda761caa9d296b6399862db1185",
+"id": "7415:66446"
+},
+"Icon / building": {
+"key": "c892a0462878a998db39b7fce907dfe57a4ecc76",
+"id": "7415:66430"
+},
+"Icon / bus-front": {
+"key": "0c5d86a18db6180bcafe2ba82a1bdb97d49cde91",
+"id": "7415:66623"
+},
+"Icon / bus": {
+"key": "7368c28c1a54e1f218994915812382c17fe10790",
+"id": "7415:66445"
+},
+"Icon / cable-car": {
+"key": "ef8d85b3093d461459ac5f95c7df7f59e15dd743",
+"id": "7415:66312"
+},
+"Icon / cable": {
+"key": "b42cc61800e947ec00a62a8e1662158aed505251",
+"id": "7415:66618"
+},
+"Icon / cake": {
+"key": "c5a609c4b529c648c7e3488552ebbc430efb5b2a",
+"id": "7415:66442"
+},
+"Icon / calculator": {
+"key": "abdf8c0261394c5686042d26c4a88a5f15e7cf70",
+"id": "7415:66760"
+},
+"Icon / calendar-1": {
+"key": "a88ee3950f206d1cc36308ee97b27a86fe5bc6de",
+"id": "7415:66467"
+},
+"Icon / calendar-arrow-down": {
+"key": "f7a521bbd63a9b995aa9ad53bf5f4a89c35eec1b",
+"id": "7415:66441"
+},
+"Icon / calendar-arrow-up": {
+"key": "747602ea5dc081805def0668aaa33ec526cd2632",
+"id": "7415:66440"
+},
+"Icon / calendar-check-2": {
+"key": "a7d47dfaa4a7d1639d48452a044b61cf66b6c4b5",
+"id": "7415:66438"
+},
+"Icon / calendar-check": {
+"key": "8c4437afb9ac3a5cca676b51bf402474eecd0e33",
+"id": "7415:66319"
+},
+"Icon / calendar-clock": {
+"key": "51a8b8df925461708bdd663e13e874eca1ff95a6",
+"id": "7415:66435"
+},
+"Icon / calendar-cog": {
+"key": "c204cc444efaa4192cf8c3173cdd9ac7b5cba861",
+"id": "7415:66434"
+},
+"Icon / calendar-days": {
+"key": "df4992f7e33ca3c327dc9e29d80f25b98bd199c0",
+"id": "7415:66714"
+},
+"Icon / calendar-fold": {
+"key": "807dc724375424ac6312fe8bc0abdd8e12d43f60",
+"id": "7415:66433"
+},
+"Icon / calendar-heart": {
+"key": "2d94d8e75470800013f794ba6fc6a424625e9c6a",
+"id": "7415:66427"
+},
+"Icon / calendar-minus-2": {
+"key": "69dfe850ac35e4796d4b1643069b33bb4d6c74d7",
+"id": "7415:66426"
+},
+"Icon / calendar-minus": {
+"key": "26cf1f68ee39361c3050fdbf283d0bac970caf64",
+"id": "7415:66410"
+},
+"Icon / calendar-off": {
+"key": "c153e17c24993c35e6bedc8b8376a8ce17ed2e3f",
+"id": "7415:66425"
+},
+"Icon / calendar-plus-2": {
+"key": "7fe4845563059219e2ced217502dbb338137b11b",
+"id": "7415:66424"
+},
+"Icon / calendar-plus": {
+"key": "7ca9b134d377dd47eefe4563364ee7582ba69445",
+"id": "7415:66785"
+},
+"Icon / calendar-range": {
+"key": "a4cb923a4debe4760d0222c0ea37bdf39fbd0cb4",
+"id": "7415:66423"
+},
+"Icon / calendar-search": {
+"key": "302f2d6ca123845e452dcbb52857dd8682ac8292",
+"id": "7415:66518"
+},
+"Icon / calendar-sync": {
+"key": "bdc189f04ce3b27240fa2d9dfe1ed80163b5f01a",
+"id": "7415:66422"
+},
+"Icon / calendar-x-2": {
+"key": "8cca300cb60c4c35217ad79645970c5ac45d9923",
+"id": "7415:66421"
+},
+"Icon / calendar-x": {
+"key": "c81354e57d05a4a45ece3e12d3dcb7071c521747",
+"id": "7415:66772"
+},
+"Icon / camera-off": {
+"key": "ac3b860c71528a20b028cc3b8d4acbccac270113",
+"id": "7415:66055"
+},
+"Icon / camera": {
+"key": "76f3e76665cf051c4f83fead61bcff09a8d6b260",
+"id": "7415:66630"
+},
+"Icon / candy-cane": {
+"key": "e9e6c533c321602ad9ac8057f4c4b2169d53e224",
+"id": "7415:66420"
+},
+"Icon / candy": {
+"key": "8004492f442ec7ba5248caf5839723f807b41dd9",
+"id": "7415:66418"
+},
+"Icon / cannabis": {
+"key": "4a816c233385bf2b828dc3b4639327cc2e8c71ad",
+"id": "7415:66797"
+},
+"Icon / captions-off": {
+"key": "ad3a6deb2d95bcda8f293ed150a96f981000e374",
+"id": "7415:66608"
+},
+"Icon / captions": {
+"key": "cd3e0af6358c18a67a048b03b2225d0ed98551fa",
+"id": "7415:66698"
+},
+"Icon / car-front": {
+"key": "961ccbc5bda39036f0e81a5b972185fc3dbfe73c",
+"id": "7415:66647"
+},
+"Icon / car-taxi-front": {
+"key": "9b4f6b9e0a2cc8d2d93db296dcda9497e1474765",
+"id": "7415:66359"
+},
+"Icon / car": {
+"key": "663a0356cfcfa42735cf7f97078093ba485a594e",
+"id": "7415:66412"
+},
+"Icon / caravan": {
+"key": "3e040de373846a04eed037eef0127813c57649d3",
+"id": "7415:66348"
+},
+"Icon / carrot": {
+"key": "8f32fc6b7c53154aa9b5766b989c9a5672cc4c1d",
+"id": "7415:65476"
+},
+"Icon / case-lower": {
+"key": "2338c38ad7de82c75092dba5966e6580349f2c05",
+"id": "7415:66718"
+},
+"Icon / case-sensitive": {
+"key": "f4053246a7873b528782a76a6d11f877c1bbb397",
+"id": "7415:66431"
+},
+"Icon / case-upper": {
+"key": "32112e344352fcbcd09df1b2b36fdfbee78043e1",
+"id": "7415:66408"
+},
+"Icon / cassette-tape": {
+"key": "60e06fa55a173ac56fdc9b75f0348063e566be30",
+"id": "7415:66432"
+},
+"Icon / cast": {
+"key": "38cfb20af85c26276e06626c526a834f6647939f",
+"id": "7415:66789"
+},
+"Icon / castle": {
+"key": "780e435100c99c16ad27cf591ba57ad64796ebbb",
+"id": "7415:65484"
+},
+"Icon / cat": {
+"key": "b9542ebd6d788bfb683c4a284e2863aceb0043df",
+"id": "7415:66405"
+},
+"Icon / cctv": {
+"key": "86f2e90a47d0a1e0ee098d49b8028f30c7291be0",
+"id": "7415:66399"
+},
+"Icon / chart-area": {
+"key": "b50a3299df3c1b258dc4cb12151ee6a645b52d61",
+"id": "7415:66396"
+},
+"Icon / chart-bar-big": {
+"key": "484ca3daca581304c3d524d0093d725a98412d3a",
+"id": "7415:66474"
+},
+"Icon / chart-bar-decreasing": {
+"key": "53a79755b1ed7c0eadab48e06fb7c66154a3aafd",
+"id": "7415:66393"
+},
+"Icon / chart-bar-increasing": {
+"key": "bd92b27ce2add58177869d18dcb2961f1b8311d7",
+"id": "7415:65478"
+},
+"Icon / chart-bar-stacked": {
+"key": "04708e7e4ba298532adfb86529d9997ec919f476",
+"id": "7415:66390"
+},
+"Icon / chart-bar": {
+"key": "ee544d9c46fe1590be5ad57d21d1f1328e9ae3d5",
+"id": "7415:66601"
+},
+"Icon / chart-candlestick": {
+"key": "0f1547e215c9748c8e4b5ead338a9f1a135cd5c3",
+"id": "7415:66735"
+},
+"Icon / chart-column-big": {
+"key": "a144119986729a420633bad8317833ac7cf9429a",
+"id": "7415:66651"
+},
+"Icon / chart-column-increasing": {
+"key": "860201e5b9d99a59eb574363b43421e553422036",
+"id": "7415:66506"
+},
+"Icon / chart-column-stacked": {
+"key": "07fd1764ebea244f75af239779b42c81c688e92d",
+"id": "7415:66503"
+},
+"Icon / chart-column": {
+"key": "7484121f5f492a735caa5b3f6442459b9d8d3465",
+"id": "7415:66483"
+},
+"Icon / chart-gantt": {
+"key": "bacac67fc9d912ef117a1c66944962c4bfaf3c34",
+"id": "7415:65474"
+},
+"Icon / chart-line": {
+"key": "44c5b713684b250ab2ecb9bfa3a241bc9255449c",
+"id": "7415:65472"
+},
+"Icon / chart-network": {
+"key": "2e0217799b766264048ee89fd97a29f857a73a7a",
+"id": "7415:65470"
+},
+"Icon / chart-no-axes-column-decreasing": {
+"key": "5962fbc583df3a14fb871e3dc8de99bd03ea9926",
+"id": "7415:66383"
+},
+"Icon / chart-no-axes-column-increasing": {
+"key": "dac0a050bd14dd5f8f2a117828d983f6abb58453",
+"id": "7415:66641"
+},
+"Icon / chart-no-axes-column": {
+"key": "2e743d6dfbfc7bd2efa9ec3558131464b73de357",
+"id": "7415:66666"
+},
+"Icon / chart-no-axes-combined": {
+"key": "41a4bbbd6ce4e7d435e0ee9bdb342d7ff42053a2",
+"id": "7415:66444"
+},
+"Icon / chart-no-axes-gantt": {
+"key": "4b36ea5f33588df55e06719d9c67c4934a9368ed",
+"id": "7415:66574"
+},
+"Icon / chart-pie": {
+"key": "71a751872686f5b90b74c9989d2d9994da02c51c",
+"id": "7415:66465"
+},
+"Icon / chart-scatter": {
+"key": "a3db43ef229cd3a11239dab4dca2a79346485a68",
+"id": "7415:66380"
+},
+"Icon / chart-spline": {
+"key": "1d0c65a47cea18f1e4370978914a9e4717bf6995",
+"id": "7415:66379"
+},
+"Icon / check-check": {
+"key": "37f19fc8467c5fc0b353c8804f4b247ab614eb6a",
+"id": "7415:66725"
+},
+"Icon / check-line": {
+"key": "4897c0aea23956948147332c9ce7baf18356bac7",
+"id": "7415:66469"
+},
+"Icon / chef-hat": {
+"key": "82e8dd665cf7fa30f1f992deec8f6b3ceeb71593",
+"id": "7415:66033"
+},
+"Icon / cherry": {
+"key": "64297a2dbc088155f687398a7de18d9f3781ea5e",
+"id": "7415:66391"
+},
+"Icon / chevron-first": {
+"key": "0fa85f2646a82834ef05a555dafb97a2234185b6",
+"id": "7415:66668"
+},
+"Icon / chevron-last": {
+"key": "9cadf274d204b698906cf74a6b8ce172a634e4d0",
+"id": "7415:66490"
+},
+"Icon / chevrons-down-up": {
+"key": "822355b6432ed6759530f229cb70055792b6f9db",
+"id": "7415:66488"
+},
+"Icon / chevrons-down": {
+"key": "c3bc3c00b9b8f1b1b3b274b9120b38b87c16664d",
+"id": "7415:66793"
+},
+"Icon / chevrons-left-right-ellipsis": {
+"key": "dfe60d04563f5c45f11bb8d35139fd822ed92d73",
+"id": "7415:66378"
+},
+"Icon / chevrons-left-right": {
+"key": "1a1cdafb83341eeba0187e1ba4353f5177110a07",
+"id": "7415:66347"
+},
+"Icon / chevrons-left": {
+"key": "431289cedb26945af0f4683e480d9abbd8187774",
+"id": "7415:66377"
+},
+"Icon / chevrons-right": {
+"key": "f3f77d19f171f43cc682302fb520eaac5b4d4b74",
+"id": "7415:66370"
+},
+"Icon / chevrons-up": {
+"key": "0feab183bcd514e314c80613102218790c9de794",
+"id": "7415:66369"
+},
+"Icon / chrome": {
+"key": "0f213f18577cf985f6151dd513f65fcce776e2b1",
+"id": "7415:66700"
+},
+"Icon / church": {
+"key": "c630cfa8d13e3677a92a37fcdabaf709282b6e9b",
+"id": "7415:66368"
+},
+"Icon / cigarette-off": {
+"key": "f641f9cdeb7bee4a18ac1ce322b75bf0195a448a",
+"id": "7415:66367"
+},
+"Icon / cigarette": {
+"key": "05ea78e5388c04f6b34619e1d824bbe3d511362a",
+"id": "7415:66656"
+},
+"Icon / circle-arrow-down": {
+"key": "e4e252937530e30166829016eac58687655a830b",
+"id": "7415:66471"
+},
+"Icon / circle-arrow-left": {
+"key": "9293be554141ddb6647d9de68ed54ba49bc43287",
+"id": "7415:66327"
+},
+"Icon / circle-arrow-out-down-left": {
+"key": "695d0c0b53c1f17cac7c66688c3bef813990d487",
+"id": "7415:66365"
+},
+"Icon / circle-arrow-out-down-right": {
+"key": "945e4ff94e3087ca8d82d709ff9b878a29be6290",
+"id": "7415:66388"
+},
+"Icon / circle-arrow-out-up-left": {
+"key": "c63e2d3e2d178577900f43fee12e90ba86738566",
+"id": "7415:66395"
+},
+"Icon / circle-arrow-out-up-right": {
+"key": "db00f192baa0c9fdee75ae7ccebb78f773fbf954",
+"id": "7415:66761"
+},
+"Icon / circle-arrow-right": {
+"key": "35755733d6256ff38062d79b5ea28a5579e90f84",
+"id": "7415:66572"
+},
+"Icon / circle-arrow-up": {
+"key": "1aa7616f0fa68cba8a7bf703af07e3951483fbba",
+"id": "7415:66692"
+},
+"Icon / circle-check-big": {
+"key": "1ed1297be316d025ebe8713f376e208dbd78257a",
+"id": "7415:66364"
+},
+"Icon / circle-chevron-down": {
+"key": "16fbcbcacf48f435e242a617f87085e5d293b039",
+"id": "7415:66361"
+},
+"Icon / circle-chevron-left": {
+"key": "356915745032dbb1d3fba125a5369d4d05ea4074",
+"id": "7415:66358"
+},
+"Icon / circle-chevron-right": {
+"key": "a9af0cf5368b420a55823353d103e2a14c7f6bc3",
+"id": "7415:66622"
+},
+"Icon / circle-chevron-up": {
+"key": "f72b7be052a3c30a765c19c74150abd436528e54",
+"id": "7415:66357"
+},
+"Icon / circle-divide": {
+"key": "da8ec1314adae8a26021db5af2a2e657f0594644",
+"id": "7415:66417"
+},
+"Icon / circle-dollar-sign": {
+"key": "799769ccb7330f04cdbda8ae4afe446f2e43aae9",
+"id": "7415:66526"
+},
+"Icon / circle-dot-dashed": {
+"key": "5d6a215cc262e049d85861da4d710a7c97351017",
+"id": "7415:66355"
+},
+"Icon / circle-dot": {
+"key": "a8c010440f4cf1fab91b1f0164bd91b2c93aa857",
+"id": "7415:66411"
+},
+"Icon / circle-ellipsis": {
+"key": "1cac863cb117f89b44d3cc702b092e5aae0ec3e1",
+"id": "7415:66528"
+},
+"Icon / circle-equal": {
+"key": "3a0c77329bb58e962eb7e9233b8219faeba28fff",
+"id": "7415:66352"
+},
+"Icon / circle-fading-plus": {
+"key": "bc83f9718ea3af28ea1d5eb1706bc5ed7689d9d1",
+"id": "7415:66351"
+},
+"Icon / circle-gauge": {
+"key": "0d7fcc2027f7be215f6dd68a39bc233ebac4c263",
+"id": "7415:66349"
+},
+"Icon / circle-help": {
+"key": "19adb752315b5cb73f7fdbb092203d93d28752f9",
+"id": "7415:66346"
+},
+"Icon / circle-minus": {
+"key": "48a588659506ae1aef283be827b53c58f6d466ad",
+"id": "7415:66345"
+},
+"Icon / circle-off": {
+"key": "535e2f2ccadbf5dbad6ec1b2507bc27c2181f92f",
+"id": "7415:66344"
+},
+"Icon / circle-parking-off": {
+"key": "eb389a3d6856c8f2cd3e6289a2e701fb62a1d1c8",
+"id": "7415:66113"
+},
+"Icon / circle-parking": {
+"key": "108e415786c094ffc77a28db7fee7c3ce2b0499a",
+"id": "7415:66341"
+},
+"Icon / circle-pause": {
+"key": "e16d3dbb237198ef25cf32dd84434ff3e33d2c3a",
+"id": "7415:66340"
+},
+"Icon / circle-percent": {
+"key": "28804748b9cc08ccc29b11393426e039987b5766",
+"id": "7415:66339"
+},
+"Icon / circle-play": {
+"key": "e332ad5b7f75181ea7819585a5e74cab3ad5d3af",
+"id": "7415:66338"
+},
+"Icon / circle-plus": {
+"key": "e44deeb05c80e44529404a69a2bb0afbec4a0ae4",
+"id": "7415:66337"
+},
+"Icon / circle-pound-sterling": {
+"key": "759cb744ee9f20ded2210a8c67b9f42800465402",
+"id": "7415:66333"
+},
+"Icon / circle-power": {
+"key": "9246011ab91b80b2de08ea5d79287066d30fd025",
+"id": "7415:66331"
+},
+"Icon / circle-slash-2": {
+"key": "3e2fe792b8f31735bab2f7a8dd37353d8c7ff586",
+"id": "7415:66559"
+},
+"Icon / circle-slash": {
+"key": "f6bec6134f45448498ab186a430abc0fc4c96ef0",
+"id": "7415:66330"
+},
+"Icon / circle-small": {
+"key": "a1d9a749d3489be71c19b8c0a431abaf50eea669",
+"id": "7415:66329"
+},
+"Icon / circle-stop": {
+"key": "851798bf742ea7c136ed108db07e6dbc4b9a451f",
+"id": "7415:66304"
+},
+"Icon / circle-user-round": {
+"key": "d0b30aa1b4e62839126bfd8af6a143865e427191",
+"id": "7415:66386"
+},
+"Icon / circle-user": {
+"key": "8e9edad2055d3f5d3426cf5aa0cbfa2f6dd1650f",
+"id": "7415:66328"
+},
+"Icon / circle-x": {
+"key": "fc8afd7f655eb8b9b06ea8085eae416bdcb7f351",
+"id": "7415:66581"
+},
+"Icon / circle": {
+"key": "e6d5887cb9bdf1b371e152999c432e3224f94ec8",
+"id": "7415:66713"
+},
+"Icon / circuit-board": {
+"key": "938b5c74d81215530907adf9300aafe87118bbc4",
+"id": "7415:66679"
+},
+"Icon / citrus": {
+"key": "318b1c222867189a0f8d790718efea5c81c7fb99",
+"id": "7415:66522"
+},
+"Icon / clapperboard": {
+"key": "eadef034e66889ed0e30696a7a756ad9da71371e",
+"id": "7415:66394"
+},
+"Icon / clipboard-check": {
+"key": "b19cc2937fd6d1bed20a1f982df38028a27607f8",
+"id": "7415:66387"
+},
+"Icon / clipboard-list": {
+"key": "34d1c342aa181b4e0309c82f53ce0ca1caccc5cb",
+"id": "7415:66520"
+},
+"Icon / clipboard-minus": {
+"key": "56aa87829f14113be8a0669a2ce6028c02afac20",
+"id": "7415:66324"
+},
+"Icon / clipboard-paste": {
+"key": "3a47e8c619a975c8a7062cf86d462a1edc6f91c2",
+"id": "7415:66323"
+},
+"Icon / clipboard-pen-line": {
+"key": "8c86eaac0d59349f78bfecb968ae9cc565acf62f",
+"id": "7415:66371"
+},
+"Icon / clipboard-pen": {
+"key": "76b3f1ad945dd7ece25eb8c1fe758d357dd8f396",
+"id": "7415:66322"
+},
+"Icon / clipboard-plus": {
+"key": "e82c12c611b2c253a399a05f3619fd723a81b678",
+"id": "7415:66320"
+},
+"Icon / clipboard-type": {
+"key": "753dcbbcbac06b3b658bcedd30db489981c716a7",
+"id": "7415:66315"
+},
+"Icon / clipboard-x": {
+"key": "d58e482b375be53d56bcb18f20a7dd0490916c04",
+"id": "7415:65482"
+},
+"Icon / clipboard": {
+"key": "8689aff5671df8486b86171b33245f0901bae3b1",
+"id": "7415:66590"
+},
+"Icon / clock-2": {
+"key": "d44dd94da6cacc952332483830b564d504a7acd1",
+"id": "7415:66607"
+},
+"Icon / clock-3": {
+"key": "6757f88ae2a4f8ae0979ae601f0ef66e7e382495",
+"id": "7415:66311"
+},
+"Icon / clock-4": {
+"key": "c4c316e3f2db6c04c1d0a5f89c1dea2489b08836",
+"id": "7415:66308"
+},
+"Icon / clock-5": {
+"key": "c98e74e1a3c13b7efdb38134a71af1d9a9eabf2e",
+"id": "7415:66307"
+},
+"Icon / clock-6": {
+"key": "9f4a5a9f13d8da14976f475577a8e4bb8a71d1b2",
+"id": "7415:66303"
+},
+"Icon / clock-7": {
+"key": "54fe4ea1527c275ff0ce9aefc9ddabea8ca2bacc",
+"id": "7415:66302"
+},
+"Icon / clock-8": {
+"key": "4aba756a3a678ae7b95bdb6ffe87c212f490a7f9",
+"id": "7415:66301"
+},
+"Icon / clock-9": {
+"key": "36e2e84f0a203d7ce2e9337717d848c638a2c37b",
+"id": "7415:66300"
+},
+"Icon / clock-10": {
+"key": "433d6ea8295ce7d05f00fbf2050455d4fc9a0e3f",
+"id": "7415:66299"
+},
+"Icon / clock-11": {
+"key": "e2c5ab841649d2dc856ba729d8b6cda46a3f204d",
+"id": "7415:66298"
+},
+"Icon / clock-12": {
+"key": "cfd40432a30e4bde6672e7b2f610baf39ebb810d",
+"id": "7415:66297"
+},
+"Icon / clock-alert": {
+"key": "ce3ef4880d3b8d6bd5c9d9f68f1c186ab24e767f",
+"id": "7415:66296"
+},
+"Icon / clock-arrow-down": {
+"key": "745950a59b2b7395806986176f3b012ea08390da",
+"id": "7415:66295"
+},
+"Icon / clock-arrow-up": {
+"key": "50b8b7a846e81037c5e77953bb1dfc56a9ac1550",
+"id": "7415:66294"
+},
+"Icon / clock-fading": {
+"key": "fd47f47d9755891d340d7ce05a187354fac8923f",
+"id": "7415:66293"
+},
+"Icon / clock": {
+"key": "aaaef3f480a1b0bb759d40da54f3aa8b88a1c445",
+"id": "7415:66291"
+},
+"Icon / cloud-alert": {
+"key": "22a2b1f083962de67ddec79a6cbb680532ab1ff9",
+"id": "7415:66290"
+},
+"Icon / cloud-check": {
+"key": "9c1036968347c8a869b438ed5d91e7c3c55b09b9",
+"id": "7415:66289"
+},
+"Icon / cloud-cog": {
+"key": "d572c42d92375ee407bea93d4b3cfd4db3d0c864",
+"id": "7415:66310"
+},
+"Icon / cloud-download": {
+"key": "d9cecbb2cdc6452fac763c99fb37a3604c893705",
+"id": "7415:66309"
+},
+"Icon / cloud-drizzle": {
+"key": "57d6495b53f4bfb25a4d711d8e5967eb3192df6d",
+"id": "7415:66288"
+},
+"Icon / cloud-fog": {
+"key": "79ec22bdec869808e86a2641a98f5c5d0f0dd058",
+"id": "7415:66287"
+},
+"Icon / cloud-hail": {
+"key": "51c35c9d7c01c562088da6b81ad888d694427a46",
+"id": "7415:66286"
+},
+"Icon / cloud-lightning": {
+"key": "542b41d933fe48187c90c4927dc047d0c1abb06f",
+"id": "7415:66285"
+},
+"Icon / cloud-moon-rain": {
+"key": "94f903ca78a68528c3099f40b31bb1add1da8b3d",
+"id": "7415:66284"
+},
+"Icon / cloud-moon": {
+"key": "8f018204781024ef4ead56bb94654d74265c1a08",
+"id": "7415:66283"
+},
+"Icon / cloud-off": {
+"key": "71f5b6981ad64082cee6463eecffeaae8ff93103",
+"id": "7415:66162"
+},
+"Icon / cloud-rain-wind": {
+"key": "1b3c7652c0265b564538343cfa402742b149c84c",
+"id": "7415:66281"
+},
+"Icon / cloud-rain": {
+"key": "acadea9279a95e3de8b5a8c7842d3ecd337f67d8",
+"id": "7415:66280"
+},
+"Icon / cloud-snow": {
+"key": "b3bcf0d4e1311d26189f983fa6cac3f4197016a5",
+"id": "7415:66279"
+},
+"Icon / cloud-sun-rain": {
+"key": "2112e1b6e6c5a313c13235d88c8ffa61cc9025bb",
+"id": "7415:66278"
+},
+"Icon / cloud-sun": {
+"key": "f8fef98e793a904ce1dce99a099c7f555014a30f",
+"id": "7415:66277"
+},
+"Icon / cloud-upload": {
+"key": "4f86c96fd8e7f702a63712ddfdf0fce95bcbaf80",
+"id": "7415:66276"
+},
+"Icon / cloud": {
+"key": "b35ef82a4e1bbcaf0961755ffb95f786a4267e3c",
+"id": "7415:66275"
+},
+"Icon / cloudy": {
+"key": "b473d3c7faa35dffa0ffdca493126c6f96a9706e",
+"id": "7415:66274"
+},
+"Icon / clover": {
+"key": "72fbcd70754258793b78b38250dbc4a01f3d1a86",
+"id": "7415:66273"
+},
+"Icon / club": {
+"key": "959e5ef0d2ca03c956481911fccae3d7a9cfd04a",
+"id": "7415:66272"
+},
+"Icon / code-xml": {
+"key": "4bbb6c3c646c2398167aafb93a8fb6ecb90845ec",
+"id": "7415:66271"
+},
+"Icon / code": {
+"key": "7f8ca6f36aabeaf144517b588ceb54e85cec97fe",
+"id": "7415:66270"
+},
+"Icon / codepen": {
+"key": "797df696237a8d097fb638287883c3bf07adc07c",
+"id": "7415:66269"
+},
+"Icon / coffee": {
+"key": "f43b8fba30e1fa1adfbd9829e356156572be9590",
+"id": "7415:65226"
+},
+"Icon / cog": {
+"key": "c4f3eefd46de99fa564274d532285345a172a579",
+"id": "7415:66265"
+},
+"Icon / coins": {
+"key": "b3f101ac441ca75797fd0a5dd68d97ce7ffcf766",
+"id": "7415:66264"
+},
+"Icon / columns-2": {
+"key": "2148697395a16912312ffe3010403533566cb3a4",
+"id": "7415:66263"
+},
+"Icon / columns-3-cog": {
+"key": "f5689d5b9883057561a3a5b3e073d82daa70358c",
+"id": "7415:66262"
+},
+"Icon / columns-3": {
+"key": "ac8d8959e536d8cccd5c892df6732d01e1134a44",
+"id": "7415:66260"
+},
+"Icon / columns-4": {
+"key": "4ca844b7c1863d0110224ce9c0392ad2422035a8",
+"id": "7415:66259"
+},
+"Icon / combine": {
+"key": "cc797c8c6e35ee501e9fab9ac6aba57b537f277b",
+"id": "7415:66258"
+},
+"Icon / command": {
+"key": "a980ba9ad9acfcbbc799d6df8f26a15fff2e2e10",
+"id": "7415:66256"
+},
+"Icon / compass": {
+"key": "d7ab54438f55448476666c1070a557e84623e95c",
+"id": "7415:65218"
+},
+"Icon / component": {
+"key": "05f297b5aed2e46b8652924bcdc4281ea0f456a1",
+"id": "7415:65338"
+},
+"Icon / computer": {
+"key": "1a4afe6cd5d81bb36491e9065de044dc39d8122b",
+"id": "7415:65334"
+},
+"Icon / concierge-bell": {
+"key": "8eb86a16461b9662c6df28e0ace1c3f479a5dd54",
+"id": "7415:66250"
+},
+"Icon / cone": {
+"key": "86f1ad2e4b605d247ad7864deb46f0430c93a564",
+"id": "7415:65332"
+},
+"Icon / construction": {
+"key": "045d254b3db54688846e11800b86bc9f8fbb09b0",
+"id": "7415:65310"
+},
+"Icon / contact-round": {
+"key": "cfe707e63c53b8416b9209eb84bdb43cd15d7f22",
+"id": "7415:66016"
+},
+"Icon / contact": {
+"key": "4995c7b9200de3c4f3cfcbc01058f6882ef7b567",
+"id": "7415:65330"
+},
+"Icon / container": {
+"key": "d64ee7eb4cee26c5a76017e6dc8fc162de894cf4",
+"id": "7415:65328"
+},
+"Icon / contrast": {
+"key": "567f384cb307c6138a1648386062a22c791b4cdd",
+"id": "7415:65326"
+},
+"Icon / cookie": {
+"key": "5e1d1383a7ced27a88a42f969b8ae5577544362c",
+"id": "7415:66703"
+},
+"Icon / cooking-pot": {
+"key": "6c3f8aad1f696392212e060ed2d09d91184d089c",
+"id": "7415:66675"
+},
+"Icon / copy-check": {
+"key": "a8a672733c9fba10dd2d0cfc3a711a07bdf8f4a3",
+"id": "7415:66481"
+},
+"Icon / copy-minus": {
+"key": "a9a89464738211704a5f8f7f98b157899e16333f",
+"id": "7415:66321"
+},
+"Icon / copy-plus": {
+"key": "86629a945d2234742afadbd5680f36771028b846",
+"id": "7415:66402"
+},
+"Icon / copy-slash": {
+"key": "edf5ceb37c71d58828438713a3230ee8e0a7fc58",
+"id": "7415:66282"
+},
+"Icon / copy": {
+"key": "87df12b1bbfec273db749730640788d39ab3a92a",
+"id": "7415:65324"
+},
+"Icon / copyleft": {
+"key": "7d778a9143ba903af92346971635a5c2332e593a",
+"id": "7415:66010"
+},
+"Icon / copyright": {
+"key": "bf52ca23835c52a21a7311ffb6618e9331f95e4c",
+"id": "7415:66241"
+},
+"Icon / corner-down-left": {
+"key": "f353c6d6f2caf0ccd30c252b68edf2659f211550",
+"id": "7415:66239"
+},
+"Icon / corner-down-right": {
+"key": "4029f557834a280d4f5c6c53e5c88435323679d5",
+"id": "7415:65320"
+},
+"Icon / corner-left-down": {
+"key": "88214c2b9db99ea53a4d628be20961d221a74542",
+"id": "7415:65314"
+},
+"Icon / corner-left-up": {
+"key": "cedc9199fda7c4915d2d50e5ed822048616d493d",
+"id": "7415:66234"
+},
+"Icon / corner-right-down": {
+"key": "ecebbbb54fb6ff900699dcd97a2d8fca9022b5b3",
+"id": "7415:66232"
+},
+"Icon / corner-right-up": {
+"key": "2daad0506d82d4671a0cc586803c03cc62287fff",
+"id": "7415:66230"
+},
+"Icon / corner-up-left": {
+"key": "96f00bd8772785f4b011a0a181d87d71b22dcf47",
+"id": "7415:66228"
+},
+"Icon / corner-up-right": {
+"key": "8b4fddf4617806570875db1f2ef100d61559afb2",
+"id": "7415:66226"
+},
+"Icon / cpu": {
+"key": "8147f3bfbc688e65a6a99c5bd664ef005b438dae",
+"id": "7415:66224"
+},
+"Icon / creative-commons": {
+"key": "f19645bd3439cc2b12180599b0ce5e04e09281eb",
+"id": "7415:66222"
+},
+"Icon / credit-card": {
+"key": "1f25fe7805f9fe58eef8f2fb202c0e089dd7688c",
+"id": "7415:66732"
+},
+"Icon / croissant": {
+"key": "1160b241ea13761405655ceede8e26acabb77072",
+"id": "7415:66220"
+},
+"Icon / crop": {
+"key": "731279e37b32366d364cacb3a579bdcdac9da5bc",
+"id": "7415:66218"
+},
+"Icon / cross": {
+"key": "31a6db45ba93df51b21ea08b7fd9ecdd1b843a7d",
+"id": "7415:66216"
+},
+"Icon / crosshair": {
+"key": "b0f49e5431552e5cfd213e2956f3e28eb460135d",
+"id": "7415:66214"
+},
+"Icon / crown": {
+"key": "26ceea8ca68c9bf41dbf10ea3c7c7b381731a2a1",
+"id": "7415:66212"
+},
+"Icon / cuboid": {
+"key": "8359d9b5e2ca398e39c0acbb9573af07c78fc7f6",
+"id": "7415:66210"
+},
+"Icon / cup-soda": {
+"key": "50107d221194066a2db5e35cc4d98ff9be8ce2d1",
+"id": "7415:66208"
+},
+"Icon / currency": {
+"key": "93165ccc8102937c49c962f9c73d15f73b6f374b",
+"id": "7415:66206"
+},
+"Icon / cylinder": {
+"key": "60a9323154e25f74ce5e30ccb3eaf2c7f8010ca3",
+"id": "7415:66205"
+},
+"Icon / dam": {
+"key": "3d85d9da5460ea2b5f27c48eb0ac4bbb3906c228",
+"id": "7415:66759"
+},
+"Icon / database-backup": {
+"key": "afe149e5524f36d44fcc62b389a8782ed74739ac",
+"id": "7415:65985"
+},
+"Icon / database": {
+"key": "a1fb50374afc3f884f660b61986c50586da6fa72",
+"id": "7415:66202"
+},
+"Icon / decimals-arrow-left": {
+"key": "39133188d9a0f0084a9d5db3259ad4df1e0aaebd",
+"id": "7415:66724"
+},
+"Icon / decimals-arrow-right": {
+"key": "582aad7a4445bd268fc888826aa0941e1dfd1343",
+"id": "7415:66780"
+},
+"Icon / delete": {
+"key": "ba856658f2304b9f7ee3d65006e788b478a770a2",
+"id": "7415:66799"
+},
+"Icon / dessert": {
+"key": "17fbcc7ea15e5c803026f9575432b45c56e07765",
+"id": "7415:66201"
+},
+"Icon / diameter": {
+"key": "582536cc90f912a2c75976569cb57142e1745279",
+"id": "7415:66199"
+},
+"Icon / diamond-minus": {
+"key": "32b0d7c85e8ab8a3325331cae73d694b0c7c0ff8",
+"id": "7415:66197"
+},
+"Icon / diamond-percent": {
+"key": "79815c35f5a009f496a58b1dcfdec7c79e39c6bd",
+"id": "7415:66195"
+},
+"Icon / diamond-plus": {
+"key": "2d3370ed66837e7f52d7a6535270be066aed6822",
+"id": "7415:66194"
+},
+"Icon / diamond": {
+"key": "62d8ee1cfdc58d7bdead720ce9d4daf5ccd9744a",
+"id": "7415:66191"
+},
+"Icon / dice-1": {
+"key": "4fd110c099a249c00797da7766438cbf9e4c17e4",
+"id": "7415:66190"
+},
+"Icon / dice-2": {
+"key": "67929bdec5fbea5df6b1744c3c433f65f7b07a30",
+"id": "7415:66189"
+},
+"Icon / dice-3": {
+"key": "78908a87caeb99de17cf186a00c6d1e3dfd76247",
+"id": "7415:66188"
+},
+"Icon / dice-4": {
+"key": "6a2b8bf5b03cc38067dfb5f9deab230f90ac520c",
+"id": "7415:66187"
+},
+"Icon / dice-5": {
+"key": "a52d9c8fb43ae9feb29818dbe158c22eb5fa58ba",
+"id": "7415:65410"
+},
+"Icon / dice-6": {
+"key": "5584e05f5f25bd4ead82afbb2674f3b5eac11e0d",
+"id": "7415:66183"
+},
+"Icon / dices": {
+"key": "23b2fccfa78d0885e0dd5c251c7db9e1e559e2b2",
+"id": "7415:66181"
+},
+"Icon / diff": {
+"key": "530e96d8544a1423999d4fe9b345f2af8efa4a5b",
+"id": "7415:66178"
+},
+"Icon / disc-2": {
+"key": "9f1fd87f74a39d6dbefe5fec2a8d1111fc0c8a7a",
+"id": "7415:65419"
+},
+"Icon / disc-3": {
+"key": "324f050fe3d3458eef58d8efcf87dce0a396e753",
+"id": "7415:66175"
+},
+"Icon / disc-album": {
+"key": "825f085231e81cc835bf3c2810bfbe9a7a459036",
+"id": "7415:66173"
+},
+"Icon / disc": {
+"key": "f7f47ee75a751431560546d5644905650fc3912e",
+"id": "7415:66172"
+},
+"Icon / divide": {
+"key": "81ef8f79c1c6354e56f4d45938e847b71624f819",
+"id": "7415:66171"
+},
+"Icon / dna-off": {
+"key": "85ac6b3d80f8aaa039e0080a9c7615f676403939",
+"id": "7415:66169"
+},
+"Icon / dna": {
+"key": "d5ed67b53a0d6f5f9e44be989d4caff140dbf05f",
+"id": "7415:66168"
+},
+"Icon / dog": {
+"key": "24849952f6d3dd30bbac09bc898420c3bf2af23f",
+"id": "7415:66166"
+},
+"Icon / dollar-sign": {
+"key": "9bd26a549cb6219e8a8b5ce934ae5e2ec64ec04e",
+"id": "7415:66165"
+},
+"Icon / donut": {
+"key": "61338693786d49bab80f0ea65ed408826389fb76",
+"id": "7415:66164"
+},
+"Icon / door-closed-locked": {
+"key": "b48cb0dba8c45bbf18a7e22bce0eff5a09cd152d",
+"id": "7415:66161"
+},
+"Icon / door-closed": {
+"key": "a57f8d4dfb3af83433b3492e560cda2ea26a80ee",
+"id": "7415:66160"
+},
+"Icon / door-open": {
+"key": "c1fabd643e163b313b634ace989312d442a8106c",
+"id": "7415:66159"
+},
+"Icon / dot": {
+"key": "29c25eb11c7c585d211896b11932ba2dfe2a9e97",
+"id": "7415:66158"
+},
+"Icon / download": {
+"key": "ce23534287a3701836e6a4dc462aaafa953bdf5e",
+"id": "7415:66157"
+},
+"Icon / drafting-compass": {
+"key": "de36f592548adb3b31aec8b9b327ee327b18f09c",
+"id": "7415:66156"
+},
+"Icon / drama": {
+"key": "8345eb91eac1464d907fb175b46f138f3bc663d7",
+"id": "7415:66155"
+},
+"Icon / dribbble": {
+"key": "a32e38e5c6c634789e38935338d4f74bc8ca5994",
+"id": "7415:66154"
+},
+"Icon / drill": {
+"key": "614dda45a0e7adf12745df5e7d2244b48586cb2b",
+"id": "7415:66153"
+},
+"Icon / droplet-off": {
+"key": "e8e7553da8cd4c80c1bef9f01bc9e0a0905995ae",
+"id": "7415:66318"
+},
+"Icon / droplet": {
+"key": "623e84f63b5693bd8db77722552252d943351e9c",
+"id": "7415:66537"
+},
+"Icon / droplets": {
+"key": "7e02ab066637892c69f31b297d1ebaa56c2e1e84",
+"id": "7415:66151"
+},
+"Icon / drum": {
+"key": "5530bad24a567963ab1864de03152c2b3ef5f9b1",
+"id": "7415:66150"
+},
+"Icon / drumstick": {
+"key": "5fe92171ba2b45c0b920a97c5ab3b3764a5bd136",
+"id": "7415:66567"
+},
+"Icon / dumbbell": {
+"key": "4888e1b5b2659c346a3e460e7c31fe79c111b6b5",
+"id": "7415:66149"
+},
+"Icon / ear-off": {
+"key": "e219d434fe5672a01df69bba1453e21025d4b38f",
+"id": "7415:66316"
+},
+"Icon / ear": {
+"key": "6862e4492096a20b3750142c8fbb226a95ca5235",
+"id": "7415:66148"
+},
+"Icon / earth-lock": {
+"key": "76e6da9d4ddbab912b561952807503b6f71786a1",
+"id": "7415:66147"
+},
+"Icon / earth": {
+"key": "feb07a2fd77ff63605cf8d81167334971772e211",
+"id": "7415:66146"
+},
+"Icon / eclipse": {
+"key": "c73548b860608adbcfc05c9832848d526150db8f",
+"id": "7415:66145"
+},
+"Icon / egg-fried": {
+"key": "f6f3603d2f060e76f816555876514e0e0ae9dc05",
+"id": "7415:66144"
+},
+"Icon / egg-off": {
+"key": "942c7d5b64d2b41676990cae92159ce8965555cb",
+"id": "7415:66562"
+},
+"Icon / equal-approximately": {
+"key": "7c6e55f4bb912bae361e295df61b3bcab9689aa3",
+"id": "7415:66139"
+},
+"Icon / equal-not": {
+"key": "1f1f8c945d5bdb56b2dc6748b07cdb16cadd65c1",
+"id": "7415:66138"
+},
+"Icon / equal": {
+"key": "368c4fa37168af6f6ee1af40319d1ffc14777135",
+"id": "7415:66137"
+},
+"Icon / eraser": {
+"key": "581058fdae58dbfc9ccd2825c56fc76781611b1c",
+"id": "7415:66636"
+},
+"Icon / ethernet-port": {
+"key": "d5b4a69942bb241bb1ee6322e46b69f463bedaf0",
+"id": "7415:66134"
+},
+"Icon / euro": {
+"key": "95f60a5e7555c7f10132c753b86f148831b52e20",
+"id": "7415:66131"
+},
+"Icon / expand": {
+"key": "29712b8de6515a12bd5687940e674ca5c2806436",
+"id": "7415:66130"
+},
+"Icon / eye-closed": {
+"key": "1ea32fb37e92dfae934dc5649350cf477c629817",
+"id": "7415:66126"
+},
+"Icon / eye-off": {
+"key": "320ce1a5eeb47e2e8cd062cf7d94e42fd948cc18",
+"id": "7415:66123"
+},
+"Icon / eye": {
+"key": "fe33e0a33363f1de6bcaedcd08ddb517e26c9f5a",
+"id": "7415:66122"
+},
+"Icon / facebook": {
+"key": "c5bac2001eebaf3899ff247c4d97e60b1ed95ccb",
+"id": "7415:66669"
+},
+"Icon / factory": {
+"key": "a7b807854c6470521549e2e4b9c9522d9801b138",
+"id": "7415:65308"
+},
+"Icon / fan": {
+"key": "b4f62fbae907f9c8d83fa0aed1fe555c87176eed",
+"id": "7415:65306"
+},
+"Icon / fast-forward": {
+"key": "f3daf1067488ac0e3152b7322fd1595efa0cbf07",
+"id": "7415:66152"
+},
+"Icon / feather": {
+"key": "f8306ee0b5166f41a2d712a56d32c972acd053a8",
+"id": "7415:66740"
+},
+"Icon / fence": {
+"key": "bf5daad180c73b9f602b4c210900f597f40226a5",
+"id": "7415:66360"
+},
+"Icon / ferris-wheel": {
+"key": "02e4a2e0f4471a8a9b2457c208b6fe9f3af1774e",
+"id": "7415:66163"
+},
+"Icon / figma": {
+"key": "6f50dde205caec1c062647d725b8d5c08b5097f2",
+"id": "7415:66119"
+},
+"Icon / file-archive": {
+"key": "1b79195be5b4398bb05e1631307cc9cf6fd5857f",
+"id": "7415:66116"
+},
+"Icon / file-audio-2": {
+"key": "0be3cff7c2aad0e43597765e062a07f1319cffb8",
+"id": "7415:66765"
+},
+"Icon / file-audio": {
+"key": "8d99ba6c1e5bdf45dd7bbcb3ca6dad58e1e90a7e",
+"id": "7415:66752"
+},
+"Icon / file-axis-3d": {
+"key": "38aeddbe3df3628b53f969b959141e4fab80b1d0",
+"id": "7415:66114"
+},
+"Icon / file-badge-2": {
+"key": "53b26ed92c9f11d5b0ae6ada902664ac4df82a5a",
+"id": "7415:65316"
+},
+"Icon / file-badge": {
+"key": "718f7746aa87a40bab6cdb1ea9807693a878cde6",
+"id": "7415:66034"
+},
+"Icon / file-chart-column-increasing": {
+"key": "38da4c231064dc24469a7cf3128a4044828252fc",
+"id": "7415:65304"
+},
+"Icon / file-chart-column": {
+"key": "69531c3cd5d01d8eaf3c1c0449fb2371acc82d25",
+"id": "7415:65300"
+},
+"Icon / file-chart-line": {
+"key": "b8671ae920ab89e9aa886b464a66850c72d06f92",
+"id": "7415:65296"
+},
+"Icon / file-chart-pie": {
+"key": "d3e2a5d876c495a67ba1fd6de22b9eac80a3e34d",
+"id": "7415:65388"
+},
+"Icon / file-check-2": {
+"key": "b75d57f33c3da1efee7b164865eb25b7db4db4eb",
+"id": "7415:65384"
+},
+"Icon / file-check": {
+"key": "91a51df94d010aff5940c5c40bfa8062c1a666b1",
+"id": "7415:65382"
+},
+"Icon / file-clock": {
+"key": "3d1f53a95a92667adf8645a93f948e2b146cea82",
+"id": "7415:65375"
+},
+"Icon / file-code-2": {
+"key": "1600e8ff1ff680626b0553efd530232412979343",
+"id": "7415:65912"
+},
+"Icon / file-code": {
+"key": "8cba1869f264eb6140c86efe3438629357b57a0b",
+"id": "7415:65435"
+},
+"Icon / file-cog": {
+"key": "e1031ae67d07e5d014bf5f4e1f03d953209e5ac5",
+"id": "7415:66100"
+},
+"Icon / file-diff": {
+"key": "f5828b560efb0c0b6fd288fa1acb39fd7bb66178",
+"id": "7415:65371"
+},
+"Icon / file-digit": {
+"key": "629cf501987dcb809febcba89a89339057a6d31f",
+"id": "7415:65369"
+},
+"Icon / file-down": {
+"key": "d96891723c84ded70091f89cdb2ecb2907c16d4d",
+"id": "7415:66095"
+},
+"Icon / file-heart": {
+"key": "95c969304540ee9d19125f84e202f1030a260f8c",
+"id": "7415:66092"
+},
+"Icon / file-image": {
+"key": "1ed01c6de5647f08985212d8c0d10f93e8ad2814",
+"id": "7415:65934"
+},
+"Icon / file-input": {
+"key": "5f7fd4bb584d989fcfe3f51151fd96f8b098610a",
+"id": "7415:66088"
+},
+"Icon / file-json-2": {
+"key": "988fd2e0a3669eb1ca18a1ec50c1d97b82c44d79",
+"id": "7415:65413"
+},
+"Icon / file-json": {
+"key": "26a6e8fc41ac22d7fee5029eeffad7214362f936",
+"id": "7415:66084"
+},
+"Icon / file-key-2": {
+"key": "edc834664c47e05e35b439188dfac113edcfc1b1",
+"id": "7415:66727"
+},
+"Icon / file-key": {
+"key": "3b4d34f405a443b86d703ef5638d1ffe535d5eb5",
+"id": "7415:65492"
+},
+"Icon / file-lock-2": {
+"key": "0bce205c95733602b07d8468e3ee6dd15da7b924",
+"id": "7415:66080"
+},
+"Icon / file-lock": {
+"key": "ff1e461ccfb0b23612ab3b963a22e2db4a4ad6f2",
+"id": "7415:66077"
+},
+"Icon / file-minus-2": {
+"key": "619d10a30bddf19c90bebe4ce3630bc81c46607a",
+"id": "7415:65486"
+},
+"Icon / file-minus": {
+"key": "14aaaf9209d9aa23eb4ecdc624b9e6e940d90f48",
+"id": "7415:66074"
+},
+"Icon / file-music": {
+"key": "c73df212039661d96c8810d7200d30e793ae00dc",
+"id": "7415:66072"
+},
+"Icon / file-pen-line": {
+"key": "a06e7dbfa1babef020569898fffa190f55f79bcc",
+"id": "7415:66068"
+},
+"Icon / file-pen": {
+"key": "13cbd59270f89d2bdc4baf83b83b575bcf0d19ff",
+"id": "7415:66067"
+},
+"Icon / file-plus-2": {
+"key": "22329451676112f095ad0471f9667ff34fa0ab0d",
+"id": "7415:66066"
+},
+"Icon / file-plus": {
+"key": "a2b07240077d296c296c5436033a4f6ed192f338",
+"id": "7415:66065"
+},
+"Icon / file-question": {
+"key": "84ef4d69bc19c05ed85aab2d6ca4f81019bda77c",
+"id": "7415:66063"
+},
+"Icon / file-scan": {
+"key": "8dbb121bc8b64555bf7cab203b4bc0cbe42fc065",
+"id": "7415:66663"
+},
+"Icon / file-search-2": {
+"key": "e284025f13fd169af78b5921a984ad1309b5f3a4",
+"id": "7415:66062"
+},
+"Icon / file-search": {
+"key": "436d3231a9df8459fb57acf981a9c452c4ac7823",
+"id": "7415:66661"
+},
+"Icon / file-sliders": {
+"key": "36ed66669b57dee76d3d22e9311fa31c3cc45cae",
+"id": "7415:66061"
+},
+"Icon / file-spreadsheet": {
+"key": "ce941b6988d7eaabbf379e6eeb05e89dfadd8df8",
+"id": "7415:66658"
+},
+"Icon / file-stack": {
+"key": "054006f52165a7619a7f92dfd122d48b472f15ee",
+"id": "7415:66060"
+},
+"Icon / file-symlink": {
+"key": "54d6b0195f220214e627b947a3affabc8965b696",
+"id": "7415:66743"
+},
+"Icon / file-terminal": {
+"key": "68a4d39aca4cbfc6a5d7d1555e7bfb939ef86d45",
+"id": "7415:66059"
+},
+"Icon / file-text": {
+"key": "4228684ce958eca588df8bd4f05a14ff5316c7c7",
+"id": "7415:65455"
+},
+"Icon / file-type-2": {
+"key": "7f27bb5eaa9965a50a2805ace96151a0d50c5cbc",
+"id": "7415:66056"
+},
+"Icon / file-type": {
+"key": "9de97a183b797e0e41b7875efcf2bc7b5dfc6147",
+"id": "7415:66504"
+},
+"Icon / file-up": {
+"key": "b5dfdf0419580041c04cf4183d335a9cb6d735db",
+"id": "7415:66040"
+},
+"Icon / file-user": {
+"key": "48cc142144144b17c93f7ebaba8f646cdd71e8bb",
+"id": "7415:65240"
+},
+"Icon / file-video-2": {
+"key": "d9ec46ee4f28b16c8c274eed770b229825876a41",
+"id": "7415:65699"
+},
+"Icon / file-video": {
+"key": "27b5bcf82786dc0a5d019b184d0a462a9089b3ae",
+"id": "7415:66051"
+},
+"Icon / file-volume-2": {
+"key": "2ea3e7725867b38e045b322b7d72ed681447f95d",
+"id": "7415:65447"
+},
+"Icon / file-volume": {
+"key": "e6393840c1e19e473f9482f9687ddfbef8ad8ad6",
+"id": "7415:66053"
+},
+"Icon / file-warning": {
+"key": "12f933040fdfda28adf5bd08dac30347935ca7f1",
+"id": "7415:65269"
+},
+"Icon / file-x-2": {
+"key": "1ce455869ee9710c13d0e8f3f351250d6b04327d",
+"id": "7415:65267"
+},
+"Icon / file-x": {
+"key": "f7882724d29f553434c8d6652e1edebe8b80179c",
+"id": "7415:66044"
+},
+"Icon / files": {
+"key": "f20757dcf4c7e292f6677c7f2eaaf7074eaad557",
+"id": "7415:66039"
+},
+"Icon / film": {
+"key": "f1db2b9a5d7b6e1b2705ac524b35ff91d05a9254",
+"id": "7415:66037"
+},
+"Icon / fingerprint": {
+"key": "0cd7e4dca86db1e9142d5b5a81379d61902bc7f2",
+"id": "7415:65400"
+},
+"Icon / fire-extinguisher": {
+"key": "9e8f2bc4e29f3bce52cdddaefa3293731db541a0",
+"id": "7415:66035"
+},
+"Icon / fish-off": {
+"key": "db093cb9fa696ae87334b3897bc7a15237442e4b",
+"id": "7415:66032"
+},
+"Icon / fish-symbol": {
+"key": "430f9153b2e4c47d990b900aac6bedd9d25a9f22",
+"id": "7415:66030"
+},
+"Icon / fish": {
+"key": "3408b862528eaa041e2752641676f3a12f2374b7",
+"id": "7415:66028"
+},
+"Icon / flag-off": {
+"key": "50f7d0d5247cc330bcb7764e1189ff7cbf4f5186",
+"id": "7415:65559"
+},
+"Icon / flag-triangle-left": {
+"key": "9b7e0031cf0af1dd51415642f76e2fcdb1a4f025",
+"id": "7415:65926"
+},
+"Icon / flag-triangle-right": {
+"key": "27f9c8ce2ed9410fee2d4d29cec515f10df59e65",
+"id": "7415:66026"
+},
+"Icon / flag": {
+"key": "c7772837bbad1dc93e269bcc40a2ae4db76dee45",
+"id": "7415:66552"
+},
+"Icon / flame-kindling": {
+"key": "3fb480ba054d124acd5635ffd744b59192b4a809",
+"id": "7415:66626"
+},
+"Icon / flame": {
+"key": "248a298e4691282060d3bb99a53451cd1f386834",
+"id": "7415:65599"
+},
+"Icon / flashlight-off": {
+"key": "3bcfe22bc506398109f690daba24d505ec0a056b",
+"id": "7415:66136"
+},
+"Icon / flashlight": {
+"key": "4333b5ea60ca226871710146aaafd0ae1c5918b3",
+"id": "7415:66023"
+},
+"Icon / flask-conical-off": {
+"key": "8dd8ba3a6a5a3138c168c6acd83c0ef7c87817ce",
+"id": "7415:66021"
+},
+"Icon / flask-conical": {
+"key": "9c5c5675ef4f20fe8d61552f597e9bf2100a34d1",
+"id": "7415:66020"
+},
+"Icon / flask-round": {
+"key": "69135885be2ecb37d7cfb2d85b4a9a5d746fd888",
+"id": "7415:66019"
+},
+"Icon / flip-horizontal-2": {
+"key": "262f23ffd60041d51838ff108e0f89fedbc56bf3",
+"id": "7415:66249"
+},
+"Icon / flip-horizontal": {
+"key": "1fe4431cce12affa51767067b77aef60a1eddf9f",
+"id": "7415:66017"
+},
+"Icon / flip-vertical-2": {
+"key": "a5d8e798403575d444666246fdfe325aef60ea83",
+"id": "7415:66015"
+},
+"Icon / flip-vertical": {
+"key": "4ba8ddd4f78a6f92a7f26af8f79f15e6e79ab8af",
+"id": "7415:66375"
+},
+"Icon / flower-2": {
+"key": "73f265ccd1c77a4e3658e0b2cb5a970359c720c9",
+"id": "7415:66013"
+},
+"Icon / flower": {
+"key": "295455600623e2a93a995e6d2c77640affd0ff7a",
+"id": "7415:66118"
+},
+"Icon / focus": {
+"key": "e09e26238c4bc6f97064a13887b5d8ec23a6c2a7",
+"id": "7415:66011"
+},
+"Icon / fold-vertical": {
+"key": "11434c508eb1c18a1a6ad40e6f8bdd603316c562",
+"id": "7415:66008"
+},
+"Icon / folder-archive": {
+"key": "dd8a0e522a3a36c4521408711008181756fa8f3d",
+"id": "7415:66006"
+},
+"Icon / folder-check": {
+"key": "209e9f95d7be579cbdd32e4ff8fea3c51a715913",
+"id": "7415:66005"
+},
+"Icon / folder-clock": {
+"key": "044320f59eec357e8196f3e7b61693e2c38e3c02",
+"id": "7415:66004"
+},
+"Icon / folder-closed": {
+"key": "0d44bc40a544716296a34f5fe98004697373b459",
+"id": "7415:66002"
+},
+"Icon / folder-code": {
+"key": "852bc7d1a2098eb0f38d7b80cbf3f9f2dac169c5",
+"id": "7415:66000"
+},
+"Icon / folder-cog": {
+"key": "159699c030ad676118c9cd59aba03c997dcb41ea",
+"id": "7415:66363"
+},
+"Icon / folder-dot": {
+"key": "a63231b802ab9dd2e56d08939fcc1c9704d3682f",
+"id": "7415:65998"
+},
+"Icon / folder-down": {
+"key": "733bf9f8bd99e33360271aaf6221abb0ac9a2b38",
+"id": "7415:65997"
+},
+"Icon / folder-git-2": {
+"key": "89041f99b0a65c1fc14c4b6b3d7f287ae09cb386",
+"id": "7415:65996"
+},
+"Icon / folder-git": {
+"key": "3b2f80366f47ce6c59cabfb816fb6bf9ee5ff699",
+"id": "7415:65994"
+},
+"Icon / folder-heart": {
+"key": "739e1430dee235090acc682c94d272cbc49861cf",
+"id": "7415:65993"
+},
+"Icon / folder-input": {
+"key": "f782a2d828f8576509bba9b9b3a1dfbbd9491ec0",
+"id": "7415:66353"
+},
+"Icon / folder-kanban": {
+"key": "a7a3aeae7b888780923b458879e134428f2b34c8",
+"id": "7415:66336"
+},
+"Icon / folder-key": {
+"key": "8564eae638672ad994dc13ae2464c2e8c0003588",
+"id": "7415:65992"
+},
+"Icon / folder-lock": {
+"key": "3c486a49c6c1223f489b53982a1a60f7ff8748a2",
+"id": "7415:65991"
+},
+"Icon / folder-minus": {
+"key": "3f0d72fe73a8fce1e1be61d8153110a877cd1f9c",
+"id": "7415:65989"
+},
+"Icon / folder-open-dot": {
+"key": "fd349ee06859752fac91a514425b3982369f1a6a",
+"id": "7415:66196"
+},
+"Icon / folder-open": {
+"key": "f5f060b6a29fffc03a6d8a311f75433fd92c7e54",
+"id": "7415:66305"
+},
+"Icon / folder-output": {
+"key": "2ff3a5abf46a7dd4ee2d9a07f719529b0a249698",
+"id": "7415:65302"
+},
+"Icon / folder-pen": {
+"key": "50f3e6747454bde4f6967a686c9e616615dfe929",
+"id": "7415:65298"
+},
+"Icon / folder-plus": {
+"key": "904299ef616e56c267e002a566c8bff53ca678c0",
+"id": "7415:65367"
+},
+"Icon / folder-root": {
+"key": "5753342e164d205e7a891a8c3356588f70ae1588",
+"id": "7415:65386"
+},
+"Icon / folder-search-2": {
+"key": "d877e092e3c49118f715cb6f8cab760892e0c2b5",
+"id": "7415:65981"
+},
+"Icon / folder-search": {
+"key": "821265a71c7bb39b9846d02e5f8c64ffe1561cae",
+"id": "7415:65379"
+},
+"Icon / folder-sync": {
+"key": "b8b40d2f185e2422793aaf4031ccc069f8c3a84f",
+"id": "7415:65975"
+},
+"Icon / folder-tree": {
+"key": "deff59c3320c161c88f15680305c53d0c8c90694",
+"id": "7415:65407"
+},
+"Icon / folder-up": {
+"key": "e5de949d1ec470337a6122808bfec4cc277e7d2f",
+"id": "7415:65971"
+},
+"Icon / folder-x": {
+"key": "5809155d21ac72e506cbfbb93702258ac9c92971",
+"id": "7415:65969"
+},
+"Icon / folder": {
+"key": "b68ecf9a7cfc86c62d33f144f7ca1bc8e733fee6",
+"id": "7415:66652"
+},
+"Icon / folders": {
+"key": "ff30dd82254dc785e61605dbd3cf24bbd4c133ac",
+"id": "7415:65967"
+},
+"Icon / footprints": {
+"key": "20aac303c28dde363a305beb587aa40d1f01e70d",
+"id": "7415:66104"
+},
+"Icon / forklift": {
+"key": "579e07667e433bae9ec7df5651ef544bed41667c",
+"id": "7415:66775"
+},
+"Icon / forward": {
+"key": "d62bef869ce994160904f13db5d07a412cc54fda",
+"id": "7415:66720"
+},
+"Icon / frame": {
+"key": "fb36382632b2e1cf7e265d0850aaafdca029b78f",
+"id": "7415:66791"
+},
+"Icon / framer": {
+"key": "c20ead56fa9dae0b6e5ecc8e0562e09bb8ad67cc",
+"id": "7415:65966"
+},
+"Icon / frown": {
+"key": "d1c48d169e4f832049e2aa35a5bbfa976c4faeb2",
+"id": "7415:65608"
+},
+"Icon / fuel": {
+"key": "c0cf4472a7d0975e73b69ede8d3be420bc8e80cb",
+"id": "7415:66676"
+},
+"Icon / fullscreen": {
+"key": "a3535fdff8f5bca0c6c9f91306aa099e9d282a12",
+"id": "7415:65965"
+},
+"Icon / funnel-plus": {
+"key": "e59cf52dcc428b41437c9797484c112cb97ee0c1",
+"id": "7415:65488"
+},
+"Icon / funnel-x": {
+"key": "a0ed27700d6e4678d9754633bb1a4b7ceb4aa311",
+"id": "7415:65964"
+},
+"Icon / funnel": {
+"key": "ae1e18ce69b71c2c8ac7126cae9ab893f2d994cb",
+"id": "7415:65962"
+},
+"Icon / gallery-horizontal-end": {
+"key": "959d4ccb15925bcf6ce416fd48b6a646b5452175",
+"id": "7415:66682"
+},
+"Icon / gallery-horizontal": {
+"key": "53e1f0f7ef8c73003f1969cc148f6c23110a0b8e",
+"id": "7415:65960"
+},
+"Icon / gallery-thumbnails": {
+"key": "086ab54ce3ec2ca5e49ee9b9154d4a34a6bcac2b",
+"id": "7415:66777"
+},
+"Icon / gallery-vertical-end": {
+"key": "7d1d09fc973497521b45caaaeceb36e89b86ccac",
+"id": "7415:66557"
+},
+"Icon / gallery-vertical": {
+"key": "c5de10f743e209a5d963343d7cdf39ee32e794ae",
+"id": "7415:66554"
+},
+"Icon / gamepad-2": {
+"key": "98531cb98d2c7a61616b3f7546d1e930ee7d015d",
+"id": "7415:66550"
+},
+"Icon / gamepad": {
+"key": "5b6410629b4b3bd71fc60e7395011430fe0ee51d",
+"id": "7415:65959"
+},
+"Icon / gauge": {
+"key": "8fcc119a37c746c159da8677e64554111c2bb1c1",
+"id": "7415:65958"
+},
+"Icon / gem": {
+"key": "fa35878185bb0418eb9bc844edaf8b6c30707210",
+"id": "7415:65956"
+},
+"Icon / ghost": {
+"key": "6b7443224a58b69854cf30ec27f1e6bd01d9c8df",
+"id": "7415:65955"
+},
+"Icon / git-branch-plus": {
+"key": "c9622be8d935a52e8c095e5366a4807123b5820e",
+"id": "7415:66672"
+},
+"Icon / git-branch": {
+"key": "9b3f2fea42a0b466ca0605aba9a652c227fe8a8b",
+"id": "7415:65954"
+},
+"Icon / git-commit-horizontal": {
+"key": "10447f440b36eab34cbd25de004d511def724f0c",
+"id": "7415:65953"
+},
+"Icon / git-commit-vertical": {
+"key": "2f64d4a10e03fb5b12c5da21e3d669c83ab53c4a",
+"id": "7415:65952"
+},
+"Icon / git-compare-arrows": {
+"key": "986f3848cf9edd25ec92b12d79fdbcbd00da3b6a",
+"id": "7415:66749"
+},
+"Icon / git-compare": {
+"key": "70aaf4e8d1078ef0aa87e6799bbb6567c4261485",
+"id": "7415:65950"
+},
+"Icon / git-fork": {
+"key": "9afab1e6e048120f28764386a8a65ca80910e174",
+"id": "7415:65949"
+},
+"Icon / git-graph": {
+"key": "2bd14451357cb7b967b879fdd92bbfe1e5049df0",
+"id": "7415:65948"
+},
+"Icon / git-merge": {
+"key": "f4632202187382aa7487477fcd753c5139c65cdb",
+"id": "7415:65947"
+},
+"Icon / git-pull-request-arrow": {
+"key": "8c26c6b7a3c4c2d386d1e36a0a494b316aaf2eaf",
+"id": "7415:65453"
+},
+"Icon / git-pull-request-closed": {
+"key": "dc37b844a6c6bfa66cb64d539cf6e68a93ed9536",
+"id": "7415:66253"
+},
+"Icon / git-pull-request-create-arrow": {
+"key": "f7ab7a84ce4dad93d5ba2cd994d330971441c8ff",
+"id": "7415:65236"
+},
+"Icon / git-pull-request-create": {
+"key": "deccf4a0d819b3b658ab810b8908dff853082aca",
+"id": "7415:65942"
+},
+"Icon / git-pull-request-draft": {
+"key": "b8d3bd0f18497a15df5681f19b93404910a7872f",
+"id": "7415:65940"
+},
+"Icon / git-pull-request": {
+"key": "22b5598b30e0d1bb82299a53b7a98d736fdcf881",
+"id": "7415:66047"
+},
+"Icon / github": {
+"key": "48226ed57f9b3573268f1fa3a7ed5039e47af3c9",
+"id": "7415:65938"
+},
+"Icon / gitlab": {
+"key": "fd142841cef0922aba77ecd46992e5dc76744261",
+"id": "7415:66267"
+},
+"Icon / glass-water": {
+"key": "9b34bdf0a8f21a292572c975d32b337d8bb285a9",
+"id": "7415:65490"
+},
+"Icon / glasses": {
+"key": "b6064b953386b943ca13ae7d0d4f5a3f1aab983b",
+"id": "7415:65614"
+},
+"Icon / globe-lock": {
+"key": "5224c3a8f8dfac165d5a1ec70373fabb8fbb2b10",
+"id": "7415:65936"
+},
+"Icon / globe": {
+"key": "124f47228c7378f4f2bad14e43a5e75e643ba484",
+"id": "7415:65933"
+},
+"Icon / goal": {
+"key": "9c0611562f6ca043a2712909b529c242469ee4ca",
+"id": "7415:65930"
+},
+"Icon / gpu": {
+"key": "765ed0bc1bcd2f3e37ab839a15a1e2255bd8e968",
+"id": "7415:65927"
+},
+"Icon / graduation-cap": {
+"key": "7b783ce1db113a08ff9d03a44ccb8e9d8b24a768",
+"id": "7415:65923"
+},
+"Icon / grape": {
+"key": "8e486bbb4f67462ef41d8e28b91cb388277f493e",
+"id": "7415:66326"
+},
+"Icon / grid-2x2-check": {
+"key": "8a1d124a1a91788a6a9492fd74182651750a7e01",
+"id": "7415:65970"
+},
+"Icon / grid-2x2-plus": {
+"key": "2879501aef995e2a073b08dc6807fccf1b4bdd38",
+"id": "7415:65604"
+},
+"Icon / grid-2x2-x": {
+"key": "41833444bd1ffe7f0a8bb0198fe62f4f586ee25e",
+"id": "7415:66621"
+},
+"Icon / grid-2x2": {
+"key": "21efaeadffb8150d58d0259ac94315838b2788af",
+"id": "7415:65921"
+},
+"Icon / grid-3x3": {
+"key": "20e9dba57a6f4e9ae2435a9db0ed531d323a690f",
+"id": "7415:66115"
+},
+"Icon / grip-horizontal": {
+"key": "0a59f2d4f43ef22fe2d51ca8f34f8fd3951b17a5",
+"id": "7415:65920"
+},
+"Icon / grip-vertical": {
+"key": "8c0e3b7bbb78fb3a4bdd2bbf61cdae43022816e3",
+"id": "7415:66236"
+},
+"Icon / grip": {
+"key": "2ff207bb88ccf3cd873770388a31c094ba57152b",
+"id": "7415:65596"
+},
+"Icon / group": {
+"key": "82fb6202c099b9ecf17c26518b633010a030aaca",
+"id": "7415:65918"
+},
+"Icon / guitar": {
+"key": "78b58c8efbb6e2e1fe1e94231887bf90b59e9312",
+"id": "7415:65916"
+},
+"Icon / ham": {
+"key": "b02f98fb977150ed6d2c02caaf33b95dbd73089a",
+"id": "7415:65914"
+},
+"Icon / hamburger": {
+"key": "9e8d2f84565cb47d6d3d597349a22a971702b9f8",
+"id": "7415:65986"
+},
+"Icon / hammer": {
+"key": "0d09beabf5aa3d0a8752a576f917f1979933dd45",
+"id": "7415:65590"
+},
+"Icon / hand-coins": {
+"key": "b2611b3610df34ee6d2cbc14a9f10da895cfa30b",
+"id": "7415:65910"
+},
+"Icon / hand-heart": {
+"key": "b9e9b9f76743a434288fe7a86395ea7eebbc3f85",
+"id": "7415:65909"
+},
+"Icon / hand-helping": {
+"key": "9823be617527a90f70c994089c6fb77bbef22c65",
+"id": "7415:66129"
+},
+"Icon / hand-metal": {
+"key": "43f5da92eb4919c64dcd1095cc4ba83cfdae3e45",
+"id": "7415:65907"
+},
+"Icon / hand-platter": {
+"key": "f6a0b9a6a84b57810f075b6ab58af318a8fd40ca",
+"id": "7415:66455"
+},
+"Icon / hand": {
+"key": "11709f87b9f72cbab9ee9814722c6bdd27b7cf65",
+"id": "7415:66141"
+},
+"Icon / handshake": {
+"key": "0a17e1ae6dc30a929e186dc2a33dcbf70e4f8a7c",
+"id": "7415:65905"
+},
+"Icon / hard-drive-download": {
+"key": "112a3182300efa58a55a8715fe1dc00d336918ce",
+"id": "7415:66729"
+},
+"Icon / hard-drive-upload": {
+"key": "775c2b1d9f047b1316970bc29e5a283453f39ade",
+"id": "7415:65904"
+},
+"Icon / hard-drive": {
+"key": "f03614a71935b655170430b3330355aea2be408d",
+"id": "7415:65902"
+},
+"Icon / hash": {
+"key": "de76041539b1f8750dcee8e0519e14e83e32fe4b",
+"id": "7415:66257"
+},
+"Icon / haze": {
+"key": "0bc1fb314bb2c4975ba3f8e52e40373ed0955710",
+"id": "7415:66110"
+},
+"Icon / hdmi-port": {
+"key": "63214048f92b453b0715f22fb2541b6133095f75",
+"id": "7415:65932"
+},
+"Icon / heading-1": {
+"key": "5e268b30f65749ba5cb63095d70544b8748a7e07",
+"id": "7415:66646"
+},
+"Icon / heading-2": {
+"key": "8ca23878c7b7824f57b5c324708a9313de845e60",
+"id": "7415:65900"
+},
+"Icon / heading-3": {
+"key": "2fcc0fd9fcd73b5ca6d88b9f909649d51b9f4504",
+"id": "7415:66757"
+},
+"Icon / heading-4": {
+"key": "262623d27522279d23677bdcdf20dcaf52eb92d3",
+"id": "7415:66565"
+},
+"Icon / heading-5": {
+"key": "358a324e1f613273eba3e4d402baa6b5d245870b",
+"id": "7415:66587"
+},
+"Icon / heading-6": {
+"key": "3cefbc1e20e4d804f73aa38d3faf2547ec33094c",
+"id": "7415:66451"
+},
+"Icon / heading": {
+"key": "2ce99969d39c4db756de4eb2b90ece5b4ab48a13",
+"id": "7415:66462"
+},
+"Icon / headphone-off": {
+"key": "9ec7015eddb1cf8cc98e902b9447b457907eae85",
+"id": "7415:66512"
+},
+"Icon / headphones": {
+"key": "15770d1a98b8047ff2f88a3de95492d2fca316f4",
+"id": "7415:66449"
+},
+"Icon / headset": {
+"key": "3989b1b8552fe48a6f885b0595f9665faedca742",
+"id": "7415:65899"
+},
+"Icon / heart-crack": {
+"key": "1d94fb0dc7204700983f1ceeca5e0da0b07f0a99",
+"id": "7415:65898"
+},
+"Icon / heart-handshake": {
+"key": "22c8da65067209fa495070e8722d54f7ae359778",
+"id": "7415:66712"
+},
+"Icon / heart-minus": {
+"key": "d32b3e3ced46f68e00342786eb4c7d3c8bc1c724",
+"id": "7415:66586"
+},
+"Icon / heart-off": {
+"key": "8e39e065361485594b9912785963f9196b29a05b",
+"id": "7415:66133"
+},
+"Icon / heart-plus": {
+"key": "6b5fd2cbff328d6b830a1f7fec11f9eea1b23428",
+"id": "7415:65929"
+},
+"Icon / heart-pulse": {
+"key": "ecbdea5f7b11368d71513d7579c571c52a12e9fa",
+"id": "7415:66684"
+},
+"Icon / heart": {
+"key": "85993d6a208a29ddd6b04b31800a1eda2a0d15dd",
+"id": "7415:65897"
+},
+"Icon / heater": {
+"key": "de8b1733258de16d9afecd2c687e39a5eabfe833",
+"id": "7415:65895"
+},
+"Icon / hexagon": {
+"key": "c0d4f2f26c1ff6ab9237c1283e7e98057f07999e",
+"id": "7415:65893"
+},
+"Icon / highlighter": {
+"key": "74905871de6ef050149376c51aee7fe99368e2e3",
+"id": "7415:65891"
+},
+"Icon / history": {
+"key": "efdccccaec26f26d4c880695b9b1509c9eb7cc9d",
+"id": "7415:65890"
+},
+"Icon / hop-off": {
+"key": "398f37810c2d011cbbc337e28abcfd716efb48a7",
+"id": "7415:65889"
+},
+"Icon / hospital": {
+"key": "db043c47f06dfe70a43b84068ca16161adbfaeef",
+"id": "7415:65885"
+},
+"Icon / hotel": {
+"key": "5920d93c0baf797a686e6aed7aea684cef9da14c",
+"id": "7415:65883"
+},
+"Icon / hourglass": {
+"key": "8f30ac89f2586ca4ba1d0ca28b1a1b1999668fc9",
+"id": "7415:65881"
+},
+"Icon / house-plug": {
+"key": "7f346b13fe13aae8889ef3ba5428dcac9793aa0b",
+"id": "7415:65880"
+},
+"Icon / house-plus": {
+"key": "43191e2bdc13e5958e481c4e2777829f01604eac",
+"id": "7415:65878"
+},
+"Icon / house-wifi": {
+"key": "0643e80be82eb2958cb2bf66c5aa2d0b46828dca",
+"id": "7415:66325"
+},
+"Icon / house": {
+"key": "c19e0a89dfb61e2e42934b63af438143050f309e",
+"id": "7415:65876"
+},
+"Icon / ice-cream-bowl": {
+"key": "8622613637222f4ce22b649cdbabadd07c4d2a27",
+"id": "7415:65874"
+},
+"Icon / ice-cream-cone": {
+"key": "4d7b065c4b21d2f26c008837107f0465911af711",
+"id": "7415:65872"
+},
+"Icon / id-card-lanyard": {
+"key": "df3fcc7a4529a628b3144326d21d856da958b11e",
+"id": "7415:65867"
+},
+"Icon / id-card": {
+"key": "7140a06b14674227d0b6421baf92251bf5f673fe",
+"id": "7415:65870"
+},
+"Icon / image-down": {
+"key": "8daa2189874f697a1cf186fe3f277137e312ed40",
+"id": "7415:65866"
+},
+"Icon / image-minus": {
+"key": "6174f21049ca29f5dd9498d908f21b6d9f41c30d",
+"id": "7415:65864"
+},
+"Icon / image-off": {
+"key": "a12da1cc78a1a919969241ba1b0f4b844218c3f4",
+"id": "7415:65862"
+},
+"Icon / image-play": {
+"key": "519aaf111db87f09beb9712a286ea6947e6f999b",
+"id": "7415:66238"
+},
+"Icon / image-plus": {
+"key": "bda56a15f0e876f77e8beeea4b53a62bd8058d1f",
+"id": "7415:65860"
+},
+"Icon / image-up": {
+"key": "01073e302d0f157b54a8ab5e28b08d8f5d5dc6db",
+"id": "7415:65858"
+},
+"Icon / image-upscale": {
+"key": "83e383f2585bccc82a7780cba85cc60422f62b4e",
+"id": "7415:65856"
+},
+"Icon / image": {
+"key": "2a50c7e5240246a56cdb8085d793c6b8c452c25e",
+"id": "7415:65854"
+},
+"Icon / images": {
+"key": "dc0189c6bd2fec5dd415875531fd1ba202e9382d",
+"id": "7415:65853"
+},
+"Icon / import": {
+"key": "b5803309ea8ffd5a4f06dcc0dec19a85178decac",
+"id": "7415:66120"
+},
+"Icon / inbox": {
+"key": "f668fab2e1c59d620eaac5e7b1a04b01337a7093",
+"id": "7415:65852"
+},
+"Icon / indent-decrease": {
+"key": "2f783dba7a367d42ffb069157270f3cb6554adfa",
+"id": "7415:65851"
+},
+"Icon / indent-increase": {
+"key": "1d4387b384941dd315be838506c6b52588e5ab74",
+"id": "7415:65850"
+},
+"Icon / indian-rupee": {
+"key": "94288f3e594bce43d12d50f9300ee2dd710f7755",
+"id": "7415:65849"
+},
+"Icon / info": {
+"key": "b73e5b38b813bfd3e10f4061022e257c55ca6e38",
+"id": "7415:65848"
+},
+"Icon / inspection-panel": {
+"key": "8ca41ede422c472d4306327445dc1d25b2820475",
+"id": "7415:65847"
+},
+"Icon / instagram": {
+"key": "7b0d9859fd15a1ab8c703349603fddbceebefbd0",
+"id": "7415:66635"
+},
+"Icon / italic": {
+"key": "87557c4188c922386854ba81b5d42900009f051f",
+"id": "7415:65846"
+},
+"Icon / iteration-ccw": {
+"key": "131ad861e9901eff4ca39de07994bbd6f753822c",
+"id": "7415:66769"
+},
+"Icon / iteration-cw": {
+"key": "a18ac42123510eb05dda979f2f89658560aa0a33",
+"id": "7415:65845"
+},
+"Icon / japanese-yen": {
+"key": "6d7efe7dd232e3c4fde1de35c563101d5ed340c3",
+"id": "7415:65844"
+},
+"Icon / joystick": {
+"key": "5a3df9942c1f06a044b6b59b0a967862000b280f",
+"id": "7415:65843"
+},
+"Icon / kanban": {
+"key": "cb842ac8d08e396923b7ece84d62a56590e3a43a",
+"id": "7415:65842"
+},
+"Icon / key-round": {
+"key": "ea8fbb9896cf0e2d5baf8602e302f23ead7792a5",
+"id": "7415:66687"
+},
+"Icon / key-square": {
+"key": "c9919ff09c728f8243d5aab843c44ea7f3cf8e9f",
+"id": "7415:66036"
+},
+"Icon / key": {
+"key": "304382ee2aed4fcf67c3489b6c822482e484f74a",
+"id": "7415:65841"
+},
+"Icon / keyboard-music": {
+"key": "271aefcdfcf04972576ed2c57db63a61690af87a",
+"id": "7415:65840"
+},
+"Icon / keyboard-off": {
+"key": "b0ab2784f5e9f804be9308ca968f727e28251578",
+"id": "7415:65839"
+},
+"Icon / keyboard": {
+"key": "d4404125b6de85ab71a5958bb494adc135b86e92",
+"id": "7415:66753"
+},
+"Icon / lamp-ceiling": {
+"key": "18c187bb65927153c2fff50b581929e449a4e908",
+"id": "7415:65838"
+},
+"Icon / lamp-desk": {
+"key": "38a454a18e8584e15518f1e0f9333b5d0f71c6ff",
+"id": "7415:65835"
+},
+"Icon / lamp-floor": {
+"key": "ec264e14c534e5f5993135dfbedfc448772dd5e8",
+"id": "7415:65834"
+},
+"Icon / lamp-wall-down": {
+"key": "f6b33f2c65d6b7b1a5bb90448baa3cca61654d96",
+"id": "7415:65833"
+},
+"Icon / lamp-wall-up": {
+"key": "db5fad3430591ecd771328e2de613f98113da792",
+"id": "7415:65832"
+},
+"Icon / lamp": {
+"key": "55c3fd9c3263dc2c9d557849f2ae2cc3b3221a37",
+"id": "7415:65831"
+},
+"Icon / land-plot": {
+"key": "2b3c6134b69a1203e9a35cbca11cb7aefbfefb3a",
+"id": "7415:65829"
+},
+"Icon / landmark": {
+"key": "e65fa8ab062b8f6ec64aa492642c1dd15675c5a6",
+"id": "7415:65828"
+},
+"Icon / languages": {
+"key": "5a39a5ea11fd0319cb6f7d4657fda3407c504711",
+"id": "7415:65827"
+},
+"Icon / laptop-minimal-check": {
+"key": "4411f9772aeace51f035fbca91445ccc579d40cf",
+"id": "7415:65826"
+},
+"Icon / laptop": {
+"key": "fa740ed2f65f8ce1d3a581f9fcac8bf0f557f014",
+"id": "7415:65824"
+},
+"Icon / lasso-select": {
+"key": "ee7c31f81775fcf087cf3cf87eb111be6414dac7",
+"id": "7415:65823"
+},
+"Icon / lasso": {
+"key": "9d037e08deb2d0cba9fd7afb7666945c479977ad",
+"id": "7415:65822"
+},
+"Icon / laugh": {
+"key": "905b2b80317406721c6b5eef6502676b80a462ff",
+"id": "7415:65821"
+},
+"Icon / layers-2": {
+"key": "0b2f97a320021cb86af2d895b7466aa6457ecfd6",
+"id": "7415:65820"
+},
+"Icon / layers": {
+"key": "3f60d05379c4ff10084873288b4fd3483cf39b8a",
+"id": "7415:65819"
+},
+"Icon / layout-dashboard": {
+"key": "76e1f4e535338c051d4af1cf8c5d887299671c1a",
+"id": "7415:65818"
+},
+"Icon / layout-grid": {
+"key": "46d6a690d8e85e12302bde881d957c874204c387",
+"id": "7415:65817"
+},
+"Icon / layout-list": {
+"key": "89bb83dbf852ab0cf4fb13d7f7f467c305d21f4d",
+"id": "7415:65816"
+},
+"Icon / layout-panel-left": {
+"key": "e5879441e1044159a813ffbee93c02308002c14c",
+"id": "7415:65815"
+},
+"Icon / layout-panel-top": {
+"key": "5a747f3a362e9234f0dd3d869201a23285709ca3",
+"id": "7415:65814"
+},
+"Icon / layout-template": {
+"key": "84142cd12118fae3eb03a819e5beae0808320009",
+"id": "7415:65813"
+},
+"Icon / leaf": {
+"key": "8174179282967113c6671b2371004858aa5fe2f5",
+"id": "7415:65812"
+},
+"Icon / leafy-green": {
+"key": "7152827d67048ebd3614e819cb138d939e492d2e",
+"id": "7415:65811"
+},
+"Icon / lectern": {
+"key": "1a6a2b3600ca588ac224f921b26b47847fa5b54f",
+"id": "7415:65810"
+},
+"Icon / letter-text": {
+"key": "9b8474d7ad5840b0b596659cf31610318a31e7b8",
+"id": "7415:65809"
+},
+"Icon / library-big": {
+"key": "0cfa9dc4f73b7bd44eaf98d5c20f910977a7abc0",
+"id": "7415:65808"
+},
+"Icon / library": {
+"key": "705de5c836478d4c7a241463966f6118a56ed7e6",
+"id": "7415:65807"
+},
+"Icon / life-buoy": {
+"key": "558c2cede6893bccac84627f6f2dbd92a85ec661",
+"id": "7415:65806"
+},
+"Icon / ligature": {
+"key": "666fe01cc7c5a72571b9edd11e4aa40cfacf4c63",
+"id": "7415:65805"
+},
+"Icon / lightbulb-off": {
+"key": "b99c4d9d29b0d6f2abdfa76fc7ac0bccec8d24f5",
+"id": "7415:65804"
+},
+"Icon / lightbulb": {
+"key": "9ce9dfba616445998068a5261c36d7138451dfb1",
+"id": "7415:65801"
+},
+"Icon / link-2-off": {
+"key": "cfb9bb08d5e52d416bd0d3d8684fdaa243a30960",
+"id": "7415:65800"
+},
+"Icon / link-2": {
+"key": "58dcce2208bb8f84d4b2d0687c938db38ec24072",
+"id": "7415:65799"
+},
+"Icon / link": {
+"key": "44757a2df990e8c7bc7e324114b8acdd52f2069d",
+"id": "7415:65798"
+},
+"Icon / list-check": {
+"key": "9a907bc67ce9955ccbc1d71d389c38f383317204",
+"id": "7415:65796"
+},
+"Icon / list-checks": {
+"key": "ecef9224f8a5dd538416d0e57f54cc378f56733b",
+"id": "7415:65794"
+},
+"Icon / list-collapse": {
+"key": "fd709cc9da4759aa2331f99333ca59772206fe6d",
+"id": "7415:65792"
+},
+"Icon / list-end": {
+"key": "c1c53e805763596dff8c2524aa5efe98554b7250",
+"id": "7415:65790"
+},
+"Icon / list-filter-plus": {
+"key": "07a0b77e9699b56876e534e81e96f32e3ff9fb85",
+"id": "7415:65788"
+},
+"Icon / list-minus": {
+"key": "be18c7d6f4f4efc535b1f68c3ff4b90bbfee6c16",
+"id": "7415:65786"
+},
+"Icon / list-music": {
+"key": "38883c729dfa14fed15ecfd47cecff53346ccac6",
+"id": "7415:65784"
+},
+"Icon / list-ordered": {
+"key": "3c719cdd07f74cfb16e1adceff7779e81b9391a6",
+"id": "7415:65782"
+},
+"Icon / list-plus": {
+"key": "c43a94861f440f12e448751911f6507d50a98841",
+"id": "7415:65780"
+},
+"Icon / list-restart": {
+"key": "21e8d2b7ecadad0270a22b3683dd70f093af78e3",
+"id": "7415:65778"
+},
+"Icon / list-start": {
+"key": "68e96bcb034001db4dd2f0ae1475ff9a921070dd",
+"id": "7415:65776"
+},
+"Icon / list-todo": {
+"key": "8713711ebca1f8a30ca6de541c82b1d38b69161f",
+"id": "7415:65774"
+},
+"Icon / list-tree": {
+"key": "cc71913f28929ad4a469f7805dfdbabecc8c7614",
+"id": "7415:65594"
+},
+"Icon / list-video": {
+"key": "dc50bc0dcd3cbce9cd48807db9b637b5705e811b",
+"id": "7415:65592"
+},
+"Icon / list-x": {
+"key": "212fe9a58bba1b4fd7f584f26ffdade5f8befb59",
+"id": "7415:65771"
+},
+"Icon / list": {
+"key": "8a4cb88f36dfe0a1942ac44b8f33d07a7a8f642e",
+"id": "7415:65768"
+},
+"Icon / loader-circle": {
+"key": "66879542ab0109c4196bdafa369e08a5f81902a9",
+"id": "7415:65766"
+},
+"Icon / loader-pinwheel": {
+"key": "3c421bf197263dc26cd3f39c2400ab38e04f23d7",
+"id": "7415:65764"
+},
+"Icon / locate-fixed": {
+"key": "c42e3d8d98932c22e0530fb975550bcfab0e6b45",
+"id": "7415:65762"
+},
+"Icon / locate-off": {
+"key": "c8a4cc0952981362dfb3e2c5eeb06e0b044844b2",
+"id": "7415:65760"
+},
+"Icon / locate": {
+"key": "5593199f2a3c0b48b5db278e3819de593027250a",
+"id": "7415:65758"
+},
+"Icon / location-edit": {
+"key": "a6fa74b10fed97ba7672d2705a82c5f965665016",
+"id": "7415:65756"
+},
+"Icon / lock-keyhole-open": {
+"key": "239e044c28f44713f1e2b91b07153d01f93d7503",
+"id": "7415:65754"
+},
+"Icon / lock-keyhole": {
+"key": "84fc5dae28b38d80f2ec7de026dd2d87e4d84920",
+"id": "7415:65752"
+},
+"Icon / lock-open": {
+"key": "9ba4e60944d5dea02aa0567df23e53cb2e833229",
+"id": "7415:65751"
+},
+"Icon / log-in": {
+"key": "ecb0e810462074253fd0f3de86afd0211c15bec8",
+"id": "7415:65749"
+},
+"Icon / logs": {
+"key": "719c09bafd01f799b2a1fe13ddc9e7aab47c7df1",
+"id": "7415:65747"
+},
+"Icon / lollipop": {
+"key": "988ef2a6599d67b1c9ae3f637ddb5edc0ee90e46",
+"id": "7415:65745"
+},
+"Icon / luggage": {
+"key": "810e88c9f97757173585ae514d641d85a06de496",
+"id": "7415:65744"
+},
+"Icon / magnet": {
+"key": "fbb8383111ced23764e24ecbe8e26eeace9e0564",
+"id": "7415:65743"
+},
+"Icon / mail-check": {
+"key": "8abf3f7fa9cf5669cb36ca857b452454132463a0",
+"id": "7415:65742"
+},
+"Icon / mail-minus": {
+"key": "14f2123e89fff670b393bb69fe4d8f20a043955d",
+"id": "7415:65538"
+},
+"Icon / mail-open": {
+"key": "32ae7f3e3e257538f45d7be666c45127bc862525",
+"id": "7415:65740"
+},
+"Icon / mail-plus": {
+"key": "86b6f2f8149cd43927019d3076491853b1a14766",
+"id": "7415:65739"
+},
+"Icon / mail-question": {
+"key": "4a35685ad46622ffd2e32569115aa97b27a3fa2f",
+"id": "7415:65738"
+},
+"Icon / mail-search": {
+"key": "edbb448ac429427415962b5f5c55decec8d0b66a",
+"id": "7415:65737"
+},
+"Icon / mail-warning": {
+"key": "120807084f493dad11b639e1f8588c7fb9b2895b",
+"id": "7415:66653"
+},
+"Icon / mail-x": {
+"key": "68fcf75bd9af03ac5d78b6c61951c225702d5fbf",
+"id": "7415:65736"
+},
+"Icon / mailbox": {
+"key": "350f1fc78ae1d6c230ca5f7858a426b3206d20ee",
+"id": "7415:65735"
+},
+"Icon / mails": {
+"key": "91065dd45c9f512bf72b1f8d05e48880d238c7ec",
+"id": "7415:65734"
+},
+"Icon / map-pin-check-inside": {
+"key": "863361414949f4dc54801008283765cccd6c8eed",
+"id": "7415:65733"
+},
+"Icon / map-pin-check": {
+"key": "197d3aee88687113030f6a99b1512a7f7c7a0f9c",
+"id": "7415:65535"
+},
+"Icon / map-pin-house": {
+"key": "4c553e27a9e9cde0b099cf77f8bb6c8b4999296a",
+"id": "7415:65731"
+},
+"Icon / map-pin-minus-inside": {
+"key": "702bd9c09fbd3ee1e4b9e6b1aa1df28b9a718d65",
+"id": "7415:65729"
+},
+"Icon / map-pin-minus": {
+"key": "5ee914b80d31efd15a53bf6b42ad42a610d146dc",
+"id": "7415:65727"
+},
+"Icon / map-pin-off": {
+"key": "738c874434c89d04c91ae7fd7851810cd51b810c",
+"id": "7415:65398"
+},
+"Icon / map-pin-plus-inside": {
+"key": "eb4bf93a37572e6a1ee059e75d00a63c03e29fff",
+"id": "7415:65725"
+},
+"Icon / map-pin-plus": {
+"key": "539ce78f0b5608871ac3387bd081610f4af1043b",
+"id": "7415:65724"
+},
+"Icon / map-pin-x-inside": {
+"key": "f10d85dd0b34cacd5953c41b2ad2596a3a016302",
+"id": "7415:65723"
+},
+"Icon / map-pin-x": {
+"key": "fb73a705a62c713f26769c96d032ae5e71b3f975",
+"id": "7415:65721"
+},
+"Icon / map-pinned": {
+"key": "8d7faafc0048e33b8072c8c472ae9928fe4853e8",
+"id": "7415:65717"
+},
+"Icon / map-plus": {
+"key": "ecb823be95731a34ab89dfb5bbe55b9b9e40f4bf",
+"id": "7415:65715"
+},
+"Icon / map": {
+"key": "71c607f3b97b20772e2abcdc6a938ed99e4435c6",
+"id": "7415:65714"
+},
+"Icon / mars-stroke": {
+"key": "b30bd7cfb4b9842bcbc14f084b249adbd111142b",
+"id": "7415:65712"
+},
+"Icon / mars": {
+"key": "f49ebff399d8d4f99b12f8e4615880fa7d5a1aab",
+"id": "7415:65710"
+},
+"Icon / martini": {
+"key": "b2e6a76108afe2768a8a8c82738d59aee7c1e6e3",
+"id": "7415:65708"
+},
+"Icon / maximize-2": {
+"key": "1450cd1d50188e144d080a9f0f049ab8bf4fea0a",
+"id": "7415:65706"
+},
+"Icon / maximize": {
+"key": "e8dc14b1ef34b34e594bc693cb0a24893bf6c87b",
+"id": "7415:65704"
+},
+"Icon / medal": {
+"key": "46f4f98b061c886ca3c01dcbbd360a9715da605f",
+"id": "7415:65702"
+},
+"Icon / megaphone-off": {
+"key": "9284acb6ac2d0848a12504739eaf31bb469bf9d9",
+"id": "7415:65700"
+},
+"Icon / megaphone": {
+"key": "2d2c7858a447b11f4c43f192522dbdc993bfd40d",
+"id": "7415:65698"
+},
+"Icon / meh": {
+"key": "4224af22028a1e08afd81837b7620c9acaaffdbe",
+"id": "7415:65502"
+},
+"Icon / memory-stick": {
+"key": "23948d39e3e9a7b4225bb200d04481fb9767205d",
+"id": "7415:65696"
+},
+"Icon / menu": {
+"key": "ca60d4abeaf39e87dc665076315431251fe55929",
+"id": "7415:65694"
+},
+"Icon / merge": {
+"key": "0f6b4a64b1823a5bf90d49f9b97a5b335bc327c4",
+"id": "7415:65692"
+},
+"Icon / message-circle-code": {
+"key": "41d3507ab35bdf16c5644941ffa999916a789e15",
+"id": "7415:65690"
+},
+"Icon / message-circle-dashed": {
+"key": "9bfd29aacacff8876c0a2b7b99a2036e3e96495a",
+"id": "7415:65688"
+},
+"Icon / message-circle-heart": {
+"key": "d089fcd0b1ded26f92adf424dc18023e5857fc10",
+"id": "7415:65686"
+},
+"Icon / message-circle-more": {
+"key": "b7a55bc3f3dde19031cad5c18fb8307e88e3eac6",
+"id": "7415:65429"
+},
+"Icon / message-circle-off": {
+"key": "0d4d8b78615007e9f5fcc85c3f36f427c3eaa697",
+"id": "7415:65684"
+},
+"Icon / message-circle-plus": {
+"key": "8431e0d3c32f51215d3decaad295b507f3f7f716",
+"id": "7415:65682"
+},
+"Icon / message-circle-question": {
+"key": "8ec8f983915108913a110a6782e90f30933e608b",
+"id": "7415:65680"
+},
+"Icon / message-circle-reply": {
+"key": "479c08258511b1a3471ff7c9e90eb8182f25c18c",
+"id": "7415:65678"
+},
+"Icon / message-circle-warning": {
+"key": "02cdd7259555527c801ce4c3530ac29dbac79b8d",
+"id": "7415:65676"
+},
+"Icon / message-circle-x": {
+"key": "2cb3a85b4983ecfa18f2d3da727a436a25b75426",
+"id": "7415:65674"
+},
+"Icon / message-square-code": {
+"key": "b28f102f19e84a25821f62bcdcda66007c5dac8c",
+"id": "7415:65443"
+},
+"Icon / message-square-dashed": {
+"key": "ca4b116bea8b2354564feac00f4f5cd9f66b6c34",
+"id": "7415:65670"
+},
+"Icon / message-square-diff": {
+"key": "29ba4213ab4abfdddef9113f51e2b464249c5579",
+"id": "7415:65352"
+},
+"Icon / message-square-dot": {
+"key": "035b3108f19defae74cd2fdb5d9a85a66278252e",
+"id": "7415:65666"
+},
+"Icon / message-square-heart": {
+"key": "9f5a43acf21791b9121b8922002d32193d1c16a2",
+"id": "7415:65664"
+},
+"Icon / message-square-lock": {
+"key": "370775bda54bd8b6dcd4eeb13bc164296ccf4d8d",
+"id": "7415:65662"
+},
+"Icon / message-square-more": {
+"key": "9a89306bf53829a8ae072a57e93f4a898a92f2bc",
+"id": "7415:65660"
+},
+"Icon / message-square-off": {
+"key": "c75bf09656832d594ba94b4ef590b312ad98d09d",
+"id": "7415:65529"
+},
+"Icon / message-square-plus": {
+"key": "db16b768add648024f3a1009eb9b198fef4e4b03",
+"id": "7415:65658"
+},
+"Icon / message-square-quote": {
+"key": "e2559b9c0f9e4b8bd936cf6151b8621b5428206d",
+"id": "7415:65656"
+},
+"Icon / message-square-reply": {
+"key": "7956dad684605e77b387d0822988475c26dd00c3",
+"id": "7415:65654"
+},
+"Icon / message-square-share": {
+"key": "8f323c2aa96b7b903eb377b33593420427d50de0",
+"id": "7415:65652"
+},
+"Icon / message-square-text": {
+"key": "bbab953b64c939bbd1b2f378b88c0217dea56ce4",
+"id": "7415:65650"
+},
+"Icon / message-square-warning": {
+"key": "fe1302954a148e1cc5ac00c9027ef9d6fd98213e",
+"id": "7415:65648"
+},
+"Icon / message-square-x": {
+"key": "ce368a54bfd6825437394035d5ee8d717b7aff23",
+"id": "7415:65646"
+},
+"Icon / message-square": {
+"key": "5a1590134d7c08255cccb15bf7229d45f29db86c",
+"id": "7415:65644"
+},
+"Icon / messages-square": {
+"key": "def5061a32ecbffc9d17346b039897c97f3f9705",
+"id": "7415:65642"
+},
+"Icon / mic-off": {
+"key": "3b83d77f30ac9c49fb56c3f5741e465ca9a0d7a8",
+"id": "7415:65640"
+},
+"Icon / mic-vocal": {
+"key": "0950002ee5de6d648a991116759debeb1e362baa",
+"id": "7415:65438"
+},
+"Icon / mic": {
+"key": "128a3728a163e53331ccce7c417017ce460f9c26",
+"id": "7415:65685"
+},
+"Icon / microchip": {
+"key": "2a34f5fc26fbe44c5f633f9a4b3ba2b890688599",
+"id": "7415:65683"
+},
+"Icon / microscope": {
+"key": "ff2804d3125220b4c1d7a17aad920c0f5a9add0d",
+"id": "7415:65638"
+},
+"Icon / microwave": {
+"key": "3ed8a30f1586501bcb3f99f81ede9c693cf94118",
+"id": "7415:65636"
+},
+"Icon / milestone": {
+"key": "357aa7a2b71f166d90de506fa728cce3b5664504",
+"id": "7415:65634"
+},
+"Icon / milk-off": {
+"key": "fb9bbcb6bae9b3ac27d6ab32076c4c0d4a882002",
+"id": "7415:65632"
+},
+"Icon / minimize-2": {
+"key": "35785e26dfe366eb441e56525de9ae9294a9a110",
+"id": "7415:66376"
+},
+"Icon / minimize": {
+"key": "85b7a0b35252c979a90d5e19357b52468a93e4d0",
+"id": "7415:65630"
+},
+"Icon / monitor-check": {
+"key": "17534d600771e48b06e2b5d8afcd7193ecd15c83",
+"id": "7415:65628"
+},
+"Icon / monitor-cog": {
+"key": "996101aea3d1e0b60c9b35485d665ff05e99f3c3",
+"id": "7415:65626"
+},
+"Icon / monitor-dot": {
+"key": "80149c0f86cd4a5d18e595d7c932c7732e8bed9d",
+"id": "7415:65732"
+},
+"Icon / monitor-down": {
+"key": "f18d24f85a6be450cb7bc978b90f94218ba93737",
+"id": "7415:65726"
+},
+"Icon / monitor-off": {
+"key": "d52575bfcfd26ee2000f719887c29b460c9480cb",
+"id": "7415:65624"
+},
+"Icon / monitor-pause": {
+"key": "e9edfeccf8594874fbf927b216edcca49dcce6a1",
+"id": "7415:65622"
+},
+"Icon / monitor-play": {
+"key": "5b571cb22209e60165a2ca764647d05d5037babd",
+"id": "7415:65620"
+},
+"Icon / monitor-smartphone": {
+"key": "2c1ca7f56b1662a544f99546922235809df8fd24",
+"id": "7415:66779"
+},
+"Icon / monitor-speaker": {
+"key": "51983b6b0244aa8a3d6d2aa38c96a133ff9b6381",
+"id": "7415:66798"
+},
+"Icon / monitor-stop": {
+"key": "8cd7d249b9d3ab17d0d3b2435365aa2a50b84af6",
+"id": "7415:66209"
+},
+"Icon / monitor-up": {
+"key": "50f250d6205574ef305e6ae3b9100a125d8657ba",
+"id": "7415:65625"
+},
+"Icon / monitor-x": {
+"key": "0a2621f4356f3af13cc21393b8d33e3e2fdb2312",
+"id": "7415:65619"
+},
+"Icon / monitor": {
+"key": "e6aa3caaf3b0467c59755f49c02a0cc1fa934326",
+"id": "7415:65617"
+},
+"Icon / moon-star": {
+"key": "cd4112ea6da27e799df407852a8b2ace5fd956b4",
+"id": "7415:66207"
+},
+"Icon / moon": {
+"key": "90433526f11e2b83b1f24d4292354434c1cd3f62",
+"id": "7415:66204"
+},
+"Icon / mountain-snow": {
+"key": "65b2c1af75788e8af7ec9e2b539f2d70ab3ffd0d",
+"id": "7415:65615"
+},
+"Icon / mountain": {
+"key": "445324422896470237e4ff68d643faff6ad603e8",
+"id": "7415:65613"
+},
+"Icon / mouse-off": {
+"key": "47114fc430c233c8d9c3c8ec77bce5e9dde370af",
+"id": "7415:65611"
+},
+"Icon / mouse-pointer-2": {
+"key": "9f41d49ba327565c19168d9d0efe171b8f63383e",
+"id": "7415:65609"
+},
+"Icon / mouse-pointer-ban": {
+"key": "6d5134791b124d86ec4e03c094a798ff0b6c270f",
+"id": "7415:65607"
+},
+"Icon / mouse-pointer-click": {
+"key": "cf1e4104ad5bb893abc0d2c22c16380c301f7a7a",
+"id": "7415:65605"
+},
+"Icon / mouse-pointer": {
+"key": "ae18379f3e58826edff716902c2987372386a3f9",
+"id": "7415:65603"
+},
+"Icon / mouse": {
+"key": "46a07b86da3ba80a4e8aa3963eedb246f892689c",
+"id": "7415:65600"
+},
+"Icon / move-diagonal-2": {
+"key": "8f0368587572bb9b1bfe35a0f0ad3f20d41aaa06",
+"id": "7415:65595"
+},
+"Icon / move-diagonal": {
+"key": "8e157e8a84b67951b3bfad373985f302c6aac20d",
+"id": "7415:65593"
+},
+"Icon / move-down-left": {
+"key": "fd88fcbf85477d7b67a5b3aad016b2d989803634",
+"id": "7415:65591"
+},
+"Icon / move-down-right": {
+"key": "cfd1d67842506f5e88ee2949bbad85f0b83bf8df",
+"id": "7415:65589"
+},
+"Icon / move-down": {
+"key": "a4f4484f08c6a58efde77ba3f0bb587dfcba2281",
+"id": "7415:65588"
+},
+"Icon / move-horizontal": {
+"key": "43c3a55b08f4713697782c2c53d5964491a4da5e",
+"id": "7415:66261"
+},
+"Icon / move-left": {
+"key": "a4abe3f8407de8b82468c1e95bf0f507ff9c97cc",
+"id": "7415:66143"
+},
+"Icon / move-right": {
+"key": "86ad97034c73bb470b4acaabc2cb94ac158b65cb",
+"id": "7415:66243"
+},
+"Icon / move-up-left": {
+"key": "c21777db4a36b755b2e02476917aeb10dc3ce64e",
+"id": "7415:65587"
+},
+"Icon / move-up-right": {
+"key": "b0e6172965a43babcf9bfc762619f1fed9fe353a",
+"id": "7415:65586"
+},
+"Icon / move-up": {
+"key": "8ab7a0703158dbfb9adeb1fef80f48ca68c8b7a7",
+"id": "7415:66117"
+},
+"Icon / move-vertical": {
+"key": "5b6125ba5e20d57bb1cbcdcbfc827d04d5c8317c",
+"id": "7415:66255"
+},
+"Icon / move": {
+"key": "f4fb63aab9859820a606c03ec4ca3c748416ec34",
+"id": "7415:66135"
+},
+"Icon / music-2": {
+"key": "0bc23ea7aa1b79521d9d708a23d227ba6757c8f0",
+"id": "7415:66254"
+},
+"Icon / music-3": {
+"key": "125683e00a0131db3204360e61a3b5258a64f5cb",
+"id": "7415:66764"
+},
+"Icon / music-4": {
+"key": "6cc4b4af60eefdbef03d34a5843b381695997bd1",
+"id": "7415:66251"
+},
+"Icon / music": {
+"key": "e42fd3986edd8a3ae84121d88abdd57b40dd501f",
+"id": "7415:65968"
+},
+"Icon / navigation-2-off": {
+"key": "d52a3e9b1b1f8f3f7df5da454180d47ad780a1b1",
+"id": "7415:65585"
+},
+"Icon / navigation-2": {
+"key": "39dcd99fea6b631a60d066863b8b4f0c3d3302a2",
+"id": "7415:66001"
+},
+"Icon / navigation-off": {
+"key": "24417a3b172ea016e32dde737c5bf67a9021689a",
+"id": "7415:65583"
+},
+"Icon / navigation": {
+"key": "2c88744aba472ea312d10b55a72173ca3f35c763",
+"id": "7415:65581"
+},
+"Icon / network": {
+"key": "033825f4b27794306dda261ee9593548baea7929",
+"id": "7415:65999"
+},
+"Icon / newspaper": {
+"key": "5b144b8c6327c5ee1815941e6a264f6d41f10667",
+"id": "7415:65995"
+},
+"Icon / nfc": {
+"key": "b8f2d758f1e7162ccf926043a90c86dfa1e34a5b",
+"id": "7415:66227"
+},
+"Icon / non-binary": {
+"key": "29afb81194902a56bbea31cf35b4852f1b5170e3",
+"id": "7415:66225"
+},
+"Icon / notebook-tabs": {
+"key": "b38f9cecde247d73bbc456c290166444f64a1296",
+"id": "7415:66223"
+},
+"Icon / notebook-text": {
+"key": "3bf93e44f90abe2d977db85cbee64909e479d072",
+"id": "7415:65990"
+},
+"Icon / notebook": {
+"key": "43de7074005d75aaf377fafcf56fee470fcd3d6f",
+"id": "7415:65988"
+},
+"Icon / notepad-text-dashed": {
+"key": "b176ef92e08fb2bd24198c212cb575afd1007df8",
+"id": "7415:65980"
+},
+"Icon / notepad-text": {
+"key": "5801df1e5e87aed4d2a9daf565b80407057543c2",
+"id": "7415:65869"
+},
+"Icon / nut-off": {
+"key": "0227889c62827b76ef3bc0275397c03defe48125",
+"id": "7415:65579"
+},
+"Icon / nut": {
+"key": "bc7cc4682934cd4697d197822d72e9d145f6d798",
+"id": "7415:66213"
+},
+"Icon / octagon-alert": {
+"key": "d9702f19e0360d229cb46c3907ecdb563b8bc990",
+"id": "7415:66211"
+},
+"Icon / octagon-minus": {
+"key": "c48e28d95e7d472f4e09a0ef2a0958e43e600956",
+"id": "7415:65627"
+},
+"Icon / octagon-pause": {
+"key": "b280351285a612316f4b01c0f462aeadb4f4d178",
+"id": "7415:65578"
+},
+"Icon / octagon-x": {
+"key": "81ddb3d294b8e259b77e54cb3cc18961094f2631",
+"id": "7415:65377"
+},
+"Icon / octagon": {
+"key": "5cf9fdbbb52b354820c4bbb9b623e6adfd7cde1b",
+"id": "7415:66233"
+},
+"Icon / omega": {
+"key": "31ee74fdf6d6730fecb06c2243ffdc1e8f201d02",
+"id": "7415:66231"
+},
+"Icon / option": {
+"key": "65e626def40971d0923b78d557da5042ab607d31",
+"id": "7415:65576"
+},
+"Icon / orbit": {
+"key": "ec647861cca699df39733015636d4c4dd9d0bc2c",
+"id": "7415:66229"
+},
+"Icon / origami": {
+"key": "d4066c2f22a01179788426d29c8c73a42e02ca49",
+"id": "7415:66758"
+},
+"Icon / package-2": {
+"key": "ca10ab50277ef3a6e2864188bfe384c11b916308",
+"id": "7415:65621"
+},
+"Icon / package-check": {
+"key": "61b6899124971ce7cb1387a2c22437a02b08c8f0",
+"id": "7415:66221"
+},
+"Icon / package-minus": {
+"key": "e1fae189477f47263a0b7c7254dbd2ae088fa931",
+"id": "7415:66731"
+},
+"Icon / package-open": {
+"key": "85c154d710ecfb2056a221a516467104763cbc25",
+"id": "7415:66219"
+},
+"Icon / package-plus": {
+"key": "bd2e6df888bd52bea4faa5396d774885a69c3058",
+"id": "7415:66217"
+},
+"Icon / package-search": {
+"key": "e8f0a4f293b1d96883e1cb9c2998beec3e53e21b",
+"id": "7415:66215"
+},
+"Icon / package-x": {
+"key": "6fb33f3b761a0164b9a070761459935b2a4f849c",
+"id": "7415:66085"
+},
+"Icon / package": {
+"key": "74e097c0b9b40c008f0ccff5c4ecb8bb294efa71",
+"id": "7415:65667"
+},
+"Icon / paint-bucket": {
+"key": "770377aaaca7f66c72ae2a5f9afcef0d693417d9",
+"id": "7415:66082"
+},
+"Icon / paintbrush-vertical": {
+"key": "b09fcea134c83c8d35d9631189b3dff23eaedad8",
+"id": "7415:66102"
+},
+"Icon / paintbrush": {
+"key": "0ab021e0102c3caff433f35e5cee22f1aca38f02",
+"id": "7415:65973"
+},
+"Icon / palette": {
+"key": "8b793aa44d5530f35141962624fac4e7c1677788",
+"id": "7415:66101"
+},
+"Icon / panda": {
+"key": "5536c42e79d7fd2625137153f0405b77a20ce900",
+"id": "7415:65972"
+},
+"Icon / panel-bottom-close": {
+"key": "213778721680593359a2d42bedd720aa91db1c4c",
+"id": "7415:66184"
+},
+"Icon / panel-bottom-dashed": {
+"key": "ac806dd5e401c643f221943aa3d718a9374c1cd9",
+"id": "7415:65598"
+},
+"Icon / panel-bottom-open": {
+"key": "7331a3e4149ee313368ba3cbf3caa3c800da3cff",
+"id": "7415:65574"
+},
+"Icon / panel-bottom": {
+"key": "d99c779506f86606341cc0dfb2028a06bc6813b9",
+"id": "7415:66093"
+},
+"Icon / panel-left-dashed": {
+"key": "819509bfca570eafc7705970c2da13f671dce6c0",
+"id": "7415:66090"
+},
+"Icon / panel-right-close": {
+"key": "e7aa22bc59edc362d57a4f4431ef0de944dff624",
+"id": "7415:66089"
+},
+"Icon / panel-right-dashed": {
+"key": "13ea8f1f26037f0c7d04c195bf28f1e2d8c71ce5",
+"id": "7415:66086"
+},
+"Icon / panel-right-open": {
+"key": "c24387e8275903f1444f5f0828e18089e1aa4441",
+"id": "7415:65668"
+},
+"Icon / panel-right": {
+"key": "962d9ca20d072700ff93e25227d75baa44d9893e",
+"id": "7415:65571"
+},
+"Icon / panel-top-close": {
+"key": "d10208d9cbca4b1b9e2f57af21b90a72ee03e8cb",
+"id": "7415:65569"
+},
+"Icon / panel-top-dashed": {
+"key": "096c68ac2b659946f8019e8da542f8208ac37bb1",
+"id": "7415:66174"
+},
+"Icon / panel-top-open": {
+"key": "7d78b6243fa84d5be529055c3f2709330d6ca89c",
+"id": "7415:65618"
+},
+"Icon / panel-top": {
+"key": "6a9c414ea84ccafefce977808e5f06fa86effe03",
+"id": "7415:66192"
+},
+"Icon / panels-left-bottom": {
+"key": "b1060b87fcb931b098a1da18055822385a460d44",
+"id": "7415:65802"
+},
+"Icon / panels-right-bottom": {
+"key": "43c89594e2e08735a5db53dcdbdabbe2c0ffb174",
+"id": "7415:66185"
+},
+"Icon / panels-top-left": {
+"key": "b128aff817403f6bc11e43c32e1fbacc9bbfa73f",
+"id": "7415:65601"
+},
+"Icon / paperclip": {
+"key": "1511079f1b7ab8dbc05ae388200f26d641df7553",
+"id": "7415:65567"
+},
+"Icon / parentheses": {
+"key": "e08a3e5a8c7f0c41c07ea4bd813b3aa833c2f316",
+"id": "7415:66170"
+},
+"Icon / parking-meter": {
+"key": "a467c37d439b35b799b95a8e31a6918b7c2d59af",
+"id": "7415:65565"
+},
+"Icon / party-popper": {
+"key": "d226b7a72d8bd27f64cf151287a5374bf64c92fa",
+"id": "7415:66182"
+},
+"Icon / pause": {
+"key": "622a5a15e324735c98dd0e8ee9804d5dac176b11",
+"id": "7415:65563"
+},
+"Icon / pc-case": {
+"key": "357c875d7242eb897f03632bc08be55cf4e9b563",
+"id": "7415:65557"
+},
+"Icon / pen-line": {
+"key": "88295d1079331b35124c2124965efcaca90f0a46",
+"id": "7415:66179"
+},
+"Icon / pen-off": {
+"key": "93bb087151fa2a0dd25dc00d277c34c711dbed30",
+"id": "7415:65555"
+},
+"Icon / pen-tool": {
+"key": "fb50da6d214e2bb44db560319d5877eedc0d0652",
+"id": "7415:66176"
+},
+"Icon / pen": {
+"key": "f34201912323a56680eff1480818b5ed739e6ec0",
+"id": "7415:66112"
+},
+"Icon / pencil-line": {
+"key": "726f6b10186dfacbdff771cbb432fb0dfaf0e673",
+"id": "7415:66237"
+},
+"Icon / pencil-off": {
+"key": "87a89b0c5cdc2fcc70712bb7cc32fd4fca00615f",
+"id": "7415:66670"
+},
+"Icon / pencil-ruler": {
+"key": "83292b35c5d57dc52aa40f245f5377b40b160e38",
+"id": "7415:66248"
+},
+"Icon / pentagon": {
+"key": "e1aeb70a62cfb83776d5953987b8667c481551c3",
+"id": "7415:66247"
+},
+"Icon / percent": {
+"key": "58cba61cc790a0c49b8d456fa931c83b9482ea47",
+"id": "7415:66246"
+},
+"Icon / person-standing": {
+"key": "19b0e3c3c490eee857b871f475a27b6fa60ff715",
+"id": "7415:66245"
+},
+"Icon / philippine-peso": {
+"key": "a1392da4f5e5856f292a67c9adb55aa6ebb46a08",
+"id": "7415:66244"
+},
+"Icon / phone-call": {
+"key": "0501c44b019833322199d53f4424269d8257e1b4",
+"id": "7415:66107"
+},
+"Icon / phone-forwarded": {
+"key": "e6c1ff2ae0b974ea2c27ce14c07206cf69407ff7",
+"id": "7415:65984"
+},
+"Icon / phone-incoming": {
+"key": "ff24d3d73cc30b64a31023656740163ad422029e",
+"id": "7415:66106"
+},
+"Icon / phone-missed": {
+"key": "cafa3be36761c431ecf8c857514d68474c1add28",
+"id": "7415:66629"
+},
+"Icon / phone-off": {
+"key": "779a278ab6333aff3735889896141d1a892d883c",
+"id": "7415:66242"
+},
+"Icon / phone-outgoing": {
+"key": "b30cdd1664a4e81ae1dec2649980aa016755c9e3",
+"id": "7415:66638"
+},
+"Icon / phone": {
+"key": "3cf266db5ec17015f4d3401c9be4539b183130b4",
+"id": "7415:66796"
+},
+"Icon / pi": {
+"key": "5b35f9e55cc0f914f56e6329190b21ba30bf1a2f",
+"id": "7415:65979"
+},
+"Icon / piano": {
+"key": "b535896ae8ffbaa8bbaa45955ef5f63ccc213661",
+"id": "7415:65577"
+},
+"Icon / pickaxe": {
+"key": "0e9b5580d6ae14e3df94be1af9f8bc18062b1bc2",
+"id": "7415:66103"
+},
+"Icon / picture-in-picture-2": {
+"key": "1b765a35b62ee271d28de2dd12d72ff1b0ea025b",
+"id": "7415:66127"
+},
+"Icon / picture-in-picture": {
+"key": "a0c91b71ff9d465e2791c02e696b90ae0adc4c3d",
+"id": "7415:66121"
+},
+"Icon / piggy-bank": {
+"key": "05cf185d1ad7081cc868cf6fcbb23ddbe052eb2c",
+"id": "7415:66108"
+},
+"Icon / pilcrow-right": {
+"key": "9588deb225f81010371f0e124ce91ad97390edda",
+"id": "7415:66098"
+},
+"Icon / pilcrow": {
+"key": "4d9a0c44ad78c5997ccdeede9b9d25a7bbe279d7",
+"id": "7415:65552"
+},
+"Icon / pill-bottle": {
+"key": "9ebb93cb61e9c82a1e0c1d9f2c52e6deec9744c7",
+"id": "7415:66097"
+},
+"Icon / pill": {
+"key": "e1c56e26fcf5ac6604a80485ad9d72a72f5f4745",
+"id": "7415:65983"
+},
+"Icon / pin-off": {
+"key": "f31e36c24ecaffdbf3450bddb2ad9ec4ba2023a6",
+"id": "7415:66105"
+},
+"Icon / pin": {
+"key": "9a019962ddd9b450ebd222f99121b876d48e2dd8",
+"id": "7415:65982"
+},
+"Icon / pipette": {
+"key": "823627503b5a54bae58a6423330760e6f80492fe",
+"id": "7415:65551"
+},
+"Icon / pizza": {
+"key": "d278b5479cc0247169b3ea898de4f412a25b4cd4",
+"id": "7415:66124"
+},
+"Icon / plane-landing": {
+"key": "f06a20df5e98b17b0e745eba86f281ef87d00896",
+"id": "7415:66022"
+},
+"Icon / plane-takeoff": {
+"key": "f626de552d5b1b3f0036875e85a569444601962e",
+"id": "7415:66620"
+},
+"Icon / plane": {
+"key": "c70b3dca69bd1da881a9017409b62839c0e64e16",
+"id": "7415:66643"
+},
+"Icon / play": {
+"key": "a2e071d022da29207a5eb21faec6814fd4a1ed3e",
+"id": "7415:66041"
+},
+"Icon / plug-2": {
+"key": "8f0c889c94d7809cca754bf1bd85b87f0ab73925",
+"id": "7415:65480"
+},
+"Icon / plug-zap": {
+"key": "1e9176604755652883498ac9a54064776ca93bda",
+"id": "7415:65550"
+},
+"Icon / plug": {
+"key": "79a8a81f168267ce4eaec7218f2a6435fde87ff2",
+"id": "7415:65548"
+},
+"Icon / pocket-knife": {
+"key": "2429587f70ef745b5c212d22027ccd789f49d0f9",
+"id": "7415:66031"
+},
+"Icon / pocket": {
+"key": "6ed2d15edd6e1abf3d8058f1c72c7b089196c8da",
+"id": "7415:65546"
+},
+"Icon / podcast": {
+"key": "991253893e32a0b53ac657ed8c538499666aa884",
+"id": "7415:65545"
+},
+"Icon / pointer-off": {
+"key": "b0fa6b4cafea43db8ed00ec9b87e54ea8b7eef2c",
+"id": "7415:66634"
+},
+"Icon / pointer": {
+"key": "6636a6afd9670e018cfdb539750993849364d704",
+"id": "7415:66615"
+},
+"Icon / popcorn": {
+"key": "7f82003c2c44f2066e0ff00766384ad95386ea7b",
+"id": "7415:66177"
+},
+"Icon / popsicle": {
+"key": "acb0548438d6a052fbb8246ca6cbde345f9635af",
+"id": "7415:65544"
+},
+"Icon / pound-sterling": {
+"key": "c9c790736e2ada82e41fa6f00cd365f936508b95",
+"id": "7415:66625"
+},
+"Icon / power-off": {
+"key": "c291c534bf603036cd5d792a3d2e636d707e3cac",
+"id": "7415:65542"
+},
+"Icon / power": {
+"key": "3fb15d74949301548a7515c8498689fa914add41",
+"id": "7415:66071"
+},
+"Icon / printer-check": {
+"key": "f9d3ee73994b84a0749d17d5f0b01b447fcbd914",
+"id": "7415:66069"
+},
+"Icon / printer": {
+"key": "0c99d9963f1ba2ab7a0bd9b5710f7416b3b3056a",
+"id": "7415:66726"
+},
+"Icon / projector": {
+"key": "1b3a8490390496ecd30f3f40f5bad54175dcfb4a",
+"id": "7415:66081"
+},
+"Icon / proportions": {
+"key": "9f61a355d0d6e476376024dd8014738cbdd402ce",
+"id": "7415:66078"
+},
+"Icon / puzzle": {
+"key": "8ce3fecae554402d6acbf2904f29a4597089369a",
+"id": "7415:66617"
+},
+"Icon / pyramid": {
+"key": "f41a181685753385207199b03bcb35a96a97ef04",
+"id": "7415:66075"
+},
+"Icon / qr-code": {
+"key": "918eac41c712fbbe7637368406efed5c31387740",
+"id": "7415:66553"
+},
+"Icon / quote": {
+"key": "c3c838593c604d8b3449218f46a8de578dd3cba7",
+"id": "7415:66064"
+},
+"Icon / rabbit": {
+"key": "f72d3fc9b0e31546e8a33aafd55e41fbd5a7e43d",
+"id": "7415:66728"
+},
+"Icon / radar": {
+"key": "b2602e0d53aa89c406bbed3136b28ef2b66409c7",
+"id": "7415:66555"
+},
+"Icon / radiation": {
+"key": "c5183a557fbb71c3611aa2f9588ce2db40e5c880",
+"id": "7415:65540"
+},
+"Icon / radical": {
+"key": "b34f32dd362bd252cc0a8b0f2eb8f6a3d2e1f748",
+"id": "7415:65537"
+},
+"Icon / radio-receiver": {
+"key": "40520d5fa107054d92eddaf311395d7d4a84a24b",
+"id": "7415:66549"
+},
+"Icon / radio-tower": {
+"key": "2bc5d64335e8a7edbccb73cceed6035fb39c4403",
+"id": "7415:65534"
+},
+"Icon / radio": {
+"key": "3b3a0f0a2fdde88660f55504a42c32ae91e69ff7",
+"id": "7415:65533"
+},
+"Icon / radius": {
+"key": "158aaaacb89ede12e2bddfe10fbe28240f1e2665",
+"id": "7415:66659"
+},
+"Icon / rail-symbol": {
+"key": "c2808a95102a24ffd153300a24fe5ebd9dc84fd4",
+"id": "7415:65532"
+},
+"Icon / rainbow": {
+"key": "de48b727802e6c900b954ef3d3bcc1baca9ddcb6",
+"id": "7415:65531"
+},
+"Icon / rat": {
+"key": "1b3db4b1c4c57d3c3b41eea6c7f60693fc031a85",
+"id": "7415:66664"
+},
+"Icon / ratio": {
+"key": "00e9f2b51543deb722305486bba535f9ec94ba3b",
+"id": "7415:65528"
+},
+"Icon / receipt-cent": {
+"key": "98c0998d0806e95207792c6c2580744272e4a0df",
+"id": "7415:66354"
+},
+"Icon / receipt-euro": {
+"key": "4ba83ba31ca2893eafc669d2974a1e95ed9b4777",
+"id": "7415:65526"
+},
+"Icon / receipt-indian-rupee": {
+"key": "f215a106d2d614ac62a33f7981f2b11d9178007b",
+"id": "7415:66409"
+},
+"Icon / receipt-japanese-yen": {
+"key": "56a33d8676954518e02b5a031a465188695e9954",
+"id": "7415:66332"
+},
+"Icon / receipt-pound-sterling": {
+"key": "383a64552623ef9785ff213fee1c257f198c8f5e",
+"id": "7415:65524"
+},
+"Icon / receipt-swiss-franc": {
+"key": "9d49ed1d4185a323d903444e7316af6388989016",
+"id": "7415:66781"
+},
+"Icon / receipt-text": {
+"key": "e5022630b33277db59ffa48566933e33d9f3bfe5",
+"id": "7415:66517"
+},
+"Icon / receipt": {
+"key": "a85a3a1aaefcde39b3610967089444dad2976233",
+"id": "7415:66678"
+},
+"Icon / rectangle-ellipsis": {
+"key": "c5f0ae98c432cee6c9c93a8c341e904307f81679",
+"id": "7415:65963"
+},
+"Icon / rectangle-goggles": {
+"key": "9ba37676cda928ad354255e1f352a28635a60326",
+"id": "7415:66073"
+},
+"Icon / rectangle-horizontal": {
+"key": "244f527b180a82181ec1e0e74268f649f469e809",
+"id": "7415:66802"
+},
+"Icon / rectangle-vertical": {
+"key": "b0168ce4821ecf5b4651d85695843914a36c928a",
+"id": "7415:65523"
+},
+"Icon / recycle": {
+"key": "22b0f710690a9d89142abdf64d75d81fd761dd6f",
+"id": "7415:65521"
+},
+"Icon / redo-2": {
+"key": "015ce971dd7a25f75c11a0a97cc9a3506e5fc58f",
+"id": "7415:65520"
+},
+"Icon / redo-dot": {
+"key": "e6194691fb6bfa23828b79280e6638c5d83823de",
+"id": "7415:65961"
+},
+"Icon / redo": {
+"key": "1d4859842f9ae8e50b6352c383c06c83fffaa695",
+"id": "7415:66628"
+},
+"Icon / refresh-ccw-dot": {
+"key": "2367e6e8af143efd533106650a512376c445ddaf",
+"id": "7415:65519"
+},
+"Icon / refresh-ccw": {
+"key": "997971ad35765ca0483657c5a128a32c6aebd61e",
+"id": "7415:66252"
+},
+"Icon / refresh-cw-off": {
+"key": "8ff9dd2666452b3f54817b4290ade4ce0513c14b",
+"id": "7415:65584"
+},
+"Icon / refresh-cw": {
+"key": "7c63e3f6b274e2bac6904a6963603cee7a10cc0b",
+"id": "7415:65516"
+},
+"Icon / refrigerator": {
+"key": "5082b14adfb9d7f5102758da7db62bfc0494d06e",
+"id": "7415:66584"
+},
+"Icon / regex": {
+"key": "4ee436c8fa8c1d74f78ecc1767d48eae2aa9b577",
+"id": "7415:66768"
+},
+"Icon / remove-formatting": {
+"key": "79e75d95c1d58da53137040d84d4ac6bd456d060",
+"id": "7415:65515"
+},
+"Icon / repeat-1": {
+"key": "b0fb90a7e1b04c2c52511b356c6857aa418d88d2",
+"id": "7415:65514"
+},
+"Icon / repeat-2": {
+"key": "48ea6fc1b96462c3342d729b413705c1c268cc13",
+"id": "7415:66599"
+},
+"Icon / repeat": {
+"key": "4ab1094aaca346fca95b77385dbabdc641134133",
+"id": "7415:66738"
+},
+"Icon / replace-all": {
+"key": "72111fa577e34f610a9b41d2fbbd341975990f49",
+"id": "7415:66384"
+},
+"Icon / replace": {
+"key": "fe2b3fcdb6181817f06639edc1eb19b2fd1f7608",
+"id": "7415:65513"
+},
+"Icon / reply-all": {
+"key": "5109b5dc6071dbb91845f0f25ff8be1d703099da",
+"id": "7415:65512"
+},
+"Icon / reply": {
+"key": "e822c308bbeaa493f687a3de98a04d14426cd9b5",
+"id": "7415:65837"
+},
+"Icon / ribbon": {
+"key": "eec312288eb8b45267a8d72f37f652097817f8ba",
+"id": "7415:66447"
+},
+"Icon / rocket": {
+"key": "5c5c1d0b27dd656b889236d2991d4c26ae852146",
+"id": "7415:66048"
+},
+"Icon / rocking-chair": {
+"key": "1880bde8d8ff18debb57c0e4498e61088386011d",
+"id": "7415:65511"
+},
+"Icon / roller-coaster": {
+"key": "5590ff4f9e0b5b47548ded39e4fc6e700c95180c",
+"id": "7415:66381"
+},
+"Icon / rotate-3d": {
+"key": "defb51cf45aa125f3e1eaa68ca9a4d6b4df54e23",
+"id": "7415:66598"
+},
+"Icon / rotate-ccw-key": {
+"key": "93a6a6e17dee872f2f713daef848dc41c5c7b936",
+"id": "7415:66415"
+},
+"Icon / rotate-ccw-square": {
+"key": "f1c3654a3766c50cd9bf03a3c2c7ed30e075806c",
+"id": "7415:65510"
+},
+"Icon / rotate-ccw": {
+"key": "79722300358bfe248170da98dbddad99eba8f467",
+"id": "7415:66639"
+},
+"Icon / rotate-cw-square": {
+"key": "d673410ffc4f76085ca9fd3380e180eb42d16d85",
+"id": "7415:65509"
+},
+"Icon / rotate-cw": {
+"key": "6dcbd7bd2d31a897f0475f67f783719c93a0de96",
+"id": "7415:66043"
+},
+"Icon / route-off": {
+"key": "731bb63328ddeda7391cd50c4caf9115725524b8",
+"id": "7415:65508"
+},
+"Icon / route": {
+"key": "ee4557bbce15cce2dd2842c456c1f7f753985e5e",
+"id": "7415:65937"
+},
+"Icon / router": {
+"key": "ea7889b04d4b60876c23a9e7a5e8cc9d2167700d",
+"id": "7415:66058"
+},
+"Icon / rows-2": {
+"key": "1f84059502ffb8fbe164525155350403ed0d0b53",
+"id": "7415:66057"
+},
+"Icon / rows-3": {
+"key": "7178047f1a4e6b81144060901429ba78d01570a0",
+"id": "7415:66515"
+},
+"Icon / rows-4": {
+"key": "aafbd68bc002233ad03fa0cfce27c8264b91d1c2",
+"id": "7415:65944"
+},
+"Icon / rss": {
+"key": "c8bc366758ff3d2afb9d870ac7a7239254057423",
+"id": "7415:66049"
+},
+"Icon / ruler-dimension-line": {
+"key": "88f74723e65c6a47a6e5cd9cedf7851e4f403c7e",
+"id": "7415:66027"
+},
+"Icon / ruler": {
+"key": "41c3db41762fc1a7e8ed3c2fcd0ac2ead8077a47",
+"id": "7415:65612"
+},
+"Icon / russian-ruble": {
+"key": "9ca07762f919ab375eaa1f0b99f0445f9e2c9097",
+"id": "7415:66751"
+},
+"Icon / sailboat": {
+"key": "0749b9c066bf6e75ceb2457121cf07ba8cae8ea8",
+"id": "7415:65610"
+},
+"Icon / salad": {
+"key": "14654f49a31561ea55e7cd376bbc34545493c8d3",
+"id": "7415:66052"
+},
+"Icon / sandwich": {
+"key": "03e092a23fcc3b5fbe4154ad0406c3452c905077",
+"id": "7415:65941"
+},
+"Icon / satellite-dish": {
+"key": "50245be8fc0d575de4a3584b1c4bd08b77fcc9a2",
+"id": "7415:65506"
+},
+"Icon / satellite": {
+"key": "5a35c0a2693d69551bff735dae95ae83871879c7",
+"id": "7415:65505"
+},
+"Icon / save-all": {
+"key": "42476af226aa2b45c17ed6aa58640c9217e4eec3",
+"id": "7415:65939"
+},
+"Icon / save-off": {
+"key": "931afa34763de4653415ae77a11d7ba60b2059f8",
+"id": "7415:66046"
+},
+"Icon / save": {
+"key": "34bc58fc5ee4c89b2a11a2ff977d9535b23f1632",
+"id": "7415:66616"
+},
+"Icon / scale-3d": {
+"key": "0023cdd5a6120a7a3bc99cec3f8f44cc7ac2b377",
+"id": "7415:66627"
+},
+"Icon / scale": {
+"key": "162bbb9b9e4e12dbf0d76e3eceb5743058075616",
+"id": "7415:65504"
+},
+"Icon / scaling": {
+"key": "ae8167c7f8c1edd808093ab6561723b6ef250965",
+"id": "7415:65772"
+},
+"Icon / scan-barcode": {
+"key": "5484f2d79605614b775c0eb3114e252ea8375839",
+"id": "7415:65911"
+},
+"Icon / scan-eye": {
+"key": "e6f4e0cde957e345d7ced13e2e540270db452239",
+"id": "7415:65769"
+},
+"Icon / scan-face": {
+"key": "97a365fef34e1edc843d5bc0fdf59d487ece8772",
+"id": "7415:66671"
+},
+"Icon / scan-heart": {
+"key": "ebbb168372a99c5d88d583e3302493c41618e789",
+"id": "7415:65951"
+},
+"Icon / scan-line": {
+"key": "6d7b02b92faac60b4cc985b90d0a593d5c963f7b",
+"id": "7415:65943"
+},
+"Icon / scan-qr-code": {
+"key": "037d8da441c2c0b6d7bb888bd896b75f5e8bf5c1",
+"id": "7415:65558"
+},
+"Icon / scan-search": {
+"key": "8866985c9b492caea3b16df1f2e9bbdb07de5277",
+"id": "7415:66736"
+},
+"Icon / scan-text": {
+"key": "d2b1f3e7d69e9c924846cb4befe38ce30627eceb",
+"id": "7415:66012"
+},
+"Icon / scan": {
+"key": "b84c058804d1fab1797073a8f0723c59f70085a2",
+"id": "7415:65501"
+},
+"Icon / school": {
+"key": "a3166961983aa0b423aea7da1d44152a0709bc85",
+"id": "7415:66539"
+},
+"Icon / scissors-line-dashed": {
+"key": "4f316a3b11f22ac632372d862e2458a6a1c5f82a",
+"id": "7415:65919"
+},
+"Icon / scissors": {
+"key": "1cc3b40a737e460fb167e38cd5e6e43aa071e6ed",
+"id": "7415:65499"
+},
+"Icon / screen-share-off": {
+"key": "8c3151364ec7d6dd9b0da066572aa95565f637ee",
+"id": "7415:65497"
+},
+"Icon / screen-share": {
+"key": "0f9a3eedc3a4f5c6803a45e3db8af1977b961259",
+"id": "7415:65495"
+},
+"Icon / scroll-text": {
+"key": "5d7263b803dd6c25939eed67466db882cb92865d",
+"id": "7415:66014"
+},
+"Icon / scroll": {
+"key": "64025aa4704f87a346e0b1df7e0c00ef75238b29",
+"id": "7415:65493"
+},
+"Icon / search-check": {
+"key": "2c74e484881e52b3b7fbf8f468e6a3da4f33d335",
+"id": "7415:65491"
+},
+"Icon / search-code": {
+"key": "761f5a1334f1052025c990d5bcff19b0e661a64b",
+"id": "7415:65489"
+},
+"Icon / search-slash": {
+"key": "b8ee2a624b5549f53a7bb0d498b1aa7fc23585a4",
+"id": "7415:65487"
+},
+"Icon / section": {
+"key": "db6d3cfcc7f6c1e2f36e20c253e0bb4143bdaa17",
+"id": "7415:65483"
+},
+"Icon / send-horizontal": {
+"key": "52f471817a42fe5dd60fba2c7605cc21ccc83a45",
+"id": "7415:65481"
+},
+"Icon / send-to-back": {
+"key": "f7d375391eab8762854632d14c46f462b0d6a684",
+"id": "7415:65479"
+},
+"Icon / separator-horizontal": {
+"key": "d3c7ee01b35689c9113ad0faf788b00d3149d7d9",
+"id": "7415:65477"
+},
+"Icon / separator-vertical": {
+"key": "03cf23012275d7c365a33a2d8b839059c21f96e1",
+"id": "7415:66715"
+},
+"Icon / server-cog": {
+"key": "a46f083a47813a579080fe11ec340ee2adbb1159",
+"id": "7415:65475"
+},
+"Icon / server-crash": {
+"key": "c22ecb863fc8e87948a0eff91005391da4c63cd5",
+"id": "7415:65473"
+},
+"Icon / server-off": {
+"key": "2448398e57ae15d143308cae18d51161a1a25824",
+"id": "7415:65471"
+},
+"Icon / server": {
+"key": "57d3bf0df7db0929ea79734c13457f62478bb71f",
+"id": "7415:65859"
+},
+"Icon / settings-2": {
+"key": "d5f2dd589f19c39506826c1fdeb030ea7b45c5c7",
+"id": "7415:66507"
+},
+"Icon / settings": {
+"key": "5fd43f9cc36efc6d4057e7c64a766d4d204c15ef",
+"id": "7415:65469"
+},
+"Icon / shapes": {
+"key": "e7a9e74b95e66121f9d70afc21916ead41c6a64b",
+"id": "7415:65468"
+},
+"Icon / share-2": {
+"key": "71dabcb6f5fb31165cb814e0200cbb5abc8ee811",
+"id": "7415:65416"
+},
+"Icon / share": {
+"key": "8fb00095bd577403302d96ffcd1605bfb2e629cb",
+"id": "7415:66334"
+},
+"Icon / sheet": {
+"key": "3616fd75e6f03837887280f99388ff360004dcb0",
+"id": "7415:66240"
+},
+"Icon / shell": {
+"key": "45e1035019824e28768f85aaf2acc024913132b7",
+"id": "7415:66523"
+},
+"Icon / shield-ban": {
+"key": "a7348b8cec00d24aa3b85a34fb26a4fe686c9ee5",
+"id": "7415:65466"
+},
+"Icon / shield-check": {
+"key": "ff71a0a2338a3cf86eb2ad4def3bb3ec2eee3390",
+"id": "7415:65464"
+},
+"Icon / shield-ellipsis": {
+"key": "f34cb613a3e9084adbb6a49d050dd62c80f0823f",
+"id": "7415:65462"
+},
+"Icon / shield-half": {
+"key": "e655646af0330a6ec3acc387cc0f3ab3741d0d9c",
+"id": "7415:65460"
+},
+"Icon / shield-minus": {
+"key": "973db83e666394253b48efefd4737f2b953cf2f8",
+"id": "7415:65459"
+},
+"Icon / shield-off": {
+"key": "29d1e9f63e5ee53bc8142e1a889096bde6c3873c",
+"id": "7415:65458"
+},
+"Icon / shield-plus": {
+"key": "2457dabfabf1f3468095afb8eac8807f34b26c6d",
+"id": "7415:65456"
+},
+"Icon / shield-question": {
+"key": "559f4fc8dab27a542e60673b673232fa5ba13f5d",
+"id": "7415:65454"
+},
+"Icon / shield-user": {
+"key": "889306d5f3d1f4bae65498b65fb9c0b49212b859",
+"id": "7415:65522"
+},
+"Icon / shield": {
+"key": "bf1fe21b634bbbf525e029c9506996657be57ae1",
+"id": "7415:65451"
+},
+"Icon / ship-wheel": {
+"key": "6f2e2aac714cab629c4eaa5ba01402796641dac1",
+"id": "7415:65450"
+},
+"Icon / ship": {
+"key": "16a374561643695e20f1d712e379bfc1fc6473c6",
+"id": "7415:65448"
+},
+"Icon / shirt": {
+"key": "cf692ae9512c236a6ff2596bfa1c3214faa1290c",
+"id": "7415:65446"
+},
+"Icon / shopping-bag": {
+"key": "3458eb363d4c5f1a790b45d4e2fc9f54a8adaf2a",
+"id": "7415:65445"
+},
+"Icon / shopping-basket": {
+"key": "20d7e17d4a9f9898ef328e0281a2feff572c5ac5",
+"id": "7415:66558"
+},
+"Icon / shopping-cart": {
+"key": "b3bf1259ed23723504d5d9d4ca75cc0cbabad168",
+"id": "7415:65442"
+},
+"Icon / shovel": {
+"key": "788293e897103b2812d103c42f37b70734263532",
+"id": "7415:65657"
+},
+"Icon / shower-head": {
+"key": "af7f9daef165ed43b67ee31b8f6790f6352e2199",
+"id": "7415:65655"
+},
+"Icon / shredder": {
+"key": "009ae6062c7d4b16965937a0b0b32921adedff7b",
+"id": "7415:65211"
+},
+"Icon / shrimp": {
+"key": "6165f21f9ba142d3b357b92f7f37cd7d3acbb159",
+"id": "7415:65209"
+},
+"Icon / shrink": {
+"key": "7eb9cbfa366169729c008755b844aa4230c9ec1f",
+"id": "7415:65444"
+},
+"Icon / shrub": {
+"key": "df349dbf818be528276374adbce20e0d9bbfd002",
+"id": "7415:65647"
+},
+"Icon / shuffle": {
+"key": "1c2def7302df096900a3d880268d53f5644f6783",
+"id": "7415:65645"
+},
+"Icon / sigma": {
+"key": "f10277b2bae775fb65de63de6f047f2de8936e9d",
+"id": "7415:65641"
+},
+"Icon / signal-high": {
+"key": "26cfd150a0b2f60e925fd2711f19d94d2708c661",
+"id": "7415:65530"
+},
+"Icon / signal-low": {
+"key": "7629c57eadc86436f1abd56f626930012bbb9675",
+"id": "7415:66350"
+},
+"Icon / signal-medium": {
+"key": "96e46d7f05a1857f9f9a6af60248f0a6e79b8eca",
+"id": "7415:65340"
+},
+"Icon / signal-zero": {
+"key": "a6f76f08b0f634b8888171bb40cc7ce12dd930d0",
+"id": "7415:65635"
+},
+"Icon / signal": {
+"key": "8414a2856670395a44a997d55ed91ea99910c1b8",
+"id": "7415:65440"
+},
+"Icon / signature": {
+"key": "37b0a86ee9d4cfbc5390cdbac367bed19b5aa74a",
+"id": "7415:65437"
+},
+"Icon / signpost-big": {
+"key": "69e467fa21fd71c9479839b4e5a39aa78eeeef98",
+"id": "7415:66519"
+},
+"Icon / signpost": {
+"key": "a457602bf5ce5463082777f834eb3cf1a0df8910",
+"id": "7415:65631"
+},
+"Icon / siren": {
+"key": "d3a8b3431ef9ef380bc0389286169b3ccf7e159a",
+"id": "7415:65629"
+},
+"Icon / skip-back": {
+"key": "f9e3e23dd3835c4608104fe9db353f05c3ffe5c1",
+"id": "7415:65623"
+},
+"Icon / skull": {
+"key": "2351da7faabb8fb3e68d2660b1febd42530fb3a3",
+"id": "7415:65575"
+},
+"Icon / slack": {
+"key": "279de8df5f0fbc4bf211b376f92400b7c220d188",
+"id": "7415:65651"
+},
+"Icon / slice": {
+"key": "02ccbbc77c5e33fa481d8b85163207beec940706",
+"id": "7415:65695"
+},
+"Icon / sliders-horizontal": {
+"key": "87f079ed9100678d5a3e20e7112cfd99657c7755",
+"id": "7415:66551"
+},
+"Icon / sliders-vertical": {
+"key": "8ac832270e52325a71880290208ecbc49e09ee91",
+"id": "7415:65263"
+},
+"Icon / smartphone-charging": {
+"key": "614c720d31a2921b84343b83227f4d2d4886fe5f",
+"id": "7415:65439"
+},
+"Icon / smartphone-nfc": {
+"key": "2101d5619ba89295f69c540ab7a105ddb10266b4",
+"id": "7415:65395"
+},
+"Icon / smartphone": {
+"key": "42cd6c3f58dcb2d35993c89b2c54cf6ba545c17c",
+"id": "7415:65781"
+},
+"Icon / smile-plus": {
+"key": "98e9ee6788d62094338aac0c0da3abd3b10c127c",
+"id": "7415:65777"
+},
+"Icon / smile": {
+"key": "4b730f2ef37e88dbcc42937f945be512f48cbdb0",
+"id": "7415:65773"
+},
+"Icon / snail": {
+"key": "e642300a7f9097a0cf213548981e40d35fb123e3",
+"id": "7415:65795"
+},
+"Icon / snowflake": {
+"key": "d49d1630c9733b6fb4433520e17c3b9b968008c4",
+"id": "7415:65753"
+},
+"Icon / soap-dispenser-droplet": {
+"key": "a1cd3f7131f781bf89ff8dc82ccefb153ee86fc1",
+"id": "7415:65903"
+},
+"Icon / sofa": {
+"key": "868fa0165a34ea7e2d525cdde116e70dbb3986da",
+"id": "7415:66109"
+},
+"Icon / soup": {
+"key": "57dde436ceffaab8ad4161c8741f29321c13fd00",
+"id": "7415:65931"
+},
+"Icon / space": {
+"key": "9b539b8d55960e10ec2ecc4bce28b3d16ae66fa1",
+"id": "7415:65434"
+},
+"Icon / spade": {
+"key": "4161a477819a4a4b8852de5d4912f3fb16eaec1c",
+"id": "7415:65616"
+},
+"Icon / sparkle": {
+"key": "275cfd50541aaaa70e8c8ee987d534a3dcde6e3b",
+"id": "7415:66564"
+},
+"Icon / sparkles": {
+"key": "55396ccf11e21c50ff7dbef2ef35500c76b2b731",
+"id": "7415:65539"
+},
+"Icon / speaker": {
+"key": "8622eb59af87184b5e2c4c40162179d71dc0e082",
+"id": "7415:66588"
+},
+"Icon / speech": {
+"key": "8d6bc312d6dbe9e938987991b7058afd797d8b59",
+"id": "7415:65432"
+},
+"Icon / spell-check-2": {
+"key": "71a16c0f66d920e713a970e2b062edf49767118e",
+"id": "7415:65431"
+},
+"Icon / spell-check": {
+"key": "6d051fb2273df1bd57fed574523fade8c3e31570",
+"id": "7415:65428"
+},
+"Icon / spline-pointer": {
+"key": "6680efe0c9e4cfa9e258f0ba94bdad72068c75bb",
+"id": "7415:65518"
+},
+"Icon / spline": {
+"key": "90490653173eff41fdc3178725c47f60804b8736",
+"id": "7415:65427"
+},
+"Icon / spray-can": {
+"key": "5df09e73a580385db8a7fec2fd9dc574d14ba585",
+"id": "7415:66404"
+},
+"Icon / sprout": {
+"key": "ab3f397a1524263112883294a06e27fd69e3ebf4",
+"id": "7415:65536"
+},
+"Icon / square-activity": {
+"key": "f97ba08cd386e9264c3f57eab2a0a7bdb9a4e2d8",
+"id": "7415:65426"
+},
+"Icon / square-arrow-down-left": {
+"key": "b937ff63d20637be5c1af8135e73dc5dd19ad2de",
+"id": "7415:66580"
+},
+"Icon / square-arrow-down-right": {
+"key": "06169c8a96b0486afbe8691d95e886817c6d7a2b",
+"id": "7415:66398"
+},
+"Icon / square-arrow-down": {
+"key": "7b74fbf13c0aeb397d1c257089fcf57cca77d5e7",
+"id": "7415:65433"
+},
+"Icon / square-arrow-left": {
+"key": "4ed9d09898d7154e0a59ffe5f62eb487429495d9",
+"id": "7415:65928"
+},
+"Icon / square-arrow-out-down-left": {
+"key": "116c99f703e600243d47bca2ddf20b063b96b626",
+"id": "7415:66389"
+},
+"Icon / square-arrow-out-down-right": {
+"key": "826db781d2104bfe08677cfced9e228b257a19d6",
+"id": "7415:65425"
+},
+"Icon / square-arrow-out-up-left": {
+"key": "9f13ce0dc3184bc6d6f2e26e1d6746bb2010b8d0",
+"id": "7415:65424"
+},
+"Icon / square-arrow-out-up-right": {
+"key": "8761114f63900079e0b3293a9e39b1e78915b511",
+"id": "7415:65423"
+},
+"Icon / square-arrow-right": {
+"key": "4d5b666ec0aa9e009a4447a4d6bc58e70db6dab3",
+"id": "7415:65422"
+},
+"Icon / square-arrow-up-left": {
+"key": "85600837c0154591a5baafe1ea9ae123ad4ba41b",
+"id": "7415:65421"
+},
+"Icon / square-arrow-up-right": {
+"key": "3817cc327f5951d7601d1c9965d9f4fd24894f86",
+"id": "7415:66529"
+},
+"Icon / square-arrow-up": {
+"key": "671c47dd052d64505ef694be9f50f574b2987097",
+"id": "7415:65418"
+},
+"Icon / square-asterisk": {
+"key": "c0845ef14a36a76908c1a2454ef5e363493579bd",
+"id": "7415:65417"
+},
+"Icon / square-bottom-dashed-scissors": {
+"key": "ce90c1f65648bedf2089536daf1e29d8cb593416",
+"id": "7415:65463"
+},
+"Icon / square-chart-gantt": {
+"key": "ffb0ffe3952d80eb6b4d04330dba59931e149758",
+"id": "7415:65457"
+},
+"Icon / square-check-big": {
+"key": "1ee90b62c737fbf72d442d01f3fca81bcf7632a8",
+"id": "7415:65415"
+},
+"Icon / square-check": {
+"key": "45be276270047c050b37955179c7757ce7c136cd",
+"id": "7415:65412"
+},
+"Icon / square-chevron-down": {
+"key": "da47c331cd0a68630d6ea716be983daa5ce92e33",
+"id": "7415:65409"
+},
+"Icon / square-chevron-left": {
+"key": "4dfc4aba35caf4b94df9d610dbf21892871d2694",
+"id": "7415:65730"
+},
+"Icon / square-chevron-right": {
+"key": "a04589645a595f327a0b1a416890928abf7d547b",
+"id": "7415:65755"
+},
+"Icon / square-chevron-up": {
+"key": "279373c51cb1e38485af63a61487c5f2c1b9aedd",
+"id": "7415:65665"
+},
+"Icon / square-code": {
+"key": "75612d4e9228000648c18f18c644445f32163c80",
+"id": "7415:65215"
+},
+"Icon / square-dashed-bottom": {
+"key": "812c22d07287fde8ebbe1be4179b4ea0021ec028",
+"id": "7415:65659"
+},
+"Icon / square-dashed-kanban": {
+"key": "b43da8a9399023f22998731192a855ce668bdff1",
+"id": "7415:65892"
+},
+"Icon / square-dashed-mouse-pointer": {
+"key": "e0301560a46a09a046c61126bda5c824c34fc0cd",
+"id": "7415:65767"
+},
+"Icon / square-dashed-top-solid": {
+"key": "9c228443432e752b25cba7441944e9d1e3c85a0d",
+"id": "7415:65908"
+},
+"Icon / square-divide": {
+"key": "5052de6ef0d495e8e51c397a2baf2974213217ec",
+"id": "7415:66128"
+},
+"Icon / square-dot": {
+"key": "befec0f90b0ac40c0b6cfcff062fca1aa05def1b",
+"id": "7415:65406"
+},
+"Icon / square-equal": {
+"key": "e381d9cf5081f527f25ac3d4bc03f0da7df4bdf6",
+"id": "7415:65405"
+},
+"Icon / square-function": {
+"key": "a2a47673a66cd0804854f8f2de9176d34dc662c0",
+"id": "7415:65404"
+},
+"Icon / square-kanban": {
+"key": "cac719a720912282681b9938bcaf402320a1a160",
+"id": "7415:65906"
+},
+"Icon / square-library": {
+"key": "1094ebcee6224299f3248292528d96a8c7827994",
+"id": "7415:66585"
+},
+"Icon / square-m": {
+"key": "dc70ba930b23ddd3f52c37eefb84b9e8b15389ad",
+"id": "7415:65886"
+},
+"Icon / square-menu": {
+"key": "05b56c404292bd0056687c0bda9541ad8b587b9a",
+"id": "7415:65403"
+},
+"Icon / square-minus": {
+"key": "fc82e72b2b926717c4122f251b3db0087863c88c",
+"id": "7415:65402"
+},
+"Icon / square-mouse-pointer": {
+"key": "941eb51771d73dd55ed87f1bc701505637b51165",
+"id": "7415:65401"
+},
+"Icon / square-parking-off": {
+"key": "55adc4b23d0e2c3d96201b6a3fb07241fe2bab16",
+"id": "7415:65718"
+},
+"Icon / square-parking": {
+"key": "329f96a1825a48a920e227fa8d00c305c5ec53fa",
+"id": "7415:65884"
+},
+"Icon / square-pen": {
+"key": "915a0db98a7f0dba146f1b5ae595b71b810aca2e",
+"id": "7415:65877"
+},
+"Icon / square-percent": {
+"key": "a678cc25c9f6082962a45a33e4d610d32a095d3c",
+"id": "7415:65882"
+},
+"Icon / square-pi": {
+"key": "c3d80bc741169b82c2ec1031432874f5f193caa0",
+"id": "7415:65399"
+},
+"Icon / square-pilcrow": {
+"key": "f4ab0aa729abade1a42b19406858967c40e2c747",
+"id": "7415:65396"
+},
+"Icon / square-play": {
+"key": "a9990fc0ca74e8bc38d84800af5e5031bb081961",
+"id": "7415:65868"
+},
+"Icon / square-plus": {
+"key": "34003861d86419938de56e65b3d397ccd9cdc474",
+"id": "7415:65865"
+},
+"Icon / square-power": {
+"key": "815fc069b27ae484893a60d1d933614878b47f96",
+"id": "7415:65863"
+},
+"Icon / square-radical": {
+"key": "3a16b68947f43a93ebddafc44890a33994589bfc",
+"id": "7415:66683"
+},
+"Icon / square-round-corner": {
+"key": "4bef24eb6fe022bdc621f6588ea3a0ac1a291eb5",
+"id": "7415:65394"
+},
+"Icon / square-sigma": {
+"key": "5d2929bab7d5ca55039e21731e44774ca68e5092",
+"id": "7415:65857"
+},
+"Icon / square-slash": {
+"key": "24ef318c478b4c5b0fd58d43fd2c356e16c5b50b",
+"id": "7415:65855"
+},
+"Icon / square-split-horizontal": {
+"key": "8d1c7ed4a99f197621756c5677929c857681d92f",
+"id": "7415:65392"
+},
+"Icon / square-split-vertical": {
+"key": "1b25d4604d624503412175d01eff7f14c7d83c51",
+"id": "7415:65720"
+},
+"Icon / square-square": {
+"key": "5656f0e63cc21aedcc936d3713fd874183911064",
+"id": "7415:65763"
+},
+"Icon / square-stack": {
+"key": "dea2cd01910a4397002d6b3187856b2c8605ef7b",
+"id": "7415:65761"
+},
+"Icon / square-terminal": {
+"key": "a3dcb4405e99a0e1ce9968d10f80d854faf734e9",
+"id": "7415:66454"
+},
+"Icon / square-user-round": {
+"key": "6cdd87a989d54157bdae9df6714e00a23e0d4d76",
+"id": "7415:65759"
+},
+"Icon / square-user": {
+"key": "8ed557fba3594f7cbcc0df9b340099d248ad486b",
+"id": "7415:66770"
+},
+"Icon / square-x": {
+"key": "62c035aefe49451f4eace4dafb15fa15b607506a",
+"id": "7415:66140"
+},
+"Icon / square": {
+"key": "12f483c70f9563d391d8779434ab13cfc5f90483",
+"id": "7415:65757"
+},
+"Icon / squares-exclude": {
+"key": "748a3611ab1beebc113f5e52f0810fff45196796",
+"id": "7415:65261"
+},
+"Icon / squares-intersect": {
+"key": "e5d6496207dc1aa0cc5b1ef40232e0cb5786ff66",
+"id": "7415:65689"
+},
+"Icon / squares-subtract": {
+"key": "44828eab91d9ebb04f715aa2679031ab12c8d0a5",
+"id": "7415:65259"
+},
+"Icon / squares-unite": {
+"key": "f564e6eb4119793bbb38279a8e7cf67a7184261e",
+"id": "7415:65687"
+},
+"Icon / squircle": {
+"key": "95069d5d9f47955b80a73bd78a9813dd5720d175",
+"id": "7415:65255"
+},
+"Icon / squirrel": {
+"key": "0dbab46f20718ded841f6d24cda803c431ebd4e9",
+"id": "7415:65420"
+},
+"Icon / stamp": {
+"key": "66d4d787a0b21e8fe07ad37ad5a1f28b1b998b74",
+"id": "7415:65253"
+},
+"Icon / star-half": {
+"key": "dec0b4c73dd222754cb6db1c8ab9fe37d562ef09",
+"id": "7415:65681"
+},
+"Icon / star-off": {
+"key": "abf4ec76ace47d3e90adcc9d6b6196955b34b129",
+"id": "7415:65251"
+},
+"Icon / star": {
+"key": "743f470b6c2fff02ad66ded6a178640375dd8190",
+"id": "7415:65249"
+},
+"Icon / step-back": {
+"key": "caaffb12ab7af1eb95bdb591ae43508870ffa28b",
+"id": "7415:65675"
+},
+"Icon / step-forward": {
+"key": "e922678a33797e0ed9102863840f7c2e0bbc2d61",
+"id": "7415:65224"
+},
+"Icon / stethoscope": {
+"key": "b594b587887ba9651f348ee18917a371ddd792ab",
+"id": "7415:65671"
+},
+"Icon / sticker": {
+"key": "c4df7f7427ae6fa097923b75695bf08e6bff3d90",
+"id": "7415:65222"
+},
+"Icon / store": {
+"key": "6bda77b9658cb2c5ac3fb0fcd426c241eb9dc256",
+"id": "7415:66132"
+},
+"Icon / stretch-horizontal": {
+"key": "1805521594733783ba7b614b901a7149f24a27bf",
+"id": "7415:65894"
+},
+"Icon / stretch-vertical": {
+"key": "63555585dc96936c8685a405a97aed30db659703",
+"id": "7415:65888"
+},
+"Icon / strikethrough": {
+"key": "94ac241a5ba56feef7ec55458c238b7c5e50e187",
+"id": "7415:65677"
+},
+"Icon / subscript": {
+"key": "b834904edf64cdbe967a3ca57393f69161f2ecb3",
+"id": "7415:65391"
+},
+"Icon / sun-dim": {
+"key": "039bac0be7e35263aaad71c47914396e3241fa55",
+"id": "7415:65389"
+},
+"Icon / sun-medium": {
+"key": "81f13053a3342777831f5ac0d774fda24257c143",
+"id": "7415:65387"
+},
+"Icon / sun-moon": {
+"key": "743860ad3f9684bbbc696d73df71178f70a7be88",
+"id": "7415:65385"
+},
+"Icon / sun-snow": {
+"key": "748f16fcf36299c342eaef1edc2540769fa7294d",
+"id": "7415:65383"
+},
+"Icon / sun": {
+"key": "6c3ef14544f6f9e070f04be040fb210cf93d6e86",
+"id": "7415:65381"
+},
+"Icon / sunrise": {
+"key": "fdc4c26bab6e03d9c66b0e6a10cc4f4b2e2524ae",
+"id": "7415:65380"
+},
+"Icon / sunset": {
+"key": "2b769714305139897738712be3fd675a4760cc1b",
+"id": "7415:65378"
+},
+"Icon / superscript": {
+"key": "f004b8c5d22ca284cc084137b7b564a725743544",
+"id": "7415:65376"
+},
+"Icon / swatch-book": {
+"key": "cff25cbe2d8dcb17200571b308c6e9c338a489da",
+"id": "7415:65374"
+},
+"Icon / swiss-franc": {
+"key": "586b0b6db024e21d95406eb8fd12c18dbee541c7",
+"id": "7415:65913"
+},
+"Icon / switch-camera": {
+"key": "f4a59ee287b38fe91d4c6bdfd33367d28334dacd",
+"id": "7415:65292"
+},
+"Icon / sword": {
+"key": "ccf08dfa2dde2dc2f7e95d0129f7e3ed34522cff",
+"id": "7415:65974"
+},
+"Icon / swords": {
+"key": "024a87f2d6d990ef130e69293150d5ae78442e62",
+"id": "7415:65436"
+},
+"Icon / syringe": {
+"key": "9532afe2612b3a29b2969c2da9140cbcc198748e",
+"id": "7415:65408"
+},
+"Icon / table-2": {
+"key": "fa2810b67ccf5b2e11d7c93581ede384e3b0ed29",
+"id": "7415:66099"
+},
+"Icon / table-cells-merge": {
+"key": "988bcbfd65dc659896bc5ab102dbb5064540f502",
+"id": "7415:65372"
+},
+"Icon / table-cells-split": {
+"key": "ef906dd030de76f9156d653fca47d1c1a0141741",
+"id": "7415:65370"
+},
+"Icon / table-columns-split": {
+"key": "37ed78377b3e37d145a17e89cbf615359f7968ba",
+"id": "7415:65368"
+},
+"Icon / table-of-contents": {
+"key": "f09262c869c672fad09df87e176d82ee9b981ef3",
+"id": "7415:66091"
+},
+"Icon / table-properties": {
+"key": "83b05a681c8dfd7a89328b7c9a7372b757276c3c",
+"id": "7415:65935"
+},
+"Icon / table": {
+"key": "d598533b2ce735a0616ef9e74caa043e1be90ca8",
+"id": "7415:65366"
+},
+"Icon / tablet-smartphone": {
+"key": "03403cdb3deab77674c768b5a0dd281a67cbdf46",
+"id": "7415:65365"
+},
+"Icon / tablet": {
+"key": "1410fbc3fb8877eab9d7905ee692e9ae1a19a0cf",
+"id": "7415:65364"
+},
+"Icon / tablets": {
+"key": "8ff955362667ed48c354c717cb75275eda568361",
+"id": "7415:65363"
+},
+"Icon / tag": {
+"key": "1c945ae227c08c05f7022a4063ecfdf1e0be7658",
+"id": "7415:65362"
+},
+"Icon / tags": {
+"key": "bcf455ae8063fe43b84fef71d644a92eb9958962",
+"id": "7415:65669"
+},
+"Icon / tally-1": {
+"key": "af0fcf8c8453b6b4ba943dd0a74060330fedd11c",
+"id": "7415:65361"
+},
+"Icon / tally-2": {
+"key": "e681a1eeeecebccdac4f2be74c4d15b75f59765a",
+"id": "7415:65360"
+},
+"Icon / tally-3": {
+"key": "cb4f969d35dd628605c9aac67ded94e0937b0f7f",
+"id": "7415:65359"
+},
+"Icon / tally-4": {
+"key": "8e669357662a3d23749e4f84d309872f3e42948f",
+"id": "7415:65358"
+},
+"Icon / tally-5": {
+"key": "f446ad2431cddf95f4506ca8daae936afb9ae05e",
+"id": "7415:65414"
+},
+"Icon / tangent": {
+"key": "f1f5516f1965caaed707c5598d166a858fe79846",
+"id": "7415:65357"
+},
+"Icon / target": {
+"key": "e5335fc52176bfb6f12ec8b7665f483178986c95",
+"id": "7415:65356"
+},
+"Icon / telescope": {
+"key": "c7894e11a004cd1b4fc92b723242401e1c153341",
+"id": "7415:65355"
+},
+"Icon / tent-tree": {
+"key": "4a9bae278cce74c7b768bcc3e07ce7d66b08b613",
+"id": "7415:65354"
+},
+"Icon / tent": {
+"key": "c20f12645e595a44742872873ee6c667f963757b",
+"id": "7415:65353"
+},
+"Icon / terminal": {
+"key": "1013967946789b293255fa42b5a3703baee010f4",
+"id": "7415:65350"
+},
+"Icon / test-tube-diagonal": {
+"key": "80f37891a111f9942df6934af2588c7fa03996f9",
+"id": "7415:65349"
+},
+"Icon / test-tube": {
+"key": "14ca854df59ad58372024aef6865806e5ddfddac",
+"id": "7415:65348"
+},
+"Icon / test-tubes": {
+"key": "4519e5a3c2cef84c632e5cde130d282b5ccb2446",
+"id": "7415:65347"
+},
+"Icon / text-cursor-input": {
+"key": "6fa0be2e609e8fdf44171d0a6d02ca285be616f1",
+"id": "7415:65346"
+},
+"Icon / text-cursor": {
+"key": "cfc83afc203fe0f63e85b36636db40e5ec8b43f6",
+"id": "7415:65345"
+},
+"Icon / text-quote": {
+"key": "f5d191a7bb689b90919f53e65473889958b0d040",
+"id": "7415:66083"
+},
+"Icon / text-search": {
+"key": "f4c8cd9fab60e7afc5ccbe61e82b5b9e1d67430b",
+"id": "7415:65977"
+},
+"Icon / text-select": {
+"key": "8e47d71770a8029d80accf2c33bee9d835f22588",
+"id": "7415:66193"
+},
+"Icon / theater": {
+"key": "2fb9956cfdce8f86eedd3f1a1341ec770abe68d7",
+"id": "7415:65343"
+},
+"Icon / thermometer-snowflake": {
+"key": "4d505054c5088df637c18837567afe99e63b2032",
+"id": "7415:66186"
+},
+"Icon / thermometer-sun": {
+"key": "5eb7334e4e2dfd7466ff7f63cd9a9fc054f1bd8e",
+"id": "7415:65602"
+},
+"Icon / thermometer": {
+"key": "d4161107e8c97afd1c8a3b36cca7669096b6adac",
+"id": "7415:65572"
+},
+"Icon / thumbs-down": {
+"key": "b514e7746be23c4ac4458e020b83b260673844b9",
+"id": "7415:65541"
+},
+"Icon / thumbs-up": {
+"key": "f8c8b9d8a754c383bc61c8b7e590a3c07289a369",
+"id": "7415:65341"
+},
+"Icon / ticket-check": {
+"key": "0d207a50b7f0365b8c1fedb738727bd5f71bc049",
+"id": "7415:65339"
+},
+"Icon / ticket-minus": {
+"key": "fd3d941cda75be72b75cf6a86fe67355161f53e0",
+"id": "7415:65337"
+},
+"Icon / ticket-percent": {
+"key": "db54cec838faf8893984dd435b9b5e315028786e",
+"id": "7415:65335"
+},
+"Icon / ticket-plus": {
+"key": "095c07217526f4cd5b62c79544e66708f8b03fa2",
+"id": "7415:65333"
+},
+"Icon / ticket-slash": {
+"key": "f542897f6b9d2ea24bedd30c997f11a77823d602",
+"id": "7415:65494"
+},
+"Icon / ticket-x": {
+"key": "640aa8bfb1aadb4b80e039058ef320f176de1218",
+"id": "7415:65331"
+},
+"Icon / ticket": {
+"key": "47620738a2550dd39823cb17c236587be558808f",
+"id": "7415:65329"
+},
+"Icon / tickets-plane": {
+"key": "31a5e62ff42706e7839fa7feb7d50f018872be46",
+"id": "7415:65327"
+},
+"Icon / tickets": {
+"key": "0f9a4ca137257fd29958163a64bea9e3d917a96d",
+"id": "7415:65325"
+},
+"Icon / timer-off": {
+"key": "8bdb63bf792f9f3cc062155ae4028977704ad9dd",
+"id": "7415:65500"
+},
+"Icon / timer-reset": {
+"key": "ee9bedd339c938afe658db31b63dff5945bbea35",
+"id": "7415:65323"
+},
+"Icon / timer": {
+"key": "b7ee7cd1f84062c7fe31d4f673a3b3a27abf9c4f",
+"id": "7415:65321"
+},
+"Icon / toggle-left": {
+"key": "494baf43482be1a082d6a9398232e3af0bc0cceb",
+"id": "7415:65319"
+},
+"Icon / toggle-right": {
+"key": "8d3cfef3bec963dac84ef27fb676fed679466c89",
+"id": "7415:65317"
+},
+"Icon / toilet": {
+"key": "b1579a012e39f7d70a1f7f7709486e59b3f02071",
+"id": "7415:65315"
+},
+"Icon / tornado": {
+"key": "764977e2f34fb3d9b35060b5dbc7163ebba6bc21",
+"id": "7415:65313"
+},
+"Icon / torus": {
+"key": "408472c2ca0d529d366b44ce9ea3d60a486f47d9",
+"id": "7415:65311"
+},
+"Icon / touchpad-off": {
+"key": "d68b35aebb0b3432ca50b151d0fadabbbd937ebb",
+"id": "7415:65309"
+},
+"Icon / touchpad": {
+"key": "3b965b553a4e23dcf26aeaddb833e3a8971d838f",
+"id": "7415:65307"
+},
+"Icon / toy-brick": {
+"key": "632d8806c0d6d889254e31dfcd6f369f25b25013",
+"id": "7415:65303"
+},
+"Icon / tractor": {
+"key": "cb4efbb3c3d89c08ec586e26af607275188a64be",
+"id": "7415:65301"
+},
+"Icon / traffic-cone": {
+"key": "02d6f29078538fe24d9b44ccc9d21d102d4ee768",
+"id": "7415:65299"
+},
+"Icon / train-front-tunnel": {
+"key": "ffe2f60c55c7a710ab8896080e04daac1adf186c",
+"id": "7415:65297"
+},
+"Icon / train-front": {
+"key": "cbf54d14955eb962f1b8c01cb6c8e78205560edb",
+"id": "7415:65295"
+},
+"Icon / train-track": {
+"key": "bfbb2e92d97ea91ee6b8c6c479c6436fdde4ca4a",
+"id": "7415:65879"
+},
+"Icon / tram-front": {
+"key": "d126ac79fd0ddea72d433999ace2dcb752325472",
+"id": "7415:65293"
+},
+"Icon / transgender": {
+"key": "ed0f8c7dce0b0f9acdcabcdd52bbba07fc8bd85f",
+"id": "7415:65711"
+},
+"Icon / trash-2": {
+"key": "22495c6c3186a0ad256d1c387ce697ba72e800c8",
+"id": "7415:66038"
+},
+"Icon / tree-deciduous": {
+"key": "d9989bf269ce904c26252605519acd207b3282e0",
+"id": "7415:65244"
+},
+"Icon / tree-palm": {
+"key": "dd22a35bdc81f89b77119d8cb3ec483f566bc808",
+"id": "7415:65279"
+},
+"Icon / tree-pine": {
+"key": "49cd046b830b85c87da15ad8d46e70c670cd573b",
+"id": "7415:65573"
+},
+"Icon / trees": {
+"key": "3eb43a75ff7bd2e6b9ef8b9bd091801990592fa8",
+"id": "7415:65562"
+},
+"Icon / trello": {
+"key": "a2864c693fa712f78aad267ae9f7cf26266cce1a",
+"id": "7415:65554"
+},
+"Icon / trending-down": {
+"key": "9d4b55cb95410f231d5a5c5ca62e8972ecda657f",
+"id": "7415:65570"
+},
+"Icon / trending-up-down": {
+"key": "267cc7f131986c2e08c6875b9cfeee760ed28483",
+"id": "7415:65568"
+},
+"Icon / triangle-alert": {
+"key": "f144e430e13423f20fd5ae2d7aa4b3931edd2206",
+"id": "7415:65709"
+},
+"Icon / triangle-dashed": {
+"key": "dac60535bc23fd810cd5fbe6fe3b08c7819dc146",
+"id": "7415:65290"
+},
+"Icon / triangle-right": {
+"key": "ef7682ef3fb3510a66b43f15354a2bfbd12ea24f",
+"id": "7415:65566"
+},
+"Icon / triangle": {
+"key": "2166681202c6ae4ee89f114f198d6cfd25db356d",
+"id": "7415:65564"
+},
+"Icon / trophy": {
+"key": "90c62c4487f57fda091feb9ecbbcda09004957f6",
+"id": "7415:65289"
+},
+"Icon / truck-electric": {
+"key": "483921aa4a81fc077ec3af9e07ce4b96052c66cb",
+"id": "7415:65390"
+},
+"Icon / truck": {
+"key": "41247756527a9103b7d0b535b84e731368336b17",
+"id": "7415:65288"
+},
+"Icon / turtle": {
+"key": "e63af286b5b2f92d73175eee6281f09c4bd76c98",
+"id": "7415:65287"
+},
+"Icon / tv-minimal-play": {
+"key": "c96b5cb40820cb7dd50f6bff746c36168c9453fd",
+"id": "7415:65286"
+},
+"Icon / tv": {
+"key": "2f25efcfc29a06c844a71b4b9b9ebb079cfc3908",
+"id": "7415:65707"
+},
+"Icon / twitch": {
+"key": "1aaa13dc638103bcfdfd5f3622b0f4f56014aa19",
+"id": "7415:65285"
+},
+"Icon / twitter": {
+"key": "d44ddbcba4e0a243273906b48b42e1b3da8eb424",
+"id": "7415:65284"
+},
+"Icon / type-outline": {
+"key": "68386bc77f4a8165668072b05136202b65c910d1",
+"id": "7415:65283"
+},
+"Icon / type": {
+"key": "bc4a4636aea267c13319ba0096424d608582c0fd",
+"id": "7415:65282"
+},
+"Icon / umbrella-off": {
+"key": "21d6ea4775b8451614011c353cb0f0e8753d5c46",
+"id": "7415:65281"
+},
+"Icon / umbrella": {
+"key": "0770aa774533cd86fa37d3894e395f7f93664db5",
+"id": "7415:65275"
+},
+"Icon / underline": {
+"key": "a47ffb9d0af4ae10382dbbe5e7b666917bc35c0d",
+"id": "7415:65705"
+},
+"Icon / undo-2": {
+"key": "6cdfa291f87c74a0b5886862a9a1de92a6450904",
+"id": "7415:65280"
+},
+"Icon / undo-dot": {
+"key": "ed250c5a8ab6c583f7ed28800641595d1c4ec5fa",
+"id": "7415:65278"
+},
+"Icon / undo": {
+"key": "a900a2d1591d751c292661fb9928528c46c0ee7d",
+"id": "7415:65276"
+},
+"Icon / unfold-horizontal": {
+"key": "e57b76a4c16185deb4a3ff40e4e757f8e9d6c539",
+"id": "7415:65274"
+},
+"Icon / unfold-vertical": {
+"key": "81de05bbd7134b96b48dd15e1e1ae2f4393529b5",
+"id": "7415:65273"
+},
+"Icon / ungroup": {
+"key": "b00a7046037d857ec5bc85ca6e3cd742db93f9e0",
+"id": "7415:65272"
+},
+"Icon / university": {
+"key": "27d921b6dff6ea14b0c22bbe592a1f04aa0b1585",
+"id": "7415:65270"
+},
+"Icon / unlink-2": {
+"key": "246ab216adec7cf3528b612b3325de52377b3bf6",
+"id": "7415:65268"
+},
+"Icon / unlink": {
+"key": "a4d7f22f96f1615e19e7d4f44e01a58aadc5b7b3",
+"id": "7415:65266"
+},
+"Icon / unplug": {
+"key": "3ad91f3eb0faf6ad5f82241973819b828ee2a595",
+"id": "7415:65703"
+},
+"Icon / upload": {
+"key": "f7ebcf95a88d7e080066affa9ed84ad89dcad2dd",
+"id": "7415:65264"
+},
+"Icon / usb": {
+"key": "575985f1b5f4e48f5d4cf22f57da86aa2f4711a4",
+"id": "7415:65262"
+},
+"Icon / user-check": {
+"key": "6f63e18e57f453a187c7aaee97f41b0d861797ff",
+"id": "7415:65260"
+},
+"Icon / user-cog": {
+"key": "a0bd70141837ef895ad4840ed2d2eee15fa8b927",
+"id": "7415:65258"
+},
+"Icon / user-lock": {
+"key": "1c348073c0a7e3ede94f00801fac064037f19903",
+"id": "7415:65256"
+},
+"Icon / user-minus": {
+"key": "52b8ba28bceba4153506d9cad69b1fbeb3ce40d7",
+"id": "7415:65701"
+},
+"Icon / user-pen": {
+"key": "5b22c7a251745f72b8d27240816e88419829f980",
+"id": "7415:65254"
+},
+"Icon / user-round-check": {
+"key": "8ff0536ba0fa1200c0d4e3fe4f6f503ffb4d09ab",
+"id": "7415:65250"
+},
+"Icon / user-round-cog": {
+"key": "f5ccfe5dfd5fa902ff5335c696968aaceed3ac1e",
+"id": "7415:65248"
+},
+"Icon / user-round-minus": {
+"key": "6ebf814de004bdef7b04415e4f299e3809c5e47c",
+"id": "7415:65713"
+},
+"Icon / user-round-pen": {
+"key": "cdda02b57cfb5a3a13382e8b8401764c8b1af613",
+"id": "7415:65271"
+},
+"Icon / user-round-plus": {
+"key": "50d137fc002486b3ff9b0dc5016c0b9b38555744",
+"id": "7415:65449"
+},
+"Icon / user-round-search": {
+"key": "6c62078cfe90c975323171517cc2d25e0b72e5ca",
+"id": "7415:65441"
+},
+"Icon / user-round-x": {
+"key": "636812aabe89ecacdcbff7a34beaf405bbe733c0",
+"id": "7415:65246"
+},
+"Icon / user-round": {
+"key": "68bcfd975cb9d83e0f0ce3baa5c34e0daf9c2eda",
+"id": "7415:65238"
+},
+"Icon / user-search": {
+"key": "ed1bd70c3d49e506760b9d41b276cc7b608def0b",
+"id": "7415:65697"
+},
+"Icon / user-x": {
+"key": "6abc91cbfa1099c5be3255f108067cac308cbf92",
+"id": "7415:65507"
+},
+"Icon / users-round": {
+"key": "f1ba7b8d82bcfff854b9f4398c7bfb89c8fa9953",
+"id": "7415:65549"
+},
+"Icon / users": {
+"key": "d9d51d0dc00f83f5b98f9b92122812203e8d2e8c",
+"id": "7415:65245"
+},
+"Icon / utensils-crossed": {
+"key": "f1ae07a98b64bb7fa967b4e4e467c9c07f049450",
+"id": "7415:65243"
+},
+"Icon / utensils": {
+"key": "edab87cb4821808d363c089db733601b7826f91a",
+"id": "7415:65242"
+},
+"Icon / utility-pole": {
+"key": "6ac720dd8c385fc6fef306be52009c7b6e96a041",
+"id": "7415:65793"
+},
+"Icon / variable": {
+"key": "c175977abaa8e3def5edb3029afd68e6ada2fa43",
+"id": "7415:65547"
+},
+"Icon / vault": {
+"key": "7212aefa42c6c49ce7f07ef7cfda34d26433843a",
+"id": "7415:65241"
+},
+"Icon / vegan": {
+"key": "e23b205c39d0cf558639f4e0b88375febf4a9bcc",
+"id": "7415:65239"
+},
+"Icon / venetian-mask": {
+"key": "36d436979a422d1e8f43678076b143287c3de462",
+"id": "7415:65237"
+},
+"Icon / venus-and-mars": {
+"key": "b46c633480f27ff1d76c516ae387ca510c03471d",
+"id": "7415:65235"
+},
+"Icon / venus": {
+"key": "f51cb97398d9443c44369c13eca6d081d1e8c3d9",
+"id": "7415:65543"
+},
+"Icon / vibrate-off": {
+"key": "987d960cc0a22bf1b41b4421fed826930f2bd534",
+"id": "7415:65233"
+},
+"Icon / vibrate": {
+"key": "f1ad45cf4418404863c691b92547f0b78ef5bc50",
+"id": "7415:65231"
+},
+"Icon / video-off": {
+"key": "e7a89e7f3b1e54a64f1f12b53c858dd12a66ad48",
+"id": "7415:65411"
+},
+"Icon / video": {
+"key": "71bad6b8845127482a13f87667074062404bc9d0",
+"id": "7415:66094"
+},
+"Icon / view": {
+"key": "b8f623945d8797b882a57c07dbc8d6d3d5ca7c6f",
+"id": "7415:65291"
+},
+"Icon / voicemail": {
+"key": "5d82b94659d166ea9ffcce0f3ff4750367abb072",
+"id": "7415:65351"
+},
+"Icon / volleyball": {
+"key": "4e5236aa5836736cce9c595a49153f28654eea58",
+"id": "7415:65397"
+},
+"Icon / volume-1": {
+"key": "f128415aa90c6854514e12ac980e5816b641ab7d",
+"id": "7415:65229"
+},
+"Icon / volume-2": {
+"key": "0124d09f944b93122a6fa9014edfb1f2935cb31f",
+"id": "7415:65227"
+},
+"Icon / volume-off": {
+"key": "c25303a06e5359243a6379ed7a49bbd55fc6ce33",
+"id": "7415:66800"
+},
+"Icon / volume-x": {
+"key": "444d6d24107cf2623e36f3269306fce06bfc2076",
+"id": "7415:65225"
+},
+"Icon / volume": {
+"key": "525de726586f7cf8fd44e0a349ea38fd75da3329",
+"id": "7415:65223"
+},
+"Icon / vote": {
+"key": "28b4993a736bc10e56732d5d9a92e7f7b9446f47",
+"id": "7415:65221"
+},
+"Icon / wallet-cards": {
+"key": "cdb1b36a9af5b56e5fca16f79db4f9877d1f08e9",
+"id": "7415:65219"
+},
+"Icon / wallet-minimal": {
+"key": "9a0949ede7bb8c780c5300556329bfa96bf1a0d1",
+"id": "7415:65217"
+},
+"Icon / wallet": {
+"key": "9e1a55ab1f8451d5331f0296607b05feef4d51d9",
+"id": "7415:65216"
+},
+"Icon / wallpaper": {
+"key": "94c591bc54f677fa8287b0c639951900ecd4249b",
+"id": "7415:65214"
+},
+"Icon / wand-sparkles": {
+"key": "608d4e72defb8e650fdc23fd09679261e63b691f",
+"id": "7415:65498"
+},
+"Icon / wand": {
+"key": "da8a4b813b8adecd609d4a21f574df71627a6db2",
+"id": "7415:65496"
+},
+"Icon / warehouse": {
+"key": "1a2b5608a166e93e23dfdd9273a833144f360068",
+"id": "7415:65582"
+},
+"Icon / washing-machine": {
+"key": "08e6ad18ac00599ee5500acd22c99e0d4482e583",
+"id": "7415:66266"
+},
+"Icon / watch": {
+"key": "60c5387fdf83194176e6430c740f12d69595cb3e",
+"id": "7415:65212"
+},
+"Icon / waves-ladder": {
+"key": "9db9337f33308a8e9ba2db328e70391629d0df68",
+"id": "7415:65210"
+},
+"Icon / waves": {
+"key": "2d55d2325a9358a15ee7f03890879ec55ead27c9",
+"id": "7415:65208"
+},
+"Icon / waypoints": {
+"key": "b3acd5622c8cfa243df50c8d6d9b6866ec34a222",
+"id": "7415:66125"
+},
+"Icon / webcam": {
+"key": "90e5b7e40005ac27c27e3afb37e4234764631365",
+"id": "7415:65791"
+},
+"Icon / webhook-off": {
+"key": "a1a7c8a8941c1b75ea5454b662811dcd8ac7917e",
+"id": "7415:65901"
+},
+"Icon / webhook": {
+"key": "f5c0d05bae8d368581dbf47597b84e3afa5976d9",
+"id": "7415:65873"
+},
+"Icon / weight": {
+"key": "51da09ddc7e21fc7ba253996aedbdf6d1ba85eeb",
+"id": "7415:65207"
+},
+"Icon / wheat": {
+"key": "9c9a3679dc00c6ef51ed8dfe3fa1a031f8d7e578",
+"id": "7415:65789"
+},
+"Icon / whole-word": {
+"key": "ee7fe0cbe4f9e095cb1102492ebd4e764fde2e7f",
+"id": "7415:65257"
+},
+"Icon / wifi-high": {
+"key": "3aeb224d7c3d699c7f368df4d184c1bbf053f6fd",
+"id": "7415:65503"
+},
+"Icon / wifi-low": {
+"key": "52c4c6bc415188ccfec321a8b91bca86bd6fffae",
+"id": "7415:65205"
+},
+"Icon / wifi-off": {
+"key": "31724c2f5645596ca0ab32d747bd69302474b298",
+"id": "7415:65204"
+},
+"Icon / wifi-pen": {
+"key": "1700d982b56126422e8002ad8918c5933be9d53d",
+"id": "7415:65787"
+},
+"Icon / wifi-zero": {
+"key": "7af88b9440c8ff31e0949d74321e65bc4517f33b",
+"id": "7415:65679"
+},
+"Icon / wifi": {
+"key": "6472ea1b8a0215de209c594d58db5f2dd4c1e49d",
+"id": "7415:65230"
+},
+"Icon / wind-arrow-down": {
+"key": "cef79b9a913d1882bfa2032b1d40d9522e35b0c7",
+"id": "7415:65673"
+},
+"Icon / wind": {
+"key": "bba5c50d060625ba47bf77924507d8d2019a8a7b",
+"id": "7415:65716"
+},
+"Icon / wine-off": {
+"key": "8cc097243efb618a824d30cc74d1c5c488ab0763",
+"id": "7415:65875"
+},
+"Icon / wine": {
+"key": "a8cd4f770ccb5849ca875a1119d0c73de8e797f2",
+"id": "7415:65871"
+},
+"Icon / workflow": {
+"key": "93bd4fa7a9fcecabedeabae7bb06f2654f56ceb6",
+"id": "7415:65896"
+},
+"Icon / worm": {
+"key": "15dc56bf023fc07499c7b2b0a6d1cc9df56635db",
+"id": "7415:65728"
+},
+"Icon / wrap-text": {
+"key": "4d33815025b31117037307c3169ba373767843e2",
+"id": "7415:65203"
+},
+"Icon / wrench": {
+"key": "eae234daf8a8a55af737a07beec99c4a7290f8ce",
+"id": "7415:65202"
+},
+"Icon / youtube": {
+"key": "e14a5d1278a784dfafa3ca83722f82015951dd29",
+"id": "7415:65277"
+},
+"Icon / zap-off": {
+"key": "f529e035c2555fb2e78a88968073698939b26514",
+"id": "7415:65785"
+},
+"Icon / zap": {
+"key": "6f6465c5963b3d05fa2127a4dc932d7ea24fcad5",
+"id": "7415:66029"
+},
+"Icon / zoom-in": {
+"key": "dfc6bdfc41d77c4377ab368910830769c53e1ecc",
+"id": "7415:65561"
+},
+"Icon / zoom-out": {
+"key": "f184e71bbe36b315bf13151b1df0788067d1f76a",
+"id": "7415:66180"
+},
+"Icon / gift": {
+"key": "6feddb106774881944f085be7c717d51c06e2db4",
+"id": "7415:65553"
+},
+"Icon / send": {
+"key": "6b11f962830b778742b4c81944fc4f6e53545f8b",
+"id": "7415:65201"
+},
+"Icon / plus minus": {
+"key": "9a28d329fb9c8343d60d3215feba76becba92b43",
+"id": "7415:65200"
+},
+"Icon / Radio Button": {
+"key": "84a7dbd46fb4ad8759ebe68b34264145206dd694",
+"id": "7486:3160"
+},
+"Icon / targets destroyed": {
+"key": "5b2bec87591a3521011f56069033e65e5f8dbd02",
+"id": "8193:1977"
+},
+"Icon/circle-check-filled": {
+"key": "cda52ba354544896f4a52cc7b45cce968f4fd7c4",
+"id": "7549:15309"
+},
+"Icon / panel-left-close": {
+"key": "0b7ea50966a96364f182c1eb6bb6b7036ef88fa3",
+"id": "7415:66784"
+},
+"Icon / airplay": {
+"key": "7e7008fd3e8390b13789a691480fbef81dfd1102",
+"id": "7415:66003"
+},
+"Icon / align-start-vertical": {
+"key": "7e168f6351469620750cd41d44ed79702da6a657",
+"id": "7415:66640"
+},
+"Icon / arrow-big-down-dash": {
+"key": "3f0a88d0137c19220dc6e7b313819b4aedac25ab",
+"id": "7415:65637"
+},
+"Icon / arrow-right-left": {
+"key": "250dc96e45a4e2b139a1ded408b80086256d3a3e",
+"id": "7415:66619"
+},
+"Icon / badge-cent": {
+"key": "03218bddf15d7237f2e39e6778de2cb7042a4f99",
+"id": "7415:66665"
+},
+"Icon / battery-charging": {
+"key": "bf4e376f27272dbe645c374357e506b52bcb2201",
+"id": "7415:66644"
+},
+"Icon / between-vertical-start": {
+"key": "1005b9c19382981bc5f8e1a6e425c90f5d104ff3",
+"id": "7415:66527"
+},
+"Icon / book-heart": {
+"key": "f651c4cc6cebaea84f1f49ff5a00d9ccaffb3c8e",
+"id": "7415:66547"
+},
+"Icon / box": {
+"key": "6cd21b56e7743ac75fe3501943925faf31cf6076",
+"id": "7415:66463"
+},
+"Icon / cake-slice": {
+"key": "5fe9d89cb89b34b2dac94d2fb07d33cc697f7318",
+"id": "7415:66443"
+},
+"Icon / candy-off": {
+"key": "ac7834c9aa6100233b8d65cb753fba5fbac544ef",
+"id": "7415:66419"
+},
+"Icon / chart-column-decreasing": {
+"key": "789149e3f28503aab1daed7d02777ae7838345e0",
+"id": "7415:66704"
+},
+"Icon / chevrons-right-left": {
+"key": "070a6b2e59e2ee8d851f49a61c768d7dc0845899",
+"id": "7415:66374"
+},
+"Icon / circle-fading-arrow-up": {
+"key": "88be5ac78b9eb1f0bc716ffbd0118e0fbcecd9d0",
+"id": "7415:66403"
+},
+"Icon / clipboard-copy": {
+"key": "8a8a2d58e7439081647b623b03fe82c3d621bd78",
+"id": "7415:66317"
+},
+"Icon / clock-plus": {
+"key": "fb6a43a73e14baca7c85200f7510ddf832fcc175",
+"id": "7415:66292"
+},
+"Icon / codesandbox": {
+"key": "4f98260500a57b78007c5a73678a089dec438cd5",
+"id": "7415:66268"
+},
+"Icon / copy-x": {
+"key": "1ad53b601f0c3c5d99fb2b32e3e7e4a41d0f76e8",
+"id": "7415:65220"
+},
+"Icon / database-zap": {
+"key": "1af86dd35df38cce6f15adbb0d24c55753db1d7b",
+"id": "7415:66203"
+},
+"Icon / dock": {
+"key": "210ebd88e2ff96a2c1e7a8e76569679b0a176f74",
+"id": "7415:66167"
+},
+"Icon / egg": {
+"key": "0823ff2c0336269dcc1e27a129b5966742cf5a1a",
+"id": "7415:66142"
+},
+"Icon / file-box": {
+"key": "0577d819f83f70615b41583d67d1fb96d463f5e7",
+"id": "7415:66111"
+},
+"Icon / file-output": {
+"key": "81db01acb20ae42ac3d97020961d7af6837f3d05",
+"id": "7415:66070"
+},
+"Icon / file": {
+"key": "bf2d9a2ae63e9aa6eff517bb4dc7710c049d7659",
+"id": "7415:66042"
+},
+"Icon / fold-horizontal": {
+"key": "3fb38d9ed911f9b9bb8e5ac3a7e8c3f12ef9e082",
+"id": "7415:66009"
+},
+"Icon / folder-symlink": {
+"key": "5038562fdd0bb6937d0001a61df073ce595ede4a",
+"id": "7415:65978"
+},
+"Icon / gavel": {
+"key": "2e9de65c842615e664bc4627ed3aac3d24c6f623",
+"id": "7415:65957"
+},
+"Icon / grab": {
+"key": "e78dafcfc06c8ee2945386789e42abfa994071dc",
+"id": "7415:65925"
+},
+"Icon / hard-hat": {
+"key": "cb7d15212084bcdd303f80dbe346af9cafc28d55",
+"id": "7415:65915"
+},
+"Icon / hop": {
+"key": "95d3ac5494fd9755887ccf00907e086826bbcf02",
+"id": "7415:65887"
+},
+"Icon / infinity": {
+"key": "863fd3646d079a180005d075f9135ec0098267c4",
+"id": "7415:66096"
+},
+"Icon / laptop-minimal": {
+"key": "f72a013ab21637f6866cbe5e1b8eb33585235011",
+"id": "7415:65825"
+},
+"Icon / linkedin": {
+"key": "6496f0ac7948daf82653c949a642a376d19ae47e",
+"id": "7415:65797"
+},
+"Icon / map-pin": {
+"key": "50f46d6314938e83e3de735c91cec114a5c77a08",
+"id": "7415:65719"
+},
+"Icon / message-circle": {
+"key": "fcc451b848e392a00a5e21faa8fea32164599ec1",
+"id": "7415:65672"
+},
+"Icon / milk": {
+"key": "2759b91df85950f7f13695de30d7a69cb0af58bf",
+"id": "7415:65247"
+},
+"Icon / move-3d": {
+"key": "12249ed3cc5138d256dc0d58fb0e8f49f45c029e",
+"id": "7415:65597"
+},
+"Icon / notebook-pen": {
+"key": "d92d8909ddcb94b01fda8daa7cff600f17800294",
+"id": "7415:65580"
+},
+"Icon / paint-roller": {
+"key": "a2aa9bc67d138f1dd58ada01d0c6dd8e6ef1566c",
+"id": "7415:65976"
+},
+"Icon / paw-print": {
+"key": "f096223af5d6ea2a5464395f57f7a9e558b616b9",
+"id": "7415:65560"
+},
+"Icon / pilcrow-left": {
+"key": "8688910668d9d157b0b2dbddac2325e0529b9c30",
+"id": "7415:65987"
+},
+"Icon / presentation": {
+"key": "e13ffbdb7be5d211c3ca8c6ae7158013458e2ac2",
+"id": "7415:66681"
+},
+"Icon / receipt-russian-ruble": {
+"key": "430c19f11a9d53db14f4bfffcb80d9f8eac487fa",
+"id": "7415:66198"
+},
+"Icon / rewind": {
+"key": "10b03c22e214397ca72ea400b1e5956af38903b7",
+"id": "7415:66509"
+},
+"Icon / saudi-riyal": {
+"key": "924c282812d8edddffe1b29d5a58c7cd6b7eb7fe",
+"id": "7415:65556"
+},
+"Icon / search-x": {
+"key": "4286a8e8ca13fd5eb1e037d446cb5c6ab424714f",
+"id": "7415:65485"
+},
+"Icon / shield-x": {
+"key": "e714d5e01d08dae7b4289988379386b88e7cb74e",
+"id": "7415:65452"
+},
+"Icon / skip-forward": {
+"key": "032972122da9d240dd3dc2b69b9d2b66d719119e",
+"id": "7415:66739"
+},
+"Icon / split": {
+"key": "3947978556df0c8ba9e8c58e2c170a6fed463f04",
+"id": "7415:65527"
+},
+"Icon / square-dashed-bottom-code": {
+"key": "c86440b2015117017ab523586fcc0bdf5b276d81",
+"id": "7415:65213"
+},
+"Icon / square-scissors": {
+"key": "dde4f60b40059bf06a02939335dd8d68af8f4037",
+"id": "7415:65861"
+},
+"Icon / sticky-note": {
+"key": "47517592511f50e9eda0f839c152c9fe8e1fa540",
+"id": "7415:65430"
+},
+"Icon / table-rows-split": {
+"key": "c231a27965e7aa894119d70bad4db69868564a33",
+"id": "7415:66087"
+},
+"Icon / text": {
+"key": "e87f28baf4099ab78a4841a497c12d8a668ace65",
+"id": "7415:65803"
+},
+"Icon / tower-control": {
+"key": "a1918bd2f016140edc8a9c1d573ea4046397cb97",
+"id": "7415:65305"
+},
+"Icon / tv-minimal": {
+"key": "b0337bce178e33afc01ebea207a96023cafb6047",
+"id": "7415:65525"
+},
+"Icon / user-plus": {
+"key": "e1ecf823fe07deaafcefe69804ee896f8595df1c",
+"id": "7415:65252"
+},
+"Icon / videotape": {
+"key": "ad1578a5973cb19e470282bd28782da66881a962",
+"id": "7415:65830"
+},
+"Icon / wheat-off": {
+"key": "abe2c5265b30cc80ed30ba5487d98129adff58a8",
+"id": "7415:65206"
+}
+}
